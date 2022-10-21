@@ -1,0 +1,18 @@
+---
+fip: 待分配
+标题: 标题内容
+描述: 对内容的简短描述
+状态: 生效、无效、上线、下线、草案、实施（如果是信息类型则为空）
+类型: 机制、功能、信息三个选项。
+作者: 呢称（Email）
+创建时间: YYYY-MM-DD
+---
+
+## 动机或者想法、创意等描述
+这是表述的内容
+
+## 实施细节（如产品原型、开发文档等）
+这是表述的内容、开发文档、产品原型等
+
+## 版权放弃声明
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
