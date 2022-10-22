@@ -5,9 +5,9 @@ fip: 1
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
-链接: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/FIP/fip-1.md)
 创建时间: 2022-10-22
 ---
+## Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/FIP/fip-1.md)
 
 ## 什么是 FIP？
 

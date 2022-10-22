@@ -5,9 +5,9 @@ fip: 2
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
-链接: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/FIP/fip-2.md)
 创建时间: 2022-10-22
 ---
+## Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/FIP/fip-2.md)
 
 # FreechatDAO社区介绍及治理
 
