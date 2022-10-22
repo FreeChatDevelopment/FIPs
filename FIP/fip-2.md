@@ -7,7 +7,7 @@ fip: 2
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
 ---
-## Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/FIP/fip-2.md)
+## Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
 
 # FreechatDAO社区介绍及治理
 
