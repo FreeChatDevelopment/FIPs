@@ -54,45 +54,55 @@ FreechatDAO社区通过Freechat Coin进行治理，具体权益代表如下：
 
 - **提案类型**：
 任何议题都可进行提案，提案将进行投票及公示，包括：Freechat的收益分配、权益分配、产品功能更改与研发，Freechat收费功能，新产品研发，社区预算、社区审计，资金拨付等。
+
 ## 回购、销毁、质押与收益分配
 Freechat Coin基于Freechat及FreechatDAO应用价值的代币，因此所有收入均通过智能合约进行透明化治理与分配。
+
 Freechat的基本流通体系是以USDT作为基础锚定，所有付费及收益方式均是以USDT作为清算方式。
+
 Freechat的所有收入会锚定FCC作为权益代表价值。持有FCC的用户可通过质押FCC来获得Freechat产生的收益。
+
 公式代表：
-收入=X
-社区治理成本及运营成本=Y
-净收入=Z
-FCC质押=G
-FCC净值=F
+- **收入=X**
+- **社区治理成本及运营成本=Y**
+- **净收入=Z**
+- **FCC质押数量=G**
+- **每FCC净值=F**
+
 收益分配的计算公式：
-X-Y=Z
-Z/G=F
+- **X-Y=Z**
+- **Z/G=F**
 
-分红时间、分红形式、质押方式和收益计算与发放：
-决策方式：社区提案决定
-释义：社区提案确定Freechat的收入分红时间，分红形式，质押形式，计算每个FCC的分红权益，并进行发放。
+#### 分红时间、分红形式、质押方式和收益计算与发放：
+###### 决策方式：社区提案决定
+###### 释义：社区提案确定Freechat的收入分红时间，分红形式，质押形式，计算每个FCC的分红权益，并进行发放。
 
-回购数量：
-决策方式：社区提案决定
-释义：社区提案决定FreechatDAO社区回购Freechat Coin的数量。
+#### 回购数量：
+###### 决策方式：社区提案决定
+###### 释义：社区提案决定FreechatDAO社区回购Freechat Coin的数量。
 
-回购定价：
-决策方式：社区提案决定
-释义：社区提案决定FreechatDAO社区回购Freechat Coin的价格。
+#### 回购定价：
+###### 决策方式：社区提案决定
+###### 释义：社区提案决定FreechatDAO社区回购Freechat Coin的价格。
 
-代币销毁：
-决策方式：社区提案决定
-释义：社区提案决定FreechatDAO社区回购Freechat Coin的价格及数量，并进行销毁。
+#### 代币销毁：
+###### 决策方式：社区提案决定
+###### 释义：社区提案决定FreechatDAO社区回购Freechat Coin的价格及数量，并进行销毁。
 
-社区收入分配比例：
-决策方式：社区提案决定
-释义：社区提案决定FreechatDAO社区获得Freechat收入的比例。
+#### 社区收入分配比例：
+###### 决策方式：社区提案决定
+###### 释义：社区提案决定FreechatDAO社区获得Freechat收入的比例。
+
 ## 相关资料
+
 社区协议条款：
 https://docs.freechat.world
+
 项目开源仓库：
 https://github.com/FreeChatDevelopment
+
 代币经济学与白皮书：
 https://docs.freechat.world/fdao-she-qu
+
 FreechatDAO社群：
 https://twitter.com/freechat_app
