@@ -10,7 +10,6 @@ fip: 1
 
 ## Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
 
-
 ## 什么是 FIP？
 
 FIP 代表Freechat改进提案。 FIP 是向社区提供信息或描述Freechat或其流程或环境的新功能的设计文档。 FIP 应提供该功能的简明技术规范和该功能的基本原理。 FIP 作者负责在社区内建立共识并记录不同意见。
