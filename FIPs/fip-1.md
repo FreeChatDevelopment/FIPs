@@ -30,9 +30,9 @@ FIP 分为三种类型：
   -  **功能下线**：经过社区提案决定FIP下线，社区开发团队将移除FIP功能，将FIP转变为下线状态。
 
 - **机制 FIP**描述围绕Freechat的流程或提议对流程（或流程中的事件、商业模式）进行更改。适用于Freechat应用以外的领域。他们可能会提出一个实施方案，但不会针对Freechat的代码库；它们通常需要社区共识；任何机制 EIP 也被视为商业决策 EIP。
-  -  **草案**：草案通过社区提案决策后，将整理为可实施的FIP文档，社区开发团队将进行技术实现或者社区执行。并转变为生效状态。
-  -  **生效**：经过社区提案决策的机制FIP为生效状态。
-  -  **无效**：经过社区提案决定废弃的机制FIP为无效状态。
+  -  **机制草案**：任何机制草案都应先进行讨论，讨论链接：[ “机制草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E6%9C%BA%E5%88%B6%E8%8D%89%E6%A1%88)，机制草案通过社区提案决策后，将整理为可实施的机制FIP文档，社区开发团队将进行技术实现或者社区执行。并转变为生效状态。
+  -  **生效**：经过社区提案决策并通过的机制FIP为生效状态。
+  -  **无效**：经过社区提案决策并通过的需要废弃的机制FIP为无效状态。
 
 - **信息 FIP**描述Freechat设计问题，或向FreechatDAO社区提供一般指南或信息，但不提出新功能。信息 EIP 不一定代表FreechatDAO社区的共识或建议，因此用户和实施者可以自由地忽略信息 FIP 或听从他们的建议。
 
@@ -47,6 +47,8 @@ FIP 分为三种类型：
 
 ## FIP 流程图
 FIP 执行的流程图
+
+![FIP Status Diagram](../assets/fip-1/FIP-1流程图.png)
 
 
 ## 成功的FIP应包含什么？
@@ -68,7 +70,7 @@ FIP 执行的流程图
 ## FIP的文件格式
 每个FIP文件格式必须为Markdown文件，方便进行阅读和使用。
 可使用模版进行快速编辑：
-#### 模版：[eip-template](..eip-template.md)
+#### 模版：[eip-template](https://github.com/FreeChatDevelopment/FIPs/eip-template.md)
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
