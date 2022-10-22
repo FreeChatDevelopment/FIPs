@@ -7,6 +7,7 @@ fip: 1
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
 ---
+## Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/FIP/fip-1.md)
 
 ## 什么是 FIP？
 
@@ -55,7 +56,7 @@ FIP 执行的流程图
 每个FIP应该包含以下内容：
 
 #### 前言
-包含FIP编号、标题、描述、状态、类型、作者、创建时间元素。
+包含FIP编号、标题、描述、状态、类型、作者、链接、创建时间元素。
   -  时间格式为：（YYYY-MM-DD）
   -  作者格式为： 呢称（Email）
 
