@@ -31,5 +31,8 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Jack Long|CEO|无|100,000,000 FCC|36个月|2,777,778 FCC|2个月|在职|
 |Danny Guo|CTO|无|50,000,000 FCC|36个月|1,388,889 FCC|2个月|在职|
+|Mia|发言人|无|- FCC|36个月|- FCC|1个月|在职|
 |Lily|UI|无|- FCC|36个月|- FCC|1个月|在职|
 |wx|UI|无|- FCC|36个月|- FCC|2个月|在职|
+|np|Dev|无|- FCC|36个月|- FCC|2个月|在职|
+|Joy|Dev|无|- FCC|36个月|- FCC|2个月|在职|
