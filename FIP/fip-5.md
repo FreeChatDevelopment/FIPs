@@ -7,3 +7,5 @@ fip: 4
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
 ---
+
+## Freechat Github Fips: [FIP-5](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-5.md)

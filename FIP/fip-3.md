@@ -8,5 +8,4 @@ fip: 3
 创建时间: 2022-10-22
 ---
 
-## 社区提案决议: [FIP-2社区提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
-## Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
+## Freechat Github Fips: [FIP-3](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-3.md)

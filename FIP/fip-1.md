@@ -1,7 +1,7 @@
 ---
 fip: 1
 标题: FIP 目的和指南
-描述: 社区开发团队的治理机制和运行方式指南
+描述: 社区的治理机制和运行方式指南，包括社区开发团队的指南和执行机制。
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
@@ -9,6 +9,8 @@ fip: 1
 ---
 
 ## Freechat Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
+
+# FIP 目的和指南
 
 ## 什么是 FIP？
 

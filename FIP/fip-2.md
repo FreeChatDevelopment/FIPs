@@ -8,7 +8,7 @@ fip: 2
 创建时间: 2022-10-22
 ---
 
-## Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
+## Freechat Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
 
 # FreechatDAO社区介绍及治理
 
