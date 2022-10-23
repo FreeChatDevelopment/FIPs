@@ -21,7 +21,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 # FreechatDAO和Freechat的融资方案
 
 ## 目的
-募集资金快速推进FreechatDAO和Freechat产品的开发工作和社区治理。
+面向潜在的投资者募集资金快速推进FreechatDAO和Freechat产品的开发工作和社区治理。
 
 ## 背景
 FreechatDAO和Freechat的历史背景和由来。
