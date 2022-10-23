@@ -40,3 +40,31 @@ FreechatDAO和Freechat定向融资方案名单公示，便于监督和提案执�
 |地址|购买FCC数量|购买部分解锁日期|配送数量|配送日期|
 |:-:|:----------:|:----------:|:----:|:----:|
 |[0xA8A1D9510136661Bd042Bb24D2e9596920894361](https://etherscan.io/address/0xa8a1d9510136661bd042bb24d2e9596920894361)| - FCC | 2023-12-31 | - FCC | 2025-08-22 |
+
+## 相关资料
+
+社区治理：
+https://snapshot.org/#/freechatdao.eth
+
+社区协议条款：
+https://docs.freechat.world
+
+项目开源仓库：
+https://github.com/FreeChatDevelopment
+
+代币经济学与白皮书：
+https://docs.freechat.world/fdao-she-qu
+
+FreechatDAO社群：
+https://twitter.com/freechat_app
+
+商业计划书：https://github.com/FreeChatDevelopment/FIPs/blob/main/assets/fip-14/FreechatBP.pdf
+
+Freechat Coin流动池与交易对：
+
+[USDT-FCC](https://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+
+[ETH-FCC](https://info.uniswap.org/#/pools/0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
+
+## 版权放弃声明
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
