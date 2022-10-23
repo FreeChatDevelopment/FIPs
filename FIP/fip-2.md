@@ -34,6 +34,20 @@ Freechat由FreechatDAO社区开发和运营。
 - **合约地址**：
 [0x171b1daefac13a0a3524fcb6beddc7b31e58e079](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079)
 
+## Freechat Coin代币发行与流通
+Freechat Coin通过Uniswap、1inch等DEX市场进行流通交易，发行参数如下：
+- **代币名称**：Freechat Coin
+- **代币简称**：FCC
+- **市场流通数量（含社区持有数量）**：500,000,000
+- **初始流通定价**：0.07 USDT
+- **可交易市场**：
+
+  [Freechat](https://freechat.world) 
+
+  [Uniswap](https://app.uniswap.org/#/swap) 
+
+  [1inch](https://app.uniswap.org/#/swap)
+
 ## Freechat Coin代币持仓分布、条款和介绍
 FreechatDAO社区
 - **持有FCC数量**：295,000,000  
@@ -41,7 +55,7 @@ FreechatDAO社区
 - **地址**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **锁仓限制**：无
 - **释义**：社区所持有的代币用于社区治理和Freechat运营，发放社区开发团队薪酬。
-- **限制条款**：社区使用FCC代币必须由社区提案决定。
+- **限制条款**：社区使用FCC代币必须由社区提案决定。社区代表多签名限制。
 
 FreechatDAO开发团队
 - **持有FCC数量**：200,000,000  
@@ -62,7 +76,7 @@ FreechatDAO开发团队
 市场流通
 - **持有FCC数量**：200,000,000  
 - **占比总量比例**：20%
-- **流动性地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
+- **FCC流动性提供地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
 - **流动性池地址**：[0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
 - **释义**：DEX市场进行流通的代币
 - **限制条款**：无
@@ -70,7 +84,7 @@ FreechatDAO开发团队
 顾问
 - **持有FCC数量**：5,000,000  
 - **占比总量比例**：0.05%
-- **地址**：[0x171b1daefac13a0a3524fcb6beddc7b31e58e079](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079)
+- **地址**：[0x47e35150439c50d8b0c8d1015b789ee0a697bf1e](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x47e35150439c50d8b0c8d1015b789ee0a697bf1e)
 - **释义**：用于帮助FreechatDAO和Freechat发展的贡献的奖励
 - **限制条款**：无
 
@@ -158,6 +172,12 @@ https://docs.freechat.world/fdao-she-qu
 
 FreechatDAO社群：
 https://twitter.com/freechat_app
+
+Freechat Coin流动池与交易对：
+
+[USDT-FCC](https://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+
+[ETH-FCC](https://info.uniswap.org/#/pools/0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)

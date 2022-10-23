@@ -7,7 +7,7 @@ fip: 1
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
 ---
-
+## 社区提案决议: [FIP-1社区提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
 ## Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
 
 ## 什么是 FIP？
@@ -43,7 +43,7 @@ FIP 分为三种类型：
   -  **功能FIP**状态分为：
 草案、实施、上线、下线
   -  **机制FIP**状态分为：
-生效、无效
+草案、生效、无效
   -  **信息FIP**状态分为：
 无状态
 
@@ -51,7 +51,6 @@ FIP 分为三种类型：
 FIP 执行的流程图
 
 ![FIP Status Diagram](../assets/fip-1/FIP-1流程图.png)
-
 
 ## 成功的FIP应包含什么？
 每个FIP应该包含以下内容：

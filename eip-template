@@ -9,6 +9,12 @@ fip: 待分配
 创建时间: YYYY-MM-DD
 ---
 
+## 社区提案决议: [FIP-2社区提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
+释义：该选项链接至对应的社区提案
+
+## Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
+释义：该选项链接至Github对应的FIP。
+
 ## 动机或者想法、创意等描述
 这是表述的内容
 
