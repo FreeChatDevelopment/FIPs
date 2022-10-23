@@ -7,8 +7,8 @@ fip: 1
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
 ---
-## 社区提案决议: [FIP-1社区提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
-## Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
+
+## Freechat Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
 
 ## 什么是 FIP？
 
