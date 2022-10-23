@@ -116,10 +116,16 @@ FreechatDAO和Freechat的历史背景和由来。
 
 Jack Long（jacklong@freechat.world）
 
+Neilson Lee
+
+FA
+
 ## 定向邀请名单及配送名单、空投名单
 为保证公正、透明、公开，FreechatDAO社区和Freechat将通过快照形式进行记录及公示，请参考以下提案：
 
 [FIP-15提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md)
+
+（不在邀请名单内的投资人及用户，不会进行任何方式空投奖励和配送）
 
 ## 相关资料
 
