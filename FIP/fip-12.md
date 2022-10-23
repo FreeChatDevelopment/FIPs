@@ -1,7 +1,7 @@
 ---
 fip: 12
-标题: 确定FreechatDAO社区开发团队薪酬福利及职级限制，职责。
-描述: 确定FreechatDAO社区开发团队薪酬和职级、职责。
+标题: 确定FreechatDAO社区开发团队薪酬福利及职级限制。
+描述: 确定FreechatDAO社区开发团队薪酬和职级限制，防止滥用社区资金。
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
@@ -20,7 +20,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
 
 # 确定FreechatDAO社区薪酬福利及职级限制，职责。
 
-## 提案目的
+## 目的
 限制社区开发团队及社区相关人员的薪酬福利，防止滥用社区资金。
 
 ## 介绍
