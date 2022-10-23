@@ -35,20 +35,47 @@ FIP 分为三种类型：
   
   描述影响大多数或所有Freechat和FreechatDAO社区实现的任何更改，例如——新功能的开发、功能的更改，收费费率规则、社区治理的更改等，提议的应用程序标准/约定或任何更改或添加这会影响使用Freechat和FreechatDAO社区应用程序的互操作性。标准功能 FIP 由五部分组成——创意草案、实施文档、技术实现、功能上线、功能下线。
 
-- **功能 FIP**的相关释义：
-  -  **创意草案**：任何创意草案都应先进行讨论，草案状态可以进行随意更改。讨论链接：[ “创意草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E5%88%9B%E6%84%8F%E8%8D%89%E6%A1%88)，并将创意形成可实施的文档，如产品原型、开发文档等，并通过社区提案进行文档投票并通过，该提案转变为实施文档。
-  -  **实施文档**：创意草案通过社区提案决策后，将整理为可实施的FIP文档，社区开发团队将进行技术实现。
-  -  **功能上线**：技术实现完成后，该草案对应的FIP状态变更为功能上线状态。
-  -  **功能下线**：经过社区提案决定FIP下线，社区开发团队将移除FIP功能，将FIP转变为下线状态。
+   - **功能FIP编号定义**
+  
+     为方便区分每个FIP的类型，FIP编号作以下定义：
+  
+     功能性FIP头部数字：5
+  
+     （例如51、5001、50001、500001等）
+
+   - **功能 FIP**的相关释义：
+     -  **创意草案**：任何创意草案都应先进行讨论，草案状态可以进行随意更改。讨论链接：[ “创意草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E5%88%9B%E6%84%8F%E8%8D%89%E6%A1%88)，并将创意形成可实施的文档，如产品原型、开发文档等，并通过社区提案进行文档投票并通过，该提案转变为实施文档。
+     -  **实施文档**：创意草案通过社区提案决策后，将整理为可实施的FIP文档，社区开发团队将进行技术实现。
+     -  **功能上线**：技术实现完成后，该草案对应的FIP状态变更为功能上线状态。
+     -  **功能下线**：经过社区提案决定FIP下线，社区开发团队将移除FIP功能，将FIP转变为下线状态。
 
 - **机制 FIP**
   
   描述围绕Freechat和FreechatDAO社区的流程或提议对流程（或流程中的事件、商业模式、治理方案）进行更改。适用于Freechat和FreechatDAO社区应用以外的领域。他们可能会提出一个实施方案，但不会针对Freechat和FreechatDAO社区的代码库；它们通常需要社区共识；任何机制 FIP 也被视为商业决策 FIP和社区治理 FIP。
-  -  **机制草案**：任何机制草案都应先进行讨论，草案状态可以进行随意更改。讨论链接：[ “机制草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E6%9C%BA%E5%88%B6%E8%8D%89%E6%A1%88)，机制草案通过社区提案决策后，将整理为可实施的机制FIP文档，社区开发团队将进行技术实现或者社区执行。并转变为生效状态。
-  -  **生效**：经过社区提案决策并通过的机制FIP为生效状态。
-  -  **无效**：经过社区提案决策并通过的需要废弃的机制FIP为无效状态。
+  
+  - **机制FIP编号定义**
+  
+     为方便区分每个FIP的类型，FIP编号作以下定义：
+  
+     功能性FIP头部数字：1
+  
+     （例如1、12、103、1004、10005、100006等）
 
-- **信息 FIP**描述Freechat设计问题和向FreechatDAO社区提供一般指南或信息，但不提出新功能。信息 FIP 不一定代表FreechatDAO社区的共识或建议，因此用户和实施者可以自由地忽略信息 FIP 或听从他们的建议。
+  - **机制 FIP**的相关释义：
+    -  **机制草案**：任何机制草案都应先进行讨论，草案状态可以进行随意更改。讨论链接：[ “机制草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E6%9C%BA%E5%88%B6%E8%8D%89%E6%A1%88)，机制草案通过社区提案决策后，将整理为可实施的机制FIP文档，社区开发团队将进行技术实现或者社区执行。并转变为生效状态。
+    -  **生效**：经过社区提案决策并通过的机制FIP为生效状态。
+    -  **无效**：经过社区提案决策并通过的需要废弃的机制FIP为无效状态。
+  
+  - **信息 FIP**的相关释义：
+    - **信息 FIP**描述Freechat设计问题和向FreechatDAO社区提供一般指南或信息，但不提出新功能。信息 FIP 不一定代表FreechatDAO社区的共识或建议，因此用户和实施者可以自由地忽略信息 FIP 或听从他们的建议。
+    
+    - **信息FIP编号定义**
+  
+       为方便区分每个FIP的类型，FIP编号作以下定义：
+  
+       功能性FIP头部数字：9
+  
+       （例如9、92、903、9004、90005、900006等）
 
 ## FIP 状态
 - **FIP**状态分为以下类型：
@@ -84,6 +111,36 @@ FIP 执行的流程图
 每个FIP文件格式必须为Markdown文件，方便进行阅读和使用。
 可使用模版进行快速编辑：
 #### 模版：[eip-template](https://github.com/FreeChatDevelopment/FIPs/eip-template.md)
+
+## 提交社区提案格式
+
+社区治理链接：[FeechatDAO](https://snapshot.org/#/freechatdao.eth)
+
+为统一方便社区提案的阅读和内容，向社区进行提案时应遵从以下格式：
+
+---
+
+fip: FIP的编号（根据已存在的FIP编号往后类推）
+
+标题: FIP的标题
+
+描述: FIP的简短描述
+
+类型: FIP的类型（功能、机制、信息）
+
+作者: 编辑和创建FIP的作者
+
+创建时间: YYYY-MM-DD
+
+修改时间: YYYY-MM-DD
+
+---
+
+### Freechat Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
+
+释义：该选项链接至Github对应的FIP。示例如：FIP-1对应的Github地址。
+
+提案内容：复制FIP的内容。如包含图片，请将提案内的图片修改为对应的图片地址。
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)

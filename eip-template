@@ -1,5 +1,5 @@
 ---
-fip: 待分配
+fip: FIP的编号（根据已存在的FIP编号和规则往后类推）
 标题: 标题内容
 描述: 对内容的简短描述
 状态: 生效、无效、上线、下线、草案、实施（如果是信息类型则为空）
@@ -24,6 +24,30 @@ fip: 待分配
 
 ## 实施细节（如产品原型、开发文档等）
 这是表述的内容、开发文档、产品原型等
+
+---
+
+fip: FIP的编号（根据已存在的FIP编号往后类推）
+
+标题: FIP的标题
+
+描述: FIP的简短描述
+
+类型: FIP的类型（功能、机制、信息）
+
+作者: 编辑和创建FIP的作者
+
+创建时间: YYYY-MM-DD
+
+修改时间: YYYY-MM-DD
+
+---
+
+### Freechat Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
+
+释义：该选项链接至Github对应的FIP。示例如：FIP-1对应的Github地址。
+
+提案内容：复制FIP的内容。如包含图片，请将提案内的图片修改为对应的图片Github地址。
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
