@@ -6,9 +6,14 @@ fip: 2
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
+修改时间: 2022-10-23
 ---
 
 ## Freechat Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
+
+  | 提案时间 | 链接 | 结果 |
+  |:-:|:-:|:-:|
+  |2022-10-23|FreechatDAO社区对应的提案链接|待定|
 
 # FreechatDAO社区介绍及治理
 
@@ -84,9 +89,9 @@ FreechatDAO开发团队
 顾问
 - **持有FCC数量**：5,000,000  
 - **占比总量比例**：0.05%
-- **地址**：[0x47e35150439c50d8b0c8d1015b789ee0a697bf1e](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x47e35150439c50d8b0c8d1015b789ee0a697bf1e)
+- **地址（社区持有）**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **释义**：用于帮助FreechatDAO和Freechat发展的贡献的奖励
-- **限制条款**：无
+- **限制条款**：社区提案公示及使用。
 
 ## 社区治理
 FreechatDAO社区通过Snapshot进行去中心化的社区治理。任何持有Freechat Coin的用户都可通过提案及投票的方式决定社区的发展方向和具体实施方式，社区所有用户都应尊重提案并投下自己宝贵的一票，所有通过的社区提案，社区成员将无条件执行提案，这关系到社区的发展与未来。

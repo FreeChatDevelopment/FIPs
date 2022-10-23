@@ -1,5 +1,5 @@
 ---
-fip: 6
+fip: 7
 标题: FreechatDAO和Freechat的融资方案
 描述: 提案用于社区和Freechat产品的融资方案的确认和实施。
 状态: 草案

@@ -7,10 +7,17 @@ fip: 待分配
 作者: 呢称（Email）
 链接: 相关链接
 创建时间: YYYY-MM-DD
+修改时间: YYYY-MM-DD
 ---
 
 ## Freechat Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
 释义：该选项链接至Github对应的FIP。示例如：FIP-1对应的Github地址。
+
+  | 提案时间 | 链接 | 结果 |
+  |:-:|:-:|:-:|
+  |YYYY-MM-DD|[FreechatDAO社区对应的提案链接](https://snapshot.org/#/freechatdao.eth)|提案投票结果|
+
+    注意：进行FIP的社区提案时，不应包含社区提案的信息（如上表格），因为提案链接状态处于未知状态。生成提案链接后，在进行表格更改。
 
 ## 动机或者想法、创意等描述
 这是表述的内容
