@@ -21,7 +21,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md
 # 融资定向邀请名单、空投奖励、代币配送名单
 
 ## 目的
-FreechatDAO和Freechat定向融资方案名单公示，便于监督和提案执行依据。
+FreechatDAO和Freechat定向融资方案投资者名单公示，便于监督和提案执行依据。
 
 依据：[FIP-14提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md)
 
@@ -40,6 +40,15 @@ FreechatDAO和Freechat定向融资方案名单公示，便于监督和提案执�
 |地址|购买FCC数量|购买部分解锁日期|配送数量|配送日期|
 |:-:|:----------:|:----------:|:----:|:----:|
 |[0xA8A1D9510136661Bd042Bb24D2e9596920894361](https://etherscan.io/address/0xa8a1d9510136661bd042bb24d2e9596920894361)| - FCC | 2023-12-31 | - FCC | 2025-08-22 |
+
+## 投资者名单维护授权
+FreechatDAO授权以下人员进行名单维护：
+
+（授权范围：确认邀请名单、维护相关表格及信息）
+
+Jack Long
+
+（授权失效时间：2022-12-31）
 
 ## 相关资料
 
