@@ -22,6 +22,8 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 
     注意：进行FIP的社区提案时，不应包含社区提案的信息（如上表格），因为提案链接状态处于未知状态。生成提案链接后，在进行表格更改。
 
+# 标题
+
 ## 动机或者想法、创意等描述
 这是表述的内容
 
