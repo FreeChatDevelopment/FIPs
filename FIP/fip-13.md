@@ -1,5 +1,5 @@
 ---
-fip: 4
+fip: 13
 标题: FreechatDAO开发团队的工作制度和薪酬指南
 描述: 用于对社区开发团队的工作和薪酬制度的规范，激励。
 状态: 草案
@@ -9,7 +9,9 @@ fip: 4
 修改时间: 2022-10-23
 ---
 
-## Freechat Github Fips: [FIP-4](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-4.md)
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|

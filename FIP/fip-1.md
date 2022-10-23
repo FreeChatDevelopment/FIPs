@@ -4,12 +4,15 @@ fip: 1
 描述: 社区的治理机制和运行方式指南，包括社区开发团队的指南和执行机制。
 状态: 草案
 类型: 机制
-作者: Jack long （jacklong@freechat.world）
+作者: Jack long（jacklong@freechat.world）
 创建时间: 2022-10-22
 修改时间: 2022-10-23
 ---
 
-## Freechat Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
+
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
@@ -19,7 +22,7 @@ fip: 1
 
 ## 什么是 FIP？
 
-FIP 代表Freechat和FreechatDAO社区改进提案。 FIP 是向社区提供信息或描述Freechat和FreechatDAO社区或其流程或环境的新功能的设计文档。 FIP 应提供该功能的简明技术规范和该功能的基本原理。 FIP 作者负责在社区内建立共识并记录不同意见。
+FIP 代表Freechat和FreechatDAO社区改进提案。 FIP 是向社区提供信息或描述Freechat和FreechatDAO社区或其流程或环境的新功能的设计文档。 FIP 应提供该功能的简明技术规范和该功能的基本原理。 FIP 作者负责在社区内建立共识并记录不同意见，并更新FIP的状态。
 
 ## FIP 原理
 
@@ -57,7 +60,7 @@ FIP 分为三种类型：
   
      为方便区分每个FIP的类型，FIP编号作以下定义：
   
-     功能性FIP头部数字：1
+     机制性FIP头部数字：1
   
      （例如1、12、103、1004、10005、100006等）
 
@@ -73,7 +76,7 @@ FIP 分为三种类型：
   
        为方便区分每个FIP的类型，FIP编号作以下定义：
   
-       功能性FIP头部数字：9
+       信息性FIP头部数字：9
   
        （例如9、92、903、9004、90005、900006等）
 
@@ -120,7 +123,7 @@ FIP 执行的流程图
 
 ---
 
-fip: FIP的编号（根据已存在的FIP编号往后类推）
+fip: FIP的编号（根据FIP编号规则定义）
 
 标题: FIP的标题
 
@@ -140,7 +143,7 @@ fip: FIP的编号（根据已存在的FIP编号往后类推）
 
 释义：该选项链接至Github对应的FIP。示例如：FIP-1对应的Github地址。
 
-提案内容：复制FIP的内容。如包含图片，请将提案内的图片修改为对应的图片地址。
+提案内容：复制FIP的内容。如包含图片，请将提案内的图片修改为对应的FIP图片地址。
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)

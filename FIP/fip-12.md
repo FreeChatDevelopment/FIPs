@@ -1,5 +1,5 @@
 ---
-fip: 3
+fip: 12
 标题: FreechatDAO社区工作制度、薪酬福利及职级确认。
 描述: 确定社区工作薪酬和职级，推进社区开发团队的治理。
 状态: 草案
@@ -9,7 +9,9 @@ fip: 3
 修改时间: 2022-10-23
 ---
 
-## Freechat Github Fips: [FIP-3](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-3.md)
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|

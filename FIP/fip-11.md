@@ -1,5 +1,5 @@
 ---
-fip: 2
+fip: 11
 标题: FreechatDAO社区介绍及治理
 描述: FreechatDAO社区介绍和治理的相关指南
 状态: 草案
@@ -9,7 +9,9 @@ fip: 2
 修改时间: 2022-10-23
 ---
 
-## Freechat Github Fips: [FIP-2](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-2.md)
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
