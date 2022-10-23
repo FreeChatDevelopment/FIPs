@@ -16,7 +16,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0xe2f6000ac7ba38f4c36448024476ba37b4c6e5e417406302ad9a93b69426a32d|待定|
+  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x9709618ddcf127f52a7b45643d016efa89c0e5afacea564a0a22b8937eb57939|待定|
 
 # FreechatDAO社区介绍及治理
 
@@ -139,7 +139,7 @@ Freechat的所有收入会锚定FCC作为权益代表价值。持有FCC的用户
 - **社区治理成本及运营成本=Y**
 - **净收入=Z**
 - **FCC质押数量=G**
-- **每FCC净值=F**
+- **每FCC净收益=F**
 
 收益分配的计算公式：
 - **X-Y=Z**
