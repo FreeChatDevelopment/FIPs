@@ -16,7 +16,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-23|[https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d|待定|
+  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d|待定|
 
 # 确定FreechatDAO社区薪酬福利及职级限制，职责。
 
