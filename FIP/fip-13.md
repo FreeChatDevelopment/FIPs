@@ -229,5 +229,10 @@ Jack Long
 
 Danny Guo
 
+## 加入社区开发团队
+FreechatDAO社区开发团队欢迎任何人及组织加入，如有兴趣可向以下电子邮箱发送简历或介绍：
+
+电子邮箱：talent@freechat.world
+
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
