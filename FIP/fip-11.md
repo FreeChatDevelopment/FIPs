@@ -54,7 +54,7 @@ Freechat Coin通过Uniswap、1inch等DEX市场进行流通交易，发行参数�
 - **代币名称**：Freechat Coin
 - **代币简称**：FCC
 - **市场流通数量（含社区、顾问持有数量）**：500,000,000
-- **初始流通定价**：0.07 USDT
+- **初始流通定价**：1 FCC = 0.07 USDT
 - **可交易市场**：
 
   [Freechat](https://freechat.world) 
