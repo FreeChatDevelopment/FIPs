@@ -21,7 +21,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
 # FreechatDAO社区工作制度、薪酬福利及职级确认
 
 ## 介绍
-FreeChatDevelopment是Freechat和FreechatDAo开发组织，由全球开发者组成，任何人及组织都可以申请加入开发团队。
+FreeChatDevelopment是Freechat和FreechatDAO开发组织，由全球开发者组成，任何人及组织都可以申请加入开发团队。
 
 ## 宗旨
 无条件执行社区提案及FIP，高质量完成FreechatDAO和Freechat的开发工作。
@@ -29,7 +29,7 @@ FreeChatDevelopment是Freechat和FreechatDAo开发组织，由全球开发者组
 ## 职责
 为Freechat和FreechatDAO提供技术支撑、研发、运营。
 
-## FreeChatDevelopment薪酬及福利待遇
+## FreeChatDevelopment薪酬及福利
 ### 全职
    - **岗位薪酬等级**：
 
@@ -61,15 +61,15 @@ FreeChatDevelopment是Freechat和FreechatDAo开发组织，由全球开发者组
 
    | 职级 | 时薪 |
    | :-: |:-:|
-   | F1  |10 USD/时|
-   | F2  |15 USD/时|
-   | F3  |20 USD/时|
-   | F4  |30 USD/时|
-   | F5  |35 USD/时|
-   | F6  |40 USD/时|
-   | F7  |50 USD/时|
-   | F8  |70 USD/时|
-   | F9  |100 USD/时|
+   | J1  |10 USD/时|
+   | J2  |15 USD/时|
+   | J3  |20 USD/时|
+   | J4  |30 USD/时|
+   | J5  |35 USD/时|
+   | J6  |40 USD/时|
+   | J7  |50 USD/时|
+   | J8  |70 USD/时|
+   | J9  |100 USD/时|
 
 ## 代币激励总量
 FreeChatDevelopment开发团队的激励数量如下所示：
@@ -82,6 +82,8 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 FreeChatDevelopment开发团队名单及薪酬如下公示：
 
 FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
+
+（名单会随着FreeChatDevelopment开发团队进行变动）
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
