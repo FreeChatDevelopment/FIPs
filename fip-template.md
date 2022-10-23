@@ -30,8 +30,6 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 ## 实施细节（如产品原型、开发文档等）
 这是表述的内容、开发文档、产品原型等
 
----
-
 ## 提交社区提案格式
 
 社区治理链接：[FeechatDAO](https://snapshot.org/#/freechatdao.eth)
