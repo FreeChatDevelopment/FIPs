@@ -1,7 +1,7 @@
 ---
 fip: 12
-标题: 确定FreeChatDevelopment薪酬福利及职级限制，职责。
-描述: 确定FreeChatDevelopment薪酬和职级、职责。
+标题: 确定FreechatDAO社区开发团队薪酬福利及职级限制，职责。
+描述: 确定FreechatDAO社区开发团队薪酬和职级、职责。
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
@@ -18,10 +18,10 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
   |:-:|:-:|:-:|
   |2022-10-23|FreechatDAO社区对应的提案链接|待定|
 
-# 确定FreeChatDevelopment薪酬福利及职级限制，职责。
+# 确定FreechatDAO社区薪酬福利及职级限制，职责。
 
 ## 介绍
-FreeChatDevelopment是Freechat和FreechatDAO开发组织，由全球开发者组成，任何人及组织都可以申请加入开发团队。
+FreeChatDevelopment是Freechat和FreechatDAO开发组织，简称FDev，由全球开发者组成，任何人及组织都可以申请加入开发团队。
 
 ## 宗旨
 无条件执行社区提案及FIP，高质量完成FreechatDAO和Freechat的开发工作。
@@ -31,7 +31,7 @@ FreeChatDevelopment是Freechat和FreechatDAO开发组织，由全球开发者组
 
 ## FreeChatDevelopment薪酬及福利预算限制
 ### 全职
-   - **全职岗位薪酬最高限制**：
+   - **全职岗位薪酬限制**：
 
      | 职级 | 月薪 |
      | :-: |:-:|
@@ -57,7 +57,7 @@ FreeChatDevelopment是Freechat和FreechatDAO开发组织，由全球开发者组
      | F20 |社区决定|
 
 ### 兼职
-- **兼职岗位薪酬最高限制**：
+- **兼职岗位薪酬限制**：
 
    | 职级 | 时薪 |
    | :-: |:-:|
