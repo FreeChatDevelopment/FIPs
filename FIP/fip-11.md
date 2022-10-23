@@ -70,7 +70,7 @@ FreechatDAO社区
 - **地址**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **锁仓限制**：无
 - **释义**：社区所持有的代币用于社区治理和Freechat运营，发放社区开发团队薪酬。
-- **限制条款**：社区使用FCC代币必须由社区提案决定。社区代表多签名限制。
+- **限制条款**：社区使用FCC代币必须由社区提案决定。社区代表多重签名限制。
 
 FreechatDAO开发团队
 - **持有FCC数量**：200,000,000  
@@ -94,7 +94,7 @@ FreechatDAO开发团队
 - **FCC流动性提供地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
 - **流动性池地址**：[0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
 - **释义**：DEX市场进行流通的代币
-- **限制条款**：无
+- **限制条款**：社区代表多重签名限制。
 
 顾问
 - **持有FCC数量**：5,000,000  
