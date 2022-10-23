@@ -16,7 +16,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-23|FreechatDAO社区对应的提案链接|待定|
+  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0xe2f6000ac7ba38f4c36448024476ba37b4c6e5e417406302ad9a93b69426a32d|待定|
 
 # FreechatDAO社区介绍及治理
 
