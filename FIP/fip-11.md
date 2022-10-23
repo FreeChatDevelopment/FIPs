@@ -61,7 +61,7 @@ Freechat Coin通过Uniswap、1inch等DEX市场进行流通交易，发行参数�
 
   [Uniswap](https://app.uniswap.org/#/swap) 
 
-  [1inch](https://app.uniswap.org/#/swap)
+  [1inch](https://app.1inch.io/)
 
 ## Freechat Coin代币持仓分布、条款和介绍
 FreechatDAO社区
