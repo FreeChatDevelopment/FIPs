@@ -6,7 +6,7 @@ fip: 13
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-23
-修改时间: 2022-10-23
+修改时间: 2022-10-24
 ---
 
 ## Freechat Github Fips: 
@@ -214,9 +214,18 @@ FDao工作类别分为两类：全职工作、兼职工作
 ## 代币激励
 入职时，确认代币激励的总量，按月进行发放。发放周期为36个月。
 
+离职后，发放已工作的时长的代币数量，未发放的代币不再进行发放。
+
 由于开发团队所持有代币处于锁仓阶段，锁仓结束时，按累积的代币数量，足额发放至员工指定地址。
 
 锁仓期结束时间：2025-08-22
+
+## 职级评定授权
+FreechatDAO授权人员职级评定和代币激励由以下人员确定：
+
+Jack Long
+
+Danny Guo
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
