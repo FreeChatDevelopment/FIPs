@@ -20,6 +20,9 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
 
 # 确定FreechatDAO社区薪酬福利及职级限制，职责。
 
+## 提案目的
+限制社区开发团队及社区相关人员的薪酬福利，防止滥用社区资金。
+
 ## 介绍
 FreeChatDevelopment是Freechat和FreechatDAO开发组织，简称FDev，由全球开发者组成，任何人及组织都可以申请加入开发团队。
 
