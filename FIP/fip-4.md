@@ -195,3 +195,6 @@ FDao工作类别分为两类：全职工作、兼职工作
      #### 特说说明 
    
      FDao社区将根据运营情况，调整每个职级时薪薪酬，并进行社区提案，提案通过后将调整每个职位薪酬。
+
+## 版权放弃声明
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
