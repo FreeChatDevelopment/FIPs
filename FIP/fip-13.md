@@ -13,6 +13,7 @@ fip: 13
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 
+
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
   |2022-10-23|FreechatDAO社区对应的提案链接|待定|

@@ -13,6 +13,7 @@ fip: 12
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
 
+
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
   |2022-10-23|FreechatDAO社区对应的提案链接|待定|
@@ -20,7 +21,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
 # FreechatDAO社区工作制度、薪酬福利及职级确认
 
 ## 介绍
-FreeChatDevelopment是Freechat和FreechatDAo开发组织，由全球开发者及用户组成，任何人及组织都可以申请加入开发团队。
+FreeChatDevelopment是Freechat和FreechatDAo开发组织，由全球开发者组成，任何人及组织都可以申请加入开发团队。
 
 ## 宗旨
 无条件执行社区提案及FIP，高质量完成FreechatDAO和Freechat的开发工作。
@@ -80,7 +81,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 ## 社区团队名单
 FreeChatDevelopment开发团队名单及薪酬如下公示：
 
-FreeChatDevelopment Team: [FIP-7](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-7.md)
+FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)

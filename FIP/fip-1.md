@@ -113,7 +113,7 @@ FIP 执行的流程图
 ## FIP的文件格式
 每个FIP文件格式必须为Markdown文件，方便进行阅读和使用。
 可使用模版进行快速编辑：
-#### 模版：[fip-template](https://github.com/FreeChatDevelopment/FIPs/fip-template.md)
+#### 模版：[fip-template](https://github.com/FreeChatDevelopment/FIPs/blob/main/fip-template)
 
 ## 提交社区提案格式
 
