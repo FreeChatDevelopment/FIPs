@@ -138,7 +138,7 @@ https://docs.freechat.world/fdao-she-qu
 FreechatDAO社群：
 https://twitter.com/freechat_app
 
-商业计划书：[FreechatBP](./../assets/fip-14/FreechatBP.pdf)
+商业计划书：https://github.com/FreeChatDevelopment/FIPs/blob/main/assets/fip-14/FreechatBP.pdf
 
 Freechat Coin流动池与交易对：
 
