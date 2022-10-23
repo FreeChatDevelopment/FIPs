@@ -23,13 +23,20 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md
 ## 序言
 FreechatDAO是一个去中心化的开发组织及运营组织，简称FDao，由全球开发者及用户组成，任何人及组织都可以参与社区治理。
 FreechatDAO崇尚自由。在FreechatDAO社区，自由、人权、隐私是不可侵犯的用户基本权利，每个人都有言论自由的权利和隐私安全的保障，并且不受任何形式干扰和审查。
+
 ## 愿景
 成为去中心化、开放、透明、安全、自由、自治的社交网络与社区
+
+## 社区治理
+社区通过Snapshot进行去中心化的社区治理。以下为链接：
+
+https://snapshot.org/#/freechatdao.eth
 
 ## 社区产品
 ### Freechat
 Freechat是一款基于Web3.0与区块链技术开发的一款安全，私密、自由的社交应用。使用端到端加密的通信方式，以确保隐私和通信的自由。此外，Freechat的技术特点不会因某些网络限制而无法使用。
 Freechat有许多基于社交应用的创新，比如基于NFT的虚拟形象；基于区块链的好友评分信用体系，去中心化的激励广告网络、SNS、支付网络、电子商务、游戏与金融等生态组成。
+
 Freechat由FreechatDAO社区开发和运营。
 
 ## Freechat Coin代币
@@ -46,7 +53,7 @@ Freechat由FreechatDAO社区开发和运营。
 Freechat Coin通过Uniswap、1inch等DEX市场进行流通交易，发行参数如下：
 - **代币名称**：Freechat Coin
 - **代币简称**：FCC
-- **市场流通数量（含社区持有数量）**：500,000,000
+- **市场流通数量（含社区、顾问持有数量）**：500,000,000
 - **初始流通定价**：0.07 USDT
 - **可交易市场**：
 
@@ -91,7 +98,7 @@ FreechatDAO开发团队
 
 顾问
 - **持有FCC数量**：5,000,000  
-- **占比总量比例**：0.05%
+- **占比总量比例**：0.5%
 - **地址（社区持有）**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **释义**：用于帮助FreechatDAO和Freechat发展的贡献的奖励
 - **限制条款**：社区提案公示及使用。
@@ -168,6 +175,9 @@ Freechat的所有收入会锚定FCC作为权益代表价值。持有FCC的用户
 释义：社区提案决定FreechatDAO社区获得Freechat收入的比例。
 
 ## 相关资料
+
+社区治理：
+https://snapshot.org/#/freechatdao.eth
 
 社区协议条款：
 https://docs.freechat.world
