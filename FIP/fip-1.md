@@ -92,7 +92,7 @@ FIP 分为三种类型：
 ## FIP 流程图
 FIP 执行的流程图
 
-![FIP Status Diagram](assets/fip-1/1666553432767.jpg
+![FIP Status Diagram](./../assets/fip-1/1666553432767.jpg)
 
 ## 成功的FIP应包含什么？
 每个FIP应该包含以下内容：
