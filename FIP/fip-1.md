@@ -139,7 +139,9 @@ fip: FIP的编号（根据FIP编号规则定义）
 
 ---
 
-### Freechat Github Fips: [FIP-1](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md)
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 
 释义：该选项链接至Github对应的FIP。示例如：FIP-1对应的Github地址。
 

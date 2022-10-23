@@ -9,7 +9,10 @@ fip: 16
 修改时间: 2022-10-23
 ---
 
-## Freechat Github Fips: [FIP-6](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-6.md)
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
+
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
