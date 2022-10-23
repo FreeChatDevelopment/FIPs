@@ -21,18 +21,18 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 # 社区开发团队名单及薪酬、代币激励信息
 
 ## 目的
-公示社区开发人员薪酬，防止社区资金滥用，方便监督。
+公示社区开发人员薪酬，防止社区资金滥用，便于监督。
 
 依据：[FIP-12提案](https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d)
 [FIP-13提案](https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d)
 
 ## 社区开发人员名单及薪酬、激励信息
-|呢称|岗位|薪酬|代币激励数量|发放周期|月发放数量|在职时长|在职状态|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Jack Long|CEO|无|100,000,000 FCC|36个月|2,777,778 FCC|2个月|在职|
-|Danny Guo|CTO|无|50,000,000 FCC|36个月|1,388,889 FCC|2个月|在职|
-|Mia|发言人|无|- FCC|36个月|- FCC|1个月|在职|
-|Lily|UI|无|- FCC|36个月|- FCC|1个月|在职|
-|wx|UI|无|- FCC|36个月|- FCC|2个月|在职|
-|np|Dev|无|- FCC|36个月|- FCC|2个月|在职|
-|Joy|Dev|无|- FCC|36个月|- FCC|2个月|在职|
+|呢称|岗位|薪酬|职级|代币激励数量|发放周期|月发放数量|在职时长|在职状态|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Jack Long|CEO|无|F10|100,000,000 FCC|36个月|2,777,778 FCC|2个月|在职|
+|Danny Guo|CTO|无|F10|50,000,000 FCC|36个月|1,388,889 FCC|2个月|在职|
+|Mia|发言人|15 USD/时|J3|5,000,000 FCC|36个月|138,889 FCC|2个月|在职|
+|Lily|UI|无|-|- FCC|36个月|- FCC|1个月|在职|
+|wx|UI|无|-|- FCC|36个月|- FCC|2个月|在职|
+|np|Dev|无|-|- FCC|36个月|- FCC|2个月|在职|
+|Joy|Dev|无|-|- FCC|36个月|- FCC|2个月|在职|
