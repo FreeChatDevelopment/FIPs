@@ -23,6 +23,9 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md
 ## 目的
 FreechatDAO和Freechat定向融资方案投资者名单公示，便于监督和提案执行依据。
 
+## 提案截止更新时间
+2022-12-23 23:00
+
 依据：[FIP-14提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md)
 
 ## 定向邀请募资人地址
