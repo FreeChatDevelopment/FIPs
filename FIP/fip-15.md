@@ -30,6 +30,7 @@ FreechatDAO和Freechat定向融资方案投资者名单公示，便于监督和�
 |:-:|
 |[0xA8A1D9510136661Bd042Bb24D2e9596920894361](https://etherscan.io/address/0xa8a1d9510136661bd042bb24d2e9596920894361)|
 |[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae)|
+|[0x293fc92680d2d0d8de78ca9d2bec7550267b3093](https://etherscan.io/address/0x293fc92680d2d0d8de78ca9d2bec7550267b3093)|
 
 ## 流动性融资（LP融资）空投配送名单
 |地址|提供流动性金额|流动性解锁日期|空投数量|空投日期|

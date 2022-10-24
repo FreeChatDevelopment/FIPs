@@ -70,7 +70,7 @@ FreechatDAO和Freechat的历史背景和由来。
 
    - **融资定价**：1 FCC = 0.07 USDT   
 
-     新一轮投资人作为FreechatDAO及Freechat的LP，向以下交易对提供流动性资金：
+     新一轮投资人作为FreechatDAO及Freechat的LP，向以下交易对提供流动性：
    
      交易对：USDT-FCC
 
