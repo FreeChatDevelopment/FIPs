@@ -6,6 +6,11 @@
 ## 使命
 FIP 项目的目标是为FreechatDAO和Freechat序记录标准化协议，并以高质量和可实施的方式记录它们。
 
+## 目录
+[FIP](https://github.com/FreeChatDevelopment/FIPs/tree/main/FIP)目录用于存放所有FIP提案。
+
+[assets](https://github.com/FreeChatDevelopment/FIPs/tree/main/assets)目录用于存放所有FIP提案对应的资源文件。
+
 ## 加入社区开发团队
 FreechatDAO社区开发团队欢迎任何人及组织加入，如有兴趣可向以下电子邮箱发送简历或介绍：
 
