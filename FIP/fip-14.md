@@ -6,7 +6,7 @@ fip: 14
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-23
-修改时间: 2022-10-24
+修改时间: 2022-10-25
 ---
 
 ## Freechat Github Fips: 
@@ -77,7 +77,7 @@ FreechatDAO和Freechat的历史背景和由来。
 
      流动性提供币种：USDT
 
-     流动性提供数量：不低于100,000 USDT，不超过10,000,000 USDT
+     流动性提供数量：不低于100,000 USDT，不超过7,000,000 USDT
 
      流动性提供时间：至少12个月（2023-12-31日解锁）
 
