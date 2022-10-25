@@ -15,7 +15,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-24|FreechatDAO社区对应的提案链接|待定|
+  | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
 # 融资定向邀请名单、流动性奖励名单
 
@@ -35,7 +35,7 @@ FreechatDAO和Freechat定向融资方案投资者名单公示，便于监督和�
 ## 流动性融资（LP融资）流动性奖励名单
 |地址|提供流动性金额|流动性解锁日期|奖励数量|奖励日期|
 |:-:|:----------:|:----------:|:----:|:----:|
-| [0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae) | 1,000,000 USDT | 2023-12-31 | 14,285,714 FCC | 2025-08-22 |
+|[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae) | 1,000,000 USDT | 2023-12-31 | 14,285,714 FCC | 2025-08-22 |
 
 ## 投资者名单维护授权
 FreechatDAO授权以下人员进行名单维护：

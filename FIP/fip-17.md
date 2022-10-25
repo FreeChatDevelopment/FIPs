@@ -15,5 +15,5 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-17.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-25|FreechatDAO社区对应的提案链接|待定|
+  |2 YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 

@@ -6,7 +6,7 @@ fip: 13
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-23
-修改时间: 2022-10-24
+修改时间: 2022-10-25
 ---
 
 ## Freechat Github Fips: 
@@ -16,7 +16,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-23|FreechatDAO社区对应的提案链接|待定|
+  | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
 # FreechatDAO开发团队工作制度及薪酬体系制度
 
@@ -47,12 +47,15 @@ FDao工作类别分为两类：全职工作、兼职工作
 - **工作日**：
 
   周一、周二、周三、周四、周五
+
 - **休息日**：
 
   周六、周日、各国家法定节假日
+
 - **薪酬制度及发放时间**：
   
   月薪制（双周发放月薪资的50%）
+
 - **考勤管理制度**：
 
   工作时长和考勤采用Hubstaff软件进行考勤统计。
