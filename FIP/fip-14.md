@@ -87,17 +87,13 @@ FreechatDAO和Freechat的历史背景和由来。
      
          示例：例如A投资人向流动池提供10,000 USDT，那么A投资人按照计算公式将会获得10,000/0.07=142,857 FCC
      
-     锁仓限制：2025年8月22日解锁，代币解锁后将一次性发放至流动性提供地址。
+     锁仓限制：流动性奖励代币2025年8月22日解锁，接触限制后将根据[FIP-15](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md)提案进行发放。
 
      限制条款：如果提供的流动性不满足12个月，中途撤出流动性，将取消配送资格。快照检查6次。
 
 ## 融资联系人
 
 Jack Long（jacklong@freechat.world）
-
-Neilson Lee
-
-Siwei Dong（FA）
 
 ## 定向邀请名单及配送名单、空投名单
 为保证公正、透明、公开，FreechatDAO社区和Freechat将通过快照形式进行记录及公示，请参考以下提案：
