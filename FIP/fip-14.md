@@ -15,7 +15,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-25|FreechatDAO社区对应的提案链接|待定|
+  | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
 # FreechatDAO和Freechat的融资方案
 
@@ -96,6 +96,10 @@ FreechatDAO和Freechat的历史背景和由来。
 ## 融资联系人
 
 Jack Long（jacklong@freechat.world）
+
+## 融资顾问
+
+Siwei Dong
 
 ## 定向邀请名单及配送名单、空投名单
 为保证公正、透明、公开，FreechatDAO社区和Freechat将通过快照形式进行记录及公示，请参考以下提案：
