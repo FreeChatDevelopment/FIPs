@@ -6,7 +6,7 @@ fip: 12
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
-修改时间: 2022-10-25
+修改时间: 2022-10-27
 ---
 
 ## Freechat Github Fips: 
