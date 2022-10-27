@@ -17,7 +17,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
   |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d|待定|
-  |-|-|待定|
+  |2022-10-27|https://snapshot.org/#/freechatdao.eth/proposal/0xb3823615f71210db105995adbe379bfb6d543696f79730c8e90c3c12f424a187|待定|
 
 # 确定FreechatDAO社区薪酬福利及职级限制，职责。
 
@@ -42,7 +42,6 @@ FreeChatDevelopment是Freechat和FreechatDAO开发组织，简称FDev，由全�
 
      | 职级 | 薪酬 |
      | :-: |:-:|
-     | 试用期 |5 USD/时|
      | F1  |8    USD/时|
      | F2  |10   USD/时|
      | F3  |12   USD/时|
