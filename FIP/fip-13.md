@@ -318,20 +318,16 @@ FreeChatDevelopment开发团队的激励数量如下所示：
      社区岗位薪酬限制提案: [FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
      
 
-## 职级评定授权
-职级评定和代币激励由以下人员确定：
+## FreechatDAO职级评估委员会
+负责社区开发人员职级评估等工作。
 
-（范围：入职评定、季度评定）
-
-Jack Long
-
-Danny Guo
-
-00N
-
-Kang
-
-Mia
+| 呢称                   | 负责内容|
+| :-:                   |:-:    |
+| Jack Long             |职级评估|
+| Danny Guo             |职级评估|
+| 00N                   |职级评估|
+| Lily                  |职级评估|
+| Kang                  |职级评估|
 
 ## 加入社区开发团队
 FreechatDAO社区开发团队欢迎任何人及组织加入，如有兴趣可向以下电子邮箱发送简历或介绍：
