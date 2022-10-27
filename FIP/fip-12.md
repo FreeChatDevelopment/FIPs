@@ -34,7 +34,7 @@ FreeChatDevelopment是Freechat和FreechatDAO开发组织，简称FDev，由全�
 为Freechat和FreechatDAO提供技术支撑、研发、运营。
 
 ## 社区开发工作制度
-社区具体工作制度及评估依据[FIP-13](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)提案进行执行。
+社区具体工作制度及评估依据[FIP-13](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)提案进行执行。
 
 ## FreeChatDevelopment薪酬及激励、职级预算限制
 ### 全职
@@ -69,7 +69,6 @@ FreeChatDevelopment是Freechat和FreechatDAO开发组织，简称FDev，由全�
 
    | 职级 | 时薪 |
    | :-: |:-:|
-   |试用期 |5 USD/时|   
    | J1  |5 USD/时|
    | J2  |8 USD/时|
    | J3  |11 USD/时|
@@ -78,6 +77,7 @@ FreeChatDevelopment是Freechat和FreechatDAO开发组织，简称FDev，由全�
    | J6  |25 USD/时|
    | J7  |30 USD/时|
    | J8  |40 USD/时|
+   | J9  |50 USD/时|
 
 ## 代币激励总量
 FreeChatDevelopment开发团队的激励数量如下所示：
