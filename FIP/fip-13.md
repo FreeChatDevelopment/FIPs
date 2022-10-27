@@ -330,6 +330,14 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 | Lily                  |职级评估|
 | Kang                  |职级评估|
 
+## 社区开发团队成员、薪酬、激励名单
+
+FreeChatDevelopment开发团队名单及薪酬如下公示：
+
+FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
+
+（社区成员名单会随时进行进行变动，请注意。）
+
 ## 加入社区开发团队
 FreechatDAO社区开发团队欢迎任何人及组织加入，如有兴趣可向以下电子邮箱发送简历或介绍：
 

@@ -27,12 +27,19 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 [FIP-13提案](https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d)
 
 ## 社区开发人员名单及薪酬、激励信息
-|   呢称   | 岗位 |   薪酬   | 职级 |   代币激励数量  |发放周期| 2022年11月   |在职时长|在职状态|
-|:-------:|:----:|:-------:|:---:|:-------------:|:-----:|:-----------:|:-----:|:-----:|
-|Jack Long|  CEO |    无   | F20 |100,000,000 FCC|  36个月|2,777,778 FCC|   2个月|  在职 |
-|Danny Guo|  CTO |    无   | F20 | 50,000,000 FCC|  36个月|1,388,889 FCC|   2个月|  在职 |
-|   Mia   | 发言人|    无   | F20 | 10,000,000 FCC|  36个月|  138,889 FCC|   2个月|  在职 |
-|   Lily  |  UI  |    无   |   - |          - FCC|      -|        - FCC|   1个月|  在职 |
-|   wx    |  UI  |    无   |   - |          - FCC|      -|        - FCC|   2个月|  在职 |
-|   np    |  Dev |    无   |   - |          - FCC|      -|        - FCC|   2个月|  在职 |
-|   Joy   |  Dev |    无   |   - |          - FCC|      -|        - FCC|   2个月|  在职 |
+|   呢称   | 岗位 |   薪酬   | 职级 |在职状态|   代币激励数量  |发放周期      |2022-08代币激励|2022-09代币激励|2022-10代币激励 |
+|:-------:|:----:|:-------:|:---:|:-----:|:-------------:|:-----------:|:----------:|:------------:|:--------------:|
+|Jack Long|CEO   |    -   | F20 |在职 |100,000,000 FCC   |36个月       |2,777,778 FCC|2,777,778 FCC|2,777,778 FCC|
+|Danny Guo|CTO   |    -   | F20 |在职 |50,000,000 FCC    |36个月       |1,388,889 FCC|1,388,889 FCC|1,388,889 FCC|
+|Mia      |发言人 |    -   | F20 |在职 |10,000,000 FCC    |36个月       |277,778 FCC  |277,778 FCC  |277,778 FCC  |
+|Lily     |UI    |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|Eeme W   |UI    |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|00N      |Dev   |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|Joy      |Dev   |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|DK       |Dev   |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|Kang     |Dev   |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|Pual Zhang|Dev  |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|tj4n     |Dev   |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|jessica Rao|Dev |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|jessica Rao|Dev |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 
+|jessica Rao|Dev |    -   |   - |在职 |- FCC             |           -|- FCC| - FCC| - FCC|  - FCC| - FCC| 

@@ -103,7 +103,7 @@ FreeChatDevelopment开发团队名单及薪酬如下公示：
 
 FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
 
-（团队名单会随着FreeChatDevelopment开发团队进行变动）
+（社区成员名单会随时进行进行变动，请注意。）
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
