@@ -20,41 +20,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 # FreechatDAO和Freechat的激励方案
 
 ## 目的
-向潜在的投资者募集资金补充流动性池。
-
-## 背景
-FreechatDAO和Freechat的历史背景和由来。
-
-  - **种子轮投资人**
-  
-    Neilson Lee先生是Freechat和FreechatDAO的奠基人之一，也是Jack Long创始人的早期投资人，无论是从资金和资源、顾问指导方面，在过去五年中，Jack Long和Neilson Lee先生合作共同累计创造超过1亿人民币的营收，同时为项目及社区提供极大的帮助。迄今为止，共计提供以下资金为社区提供支撑：
-
-    |资金总量|
-    |:-:|
-    |1,000,000 USD|
-
-    为感谢Neilson Lee先生，FreechatDAO社区提供以下数量的Freechat Coin用于回报Neilson Lee先生。
-
-    |Freechat Coin数量|
-    |:-:|
-    |200,000,000 FCC|
-
-     - **持有地址**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
-     - **占比总量**：20%
-     - **锁仓限制**：2025-08-22解除限制
-     - **限制条款**：锁仓期间不能进行操作、转移及抛售。
-    
-    Neilson Lee先生作为投资人代表，为FreechatDAO和Freechat提供激励顾问服务，代为保管下一轮激励的Freechat Coin，具体数量如下所示：
-
-    |Freechat Coin数量|
-    |:-:|
-    |100,000,000 FCC|
-
-     - **持有地址**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
-     - **占比总量**：10%
-     - **锁仓限制**：2025-08-22解除限制
-     - **限制条款**：锁仓期间不能进行操作、转移及抛售。
-     - **代币使用**：用于新一轮投资人的流动性奖励。
+补充Freechat Coin流动池资金，发放Freechat Coin空投进行去中心化治理。
 
 ## 激励方案
    为确保快速的积累流动池，激励方式公示如下：

@@ -1,7 +1,7 @@
 ---
 fip: 15
-标题: 定向邀请投资人名单及流动性奖励名单
-描述: 向指定的投资人进行激励邀请名单及奖励。
+标题: 社区定向融资计划
+描述: 向潜在的投资机构及投资人进行社区募资
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
@@ -20,31 +20,50 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md
 # 激励定向邀请名单、流动性奖励名单
 
 ## 目的
-FreechatDAO和Freechat定向激励方案投资者名单公示，便于监督和提案执行依据。
+通过社区定向融资的方式补充社区资金，用于社区治理和产品研发。
 
-## 提案截止更新时间
-2022-12-31 23:00
+## 融资方案
+   ### 背景
+   FreechatDAO和Freechat的历史背景和由来，投资历史。
 
-依据：[FIP-14提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md)
+  - **种子轮投资人**
+  
+    Neilson Lee先生是Freechat和FreechatDAO的奠基人之一，也是Jack Long创始人的早期投资人，无论是从资金和资源、顾问指导方面，在过去五年中，Jack Long和Neilson Lee先生合作共同累计创造超过1亿人民币的营收，同时为项目及社区提供极大的帮助。迄今为止，共计提供以下资金为社区提供支撑：
 
-## 定向邀请投资人地址
-|地址| 
-|:-:|
-|[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae)|
+    |资金总量|
+    |:-:|
+    |1,000,000 USD|
 
-## 流动性激励（LP激励）流动性奖励名单
-|地址|提供流动性金额|流动性解锁日期|奖励数量|奖励日期|
-|:-:|:----------:|:----------:|:----:|:----:|
-|[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae) | 1,000,000 USDT | 2023-12-31 | 10,000,000 FCC | 2025-08-22 |
+    为感谢Neilson Lee先生，FreechatDAO社区提供以下数量的Freechat Coin用于回报Neilson Lee先生。
 
-## 投资者名单维护授权
-FreechatDAO授权以下人员进行名单维护：
+    |Freechat Coin数量|
+    |:-:|
+    |200,000,000 FCC|
 
-（授权范围：确认邀请名单、维护相关表格及信息）
+     - **持有地址**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
+     - **占比总量**：20%
+     - **锁仓限制**：2025-08-22解除限制
+     - **限制条款**：锁仓期间不能进行操作、转移及抛售。
+    
+    Neilson Lee先生作为投资人代表，为FreechatDAO和Freechat提供融资顾问服务，代为保管社区融资的的Freechat Coin，具体数量如下所示：
+
+    |Freechat Coin数量|
+    |:-:|
+    |100,000,000 FCC|
+
+     - **持有地址**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
+     - **占比总量**：10%
+     - **锁仓限制**：2025-08-22解除限制
+     - **限制条款**：锁仓期间不能进行操作、转移及抛售。
+     - **代币使用**：用于新一轮投资人的融资回报。
+
+## 社区融资负责人
 
 Jack Long（jacklong@freechat.world）
 
-（授权失效时间：2022-12-31 23:00）
+## 顾问
+
+Siwei Dong
 
 ## 相关资料
 
