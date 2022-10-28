@@ -69,6 +69,17 @@ FreechatDAO和Freechat的历史背景和由来，投资历史。
    - **风险控制**：募集资金由社区账户金库进行保管，由多重签名（若干个签名者才可进行钱包操作）进行保障。
    - **社区账户**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 
+## 市场信息
+目前，Freechat Coin在DEX市场交易和流通，可通过以下市场进行交易：
+
+- **可交易市场**：
+
+  [Freechat](https://freechat.world) 
+
+  [Uniswap](https://app.uniswap.org/#/swap) 
+
+  [1inch](https://app.1inch.io/)
+
 ## 社区融资负责人
 
 Jack Long（jacklong@freechat.world）
