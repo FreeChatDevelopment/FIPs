@@ -1,12 +1,12 @@
 ---
 fip: 15
-标题: 融资定向邀请投资人名单及流动性奖励名单
-描述: 向指定的投资人进行融资邀请及投资人流动性奖励配送名单。
+标题: 定向邀请投资人名单及流动性奖励名单
+描述: 向指定的投资人进行激励邀请名单及奖励。
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-24
-修改时间: 2022-10-25
+修改时间: 2022-10-28
 ---
 
 ## Freechat Github Fips: 
@@ -17,13 +17,13 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md
   |:-:|:-:|:-:|
   | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
-# 融资定向邀请名单、流动性奖励名单
+# 激励定向邀请名单、流动性奖励名单
 
 ## 目的
-FreechatDAO和Freechat定向融资方案投资者名单公示，便于监督和提案执行依据。
+FreechatDAO和Freechat定向激励方案投资者名单公示，便于监督和提案执行依据。
 
 ## 提案截止更新时间
-2022-12-23 23:00
+2022-12-31 23:00
 
 依据：[FIP-14提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md)
 
@@ -32,10 +32,10 @@ FreechatDAO和Freechat定向融资方案投资者名单公示，便于监督和�
 |:-:|
 |[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae)|
 
-## 流动性融资（LP融资）流动性奖励名单
+## 流动性激励（LP激励）流动性奖励名单
 |地址|提供流动性金额|流动性解锁日期|奖励数量|奖励日期|
 |:-:|:----------:|:----------:|:----:|:----:|
-|[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae) | 1,000,000 USDT | 2023-12-31 | 14,285,714 FCC | 2025-08-22 |
+|[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/address/0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae) | 1,000,000 USDT | 2023-12-31 | 10,000,000 FCC | 2025-08-22 |
 
 ## 投资者名单维护授权
 FreechatDAO授权以下人员进行名单维护：
