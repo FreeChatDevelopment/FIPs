@@ -1,7 +1,7 @@
 ---
 fip: 14
 标题: FreechatDAO和Freechat的流动性空投激励方案
-描述: 所有Freechat的用户为Freechat Coin提供流动性的奖励。
+描述: 所有潜在投资人为Freechat Coin提供流动性的奖励。
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
@@ -20,7 +20,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 # FreechatDAO和Freechat的激励方案
 
 ## 目的
-补充Freechat Coin流动池资金，发放Freechat Coin空投进行去中心化治理。
+补充Freechat Coin（FCC）流动池资金，发放Freechat Coin（FCC）空投进行去中心化治理。
 
 ## 激励方案
    为确保快速的积累流动池，激励方式公示如下：
@@ -61,20 +61,6 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
      风险提示：投资人在提供流动性时，请谨慎设置交易对的价格范围，流动池会根据 FCC 的市场进行变化，比如购买、出售 FCC 等行为会影响到流动池的变化。当 FCC 价格在设置的流动性范围时，将会使用该流动池。
 
-## 激励联系人
-
-Jack Long（jacklong@freechat.world）
-
-## 顾问
-
-Siwei Dong
-
-## 定向邀请名单及激励名单
-为保证公正、透明、公开，FreechatDAO社区和Freechat将通过快照形式进行记录及公示，请参考以下提案：
-
-[FIP-15提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md)
-
-注意事项：不在邀请名单内的投资人及用户，不会进行任何方式激励发放。
 
 ## 快照时间及检查
 快照用于记录账户活动状况及变动状况，保证激励规则的公平性及透明度，保护投资者权益和社区权益。
