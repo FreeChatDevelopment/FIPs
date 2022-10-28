@@ -45,6 +45,14 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 快照时间：每月随机时间段
 
+## 空投发放信息
+为保证市场不受外部影响，空投使用市场流通的账户的进行空投发放。
+
+市场流通账户信息
+- **持有FCC数量**：200,000,000  
+- **占比总量比例**：20%
+- **FCC流动性提供地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
+
 ## 相关资料
 
 社区治理：
