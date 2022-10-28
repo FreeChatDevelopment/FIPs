@@ -17,7 +17,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md
   |:-:|:-:|:-:|
   | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
-# 融资定向邀请名单、流动性奖励名单
+# 社区定向融资计划
 
 ## 目的
 通过社区定向融资的方式补充社区资金，用于社区治理和产品研发。
