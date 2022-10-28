@@ -99,16 +99,16 @@ FreechatDAO和Freechat的历史背景和由来。
 
 Jack Long（jacklong@freechat.world）
 
-## 激励顾问
+## 顾问
 
 Siwei Dong
 
-## 定向邀请名单及配送名单、空投名单
+## 定向邀请名单及激励名单
 为保证公正、透明、公开，FreechatDAO社区和Freechat将通过快照形式进行记录及公示，请参考以下提案：
 
 [FIP-15提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md)
 
-（不在邀请名单内的投资人及用户，不会进行任何方式发放）
+注意事项：不在邀请名单内的投资人及用户，不会进行任何方式激励发放。
 
 ## 快照时间及检查
 快照用于记录账户活动状况及变动状况，保证激励规则的公平性及透明度，保护投资者权益和社区权益。
