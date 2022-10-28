@@ -40,6 +40,14 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
          
       示例：如2022-11-07 14:00-15:00为截取快照时间，所有地址持有FCC总量为1,000,000个，根据计算公式得出1,000,000（每月空投数量）/1,000,000（持仓数量）=1 FCC（每FCC空投数量）*用户持仓数量（50,000）=5,0000（用户实际获得空投量）
 
+- **可交易市场**：
+
+  [Freechat](https://freechat.world) 
+
+  [Uniswap](https://app.uniswap.org/#/swap) 
+
+  [1inch](https://app.1inch.io/)
+
 ## 快照时间及检查
 为保证公平性，每月随机时间段进行快照截取和统计。
 
