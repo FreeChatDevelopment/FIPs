@@ -1,7 +1,7 @@
 ---
 fip: 14
-标题: FreechatDAO和Freechat的激励方案
-描述: FreechatDAO和Freechat产品的激励方案的确认和实施
+标题: FreechatDAO和Freechat的流动性空投激励方案
+描述: 所有Freechat的用户为Freechat Coin提供流动性的奖励。
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
@@ -20,7 +20,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 # FreechatDAO和Freechat的激励方案
 
 ## 目的
-定向邀请方式面向潜在的投资者募集资金补充流动性池。
+向潜在的投资者募集资金补充流动性池。
 
 ## 背景
 FreechatDAO和Freechat的历史背景和由来。
@@ -65,7 +65,7 @@ FreechatDAO和Freechat的历史背景和由来。
    - **激励用途**：全部投入流动性池
    - **操作方式**：参与激励的投资人以自有钱包的方式自行设置流动池及范围。
    - **目标交易对**：[USDT-FCC](https://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1])
-   - **窗口截止时间**：2022-12-31
+   - **窗口截止时间**：2023-12-31
 
  #### 流动性激励（LP激励）
 
