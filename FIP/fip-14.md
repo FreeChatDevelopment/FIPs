@@ -30,7 +30,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 - **每月空投数量**：1,000,000 FCC
 
-- **空投规则**：每个月随机时间段截取快照，根据截取的时间段快照列表对持有FCC的用户进行空投。
+- **空投规则**：每月随机截取的时间段快照对持有FCC的用户进行空投。
 
 - **空投奖励**：Freechat Coin（FCC）
 
