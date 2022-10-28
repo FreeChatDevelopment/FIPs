@@ -71,7 +71,7 @@ FreechatDAO和Freechat的历史背景和由来，投资历史。
 
 Jack Long（jacklong@freechat.world）
 
-## 顾问
+## FA顾问
 
 Siwei Dong
 
