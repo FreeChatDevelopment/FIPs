@@ -1,12 +1,12 @@
 ---
 fip: 14
-标题: Freechat Coin（FCC）流动性激励空投计划
-描述: 所有潜在投资人为Freechat Coin（FCC）提供流动性的奖励。
+标题: Freechat Coin（FCC）市场激励空投计划
+描述: 为持有Freechat Coin（FCC）的用户提供市场激励奖励。
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-23
-修改时间: 2022-10-28
+修改时间: 2022-10-29
 ---
 
 ## Freechat Github Fips: 
@@ -17,10 +17,10 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
   |:-:|:-:|:-:|
   | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
-# FreechatDAO和Freechat的激励方案
+# Freechat Coin（FCC）市场激励空投计划
 
 ## 目的
-补充Freechat Coin（FCC）流动池资金，发放Freechat Coin（FCC）空投进行去中心化治理。
+发放Freechat Coin（FCC）空投奖励进行去中心化治理。
 
 ## 流动性激励空投方案
 
@@ -28,31 +28,22 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 - **空投时间**：12个月
 
-- **每月解锁**：1,000,000 FCC
+- **每月空投数量**：1,000,000 FCC
 
-- **流动池**：[USDT-FCC](ttps://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+- **空投规则**：每个月随机时间段截取快照，根据截取的时间段快照列表对持有FCC的用户进行空投。
 
-- **流动性提供币种**：USDT
-
-- **激励回报**：为提供流动性的用户发放FCC空投奖励
+- **空投奖励**：Freechat Coin（FCC）
 
 - **计算公式**：
 
-  USDT-FCC交易对
-
-  每月FCC解锁数量/USDT流动性池总量=每USDT获得FCC数量
+  每月FCC解锁数量/快照时间FCC持仓总量=每FCC空投数量*持仓数量=空投数量
          
-      示例：如11月USDT-FCC流动池有50,000USDT流动量，那么按照计算公式，每USDT将获得以下数量的FCC空投激励：1,000,000 FCC/50,000=20 FCC（每USDT获得FCC空投数量）
-
-  风险提示：提供流动性时，请谨慎设置交易对的价格范围，流动池会根据 FCC 的市场进行变化，比如购买、出售 FCC 等行为会影响到流动池的变化。当 FCC 价格在设置的流动性范围时，将会使用该流动池。
-
+      示例：如2022-11-07 14:00-15:00为截取快照时间，所有地址持有FCC总量为1,000,000个，根据计算公式得出1,000,000（每月空投数量）/1,000,000（持仓数量）=1 FCC（每FCC空投数量）*用户持仓数量（50,000）=5,0000（用户实际获得空投量）
 
 ## 快照时间及检查
-快照用于记录账户活动状况及变动状况，保证激励规则的公平性及透明度，保护投资者权益和社区权益。
+为保证公平性，每月随机时间段进行快照截取和统计。
 
-快照时间：每月随机时间
-
-根据规则，参与定向邀请的地址将会进行快照检查6次，期间不能有任何操作如撤销流动性、增加流动性，快照记录六次都应当一致，不一致将取消流动性奖励资格。
+快照时间：每月随机时间段
 
 ## 相关资料
 
