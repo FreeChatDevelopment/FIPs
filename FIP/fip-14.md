@@ -38,7 +38,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 - **计算公式**：
 
-  每月FCC解锁数量/快照时间FCC持仓总量=每FCC空投数量*持仓数量=空投数量
+  每月FCC空投数量/快照时间FCC持仓总量=每FCC空投数量*持仓数量=空投数量
          
     - **示例**：如2022-11-07 14:00-15:00为截取快照时间，快照所有地址持有FCC总量为1,000,000个，根据计算公式得出：
   
