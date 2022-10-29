@@ -9,6 +9,11 @@ fip: 14
 修改时间: 2022-10-29
 ---
 
+* [中文版](#1)
+
+* [English](#2)
+
+<h2 id="1">中文版</h2>
 ## Freechat Github Fips: 
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
@@ -24,13 +29,13 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 ## 流动性激励空投方案
 
-- **空投总量**：12,000,000
+- **空投总量**：500,000
 
-- **空投持续时间**：12个月
+- **空投持续时间**：1个月
 
-- **空投开始与结束时间**：2022-12-15开始至2023-12-15结束
+- **空投开始与结束时间**：2022-12-15开始至2023-011-15结束
 
-- **每月空投数量**：1,000,000 FCC
+- **每月空投数量**：500,000 FCC
 
 - **空投规则**：每月随机截取时间段快照对快照时间段内持有FCC的用户进行空投。
 
@@ -44,11 +49,11 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
   
       计算得出每FCC获得空投数量：
       
-      1,000,000（每月空投数量）/5,000,000（快照持仓总量）=0.2 FCC（每FCC空投数量）
+      500,000（每月空投数量）/5,000,000（快照持仓总量）=0.1 FCC（每FCC空投数量）
 
       计算得出用户获得空投数量：
       
-      0.2 FCC（每FCC空投数量）*用户持仓数量（50,000）=10,000（用户获得空投数量）
+      0.1 FCC（每FCC空投数量）*用户持仓数量（50,000）=5,000（用户获得空投数量）
 
 - **可交易市场**：
 
@@ -119,3 +124,7 @@ Freechat Coin流动池与交易对：
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
+
+-------------------------
+
+<h3 id="2">English</h3>
