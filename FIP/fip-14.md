@@ -26,7 +26,9 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 - **空投总量**：12,000,000
 
-- **空投时间**：12个月
+- **空投持续时间**：12个月
+
+- **空投开始与结束时间**：2022-12-15开始至2023-12-15结束
 
 - **每月空投数量**：1,000,000 FCC
 
@@ -60,8 +62,9 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 市场流通账户信息
 - **持有FCC数量**：200,000,000  
+- **账户释义**：发放账户为市场流通账户，所持有FCC是不受任何锁仓限制的流通代币，可随意交易和处置。
 - **发放地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
-- **发放时间**：截取快照后5日内，根据名单进行发放。
+- **发放时间**：截取快照后5日内，根据截取时间段快照内名单进行发放。
 - **发放名单**：https://freechat.world/
 
 ## 相关资料
