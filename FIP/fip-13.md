@@ -6,7 +6,7 @@ fip: 13
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-23
-修改时间: 2022-10-28
+修改时间: 2022-10-30
 ---
 
 ## Freechat Github Fips: 
@@ -15,7 +15,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  | 2022-10-28 |https://snapshot.org/#/freechatdao.eth/proposal/0x7c0b9e29e7dd3aad4420945ed70996095b2e633aece65e88b77b22016802016c|待定|
+  | 2022-10-30 |https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560|待定|
 
 # FreechatDAO开发团队工作制度及薪酬体系制度
 
