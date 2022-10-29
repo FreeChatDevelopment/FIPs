@@ -42,13 +42,13 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |00L      |UI    |15 USD/时 | F4  |在职 |月激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       | 
 |00N      |Dev   |15 USD/时 | F4  |在职 |月激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       |  
 |Joy      |Dev   |20 USD/时 | F5  |在职 |月激励             |36个月|- FCC        | - FCC       | - FCC       | 
-|DK       |Dev   |    -     | -   |在职 |- FCC             |-    |- FCC        | - FCC       | - FCC        | 
+|DK       |Dev   |    -     | -   |在职 |-                 |-    |- FCC        | - FCC       | - FCC        | 
 |Kang     |Dev   |25 USD/时 | F6   |在职 |无激励             |-    |- FCC       | - FCC       | - FCC        |
-|Pual Zhang|Dev  |    -     | -   |在职 |- FCC             |-    |- FCC        | - FCC       | - FCC        | 
+|Pual Zhang|Dev  |    -     | -   |在职 |-                 |-    |- FCC        | - FCC       | - FCC        | 
 |tj4n     |Dev   |20 USD/时 | F5   |在职 |月激励            |36个月|45,714 FCC  |45,714 FCC    | - FCC        | 
 |jack.io  |Dev   |20 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC        |
 |Rao      |Dev   |20 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC        |
-|UN       |Dev   |15 USD/时 | J4   |在职 |月激励            |36个月|- FCC        | - FCC        |- FCC         |
+|UN       |Dev   |15 USD/时 | J4   |在职 |月激励            |36个月|- FCC        | - FCC        |-  FCC         |
 
 -------------------------
 
