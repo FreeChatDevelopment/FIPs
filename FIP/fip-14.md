@@ -30,7 +30,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 - **每月空投数量**：1,000,000 FCC
 
-- **空投规则**：每月随机截取时间段快照对持有FCC的用户进行空投。
+- **空投规则**：每月随机截取时间段快照对快照时间段内持有FCC的用户进行空投。
 
 - **空投奖励**：Freechat Coin（FCC）
 
@@ -56,12 +56,12 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 快照时间：每月随机时间段
 
 ## 空投发放信息
-为保证市场不受外部影响，空投使用市场流通的账户的进行空投发放，以下为账户相关信息。
+为保证市场不受外部影响，空投使用市场流通的账户的进行空投发放，以下为空投激励的账户相关信息。
 
 市场流通账户信息
 - **持有FCC数量**：200,000,000  
 - **发放地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
-- **发放时间**：截取快照后3日内，根据名单进行发放。
+- **发放时间**：截取快照后5日内，根据名单进行发放。
 - **发放名单**：https://freechat.world/
 
 ## 相关资料
