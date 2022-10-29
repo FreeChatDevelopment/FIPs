@@ -14,6 +14,7 @@ fip: 14
 [English](#2)
 
 <h2 id="1">中文版</h2>
+
 ## Freechat Github Fips: 
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
@@ -55,31 +56,33 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
       
       0.1 FCC（每FCC空投数量）*用户持仓数量（50,000）=5,000（用户获得空投数量）
 
-- **可交易市场**：
+ - **发放名单**：https://freechat.world/
 
-  [Freechat](https://freechat.world) 
+ - **可交易市场**：
 
-  [Uniswap](https://app.uniswap.org/#/swap) 
+   [Freechat](https://freechat.world) 
 
-  [1inch](https://app.1inch.io/)
+   [Uniswap](https://app.uniswap.org/#/swap) 
 
-- **不参与空投名单**：
+   [1inch](https://app.1inch.io/)
+
+ - **不参与空投名单**：
   
-  为保证空投公平性，确保社区成员、用户及去中心化治理的实施，以下账户不参与空投：
-  - **FreechatDAO社区地址**：
+   为保证空投公平性，确保社区成员、用户及去中心化治理的实施，以下账户不参与空投：
+   - **FreechatDAO社区地址**：
   
-    [0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
-  - **FreechatDAO开发团队地址**：
+      [0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+    - **FreechatDAO开发团队地址**：
     
-    [0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
-  - **投资人地址**：   
+      [0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
+    - **投资人地址**：   
     
-    [0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
-  - **市场流通地址**：
+      [0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
+    - **市场流通地址**：
   
-    [0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
+      [0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
     
-    所有流动池地址（包含未来加入的所有交易对）
+      所有流动池地址（包含未来加入的所有交易对）
 
 
 ## 快照时间及检查
@@ -95,7 +98,6 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 - **账户释义**：发放账户为市场流通账户，所持有FCC是不受任何锁仓限制的流通代币，可随意交易和处置。
 - **发放地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
 - **发放时间**：截取快照后5日内，根据截取时间段快照内名单进行发放。
-- **发放名单**：https://freechat.world/
 
 ## 相关资料
 

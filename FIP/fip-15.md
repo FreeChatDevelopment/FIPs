@@ -9,6 +9,12 @@ fip: 15
 修改时间: 2022-10-28
 ---
 
+[中文版](#1)
+
+[English](#2)
+
+<h2 id="1">中文版</h2>
+
 ## Freechat Github Fips: 
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-15.md
@@ -80,6 +86,33 @@ FreechatDAO和Freechat的历史背景和由来，投资历史。
 
   [1inch](https://app.1inch.io/)
 
+## FreechatDAO社区团队
+
+   - **Jack Long**
+   
+     - FreechatDAO社区创始人，负责社区治理、发展及产品等工作，连续创业者，近10年创业经验，曾是中国西南地区最大的矿工。主导研发多款产品，产品营收超上亿元人民币。
+  
+   - **Danny Guo**
+     - FreechatDAO社区联合创始人，负责社区治理、社区产品研发工作，曾任Tencent，负责IM，Game等产品的技术研发工作。
+   
+   - **Neilson Lee**
+     - FreechatDAO社区联合创始人及天使投资人，负责社区投资、融资等工作。
+
+   - **00L**
+     - FreechatDAO社区开发工程师，负责社区产品研发工作。
+
+   - **00N**
+     - FreechatDAO社区UI设计师，负责社区设计工作。
+
+   - **00W**
+     - FreechatDAO社区UI设计师，负责社区设计工作。
+
+   - **Tj4n**
+     - FreechatDAO社区研发工程师，负责社区产品研发工作。
+
+   - **Tj4n**
+     - FreechatDAO社区研发工程师，负责社区产品研发工作。
+  
 ## 社区融资负责人
 
 Jack Long（jacklong@freechat.world）
@@ -115,3 +148,7 @@ Freechat Coin流动池与交易对：
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
+
+-------------------------
+
+<h3 id="2">English</h3>
