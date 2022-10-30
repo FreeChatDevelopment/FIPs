@@ -98,6 +98,9 @@ FreechatDAO和Freechat的历史背景和由来，投资历史。
    - **Neilson Lee**
      - FreechatDAO社区联合创始人及天使投资人，负责社区投资、融资等工作。
 
+   - **Mia**
+     - FreechatDAO社区联合创始人，社区发言人，媒体负责人。
+
    - **00L**
      - FreechatDAO社区开发工程师，负责社区产品研发工作。
 
