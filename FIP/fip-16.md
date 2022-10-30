@@ -38,16 +38,16 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |Jack Long|CEO   |    -    | F20  |在职 |100,000,000 FCC  |36个月 |2,777,778 FCC|2,777,778 FCC|2,777,778 FCC|
 |Danny Guo|CTO   |    -    | F20  |在职 |50,000,000 FCC   |36个月 |1,388,889 FCC|1,388,889 FCC|1,388,889 FCC|
 |Mia      |发言人 |    -    | F20  |在职 |10,000,000 FCC   |36个月 |277,778 FCC  |277,778 FCC  |277,778 FCC  |
-|00W      |UI    |15 USD/时 | F4  |在职 |月激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       |
-|00L      |UI    |15 USD/时 | F4  |在职 |月激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       | 
-|00N      |Dev   |15 USD/时 | F4  |在职 |月激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       |  
-|Joy      |Dev   |20 USD/时 | F5  |在职 |月激励             |36个月|- FCC        | - FCC       | - FCC       | 
+|00W      |UI    |15 USD/时 | F4  |在职 |有激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       |
+|00L      |UI    |15 USD/时 | F4  |在职 |有激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       | 
+|00N      |Dev   |15 USD/时 | F4  |在职 |有激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       |  
+|Joy      |Dev   |20 USD/时 | F5  |在职 |有激励             |36个月|- FCC        | - FCC       | - FCC       | 
 |DK       |Dev   |    -     | -   |在职 |-                 |-    |- FCC        | - FCC       | - FCC        | 
-|Kang     |Dev   |25 USD/时 | F6   |在职 |无激励             |-    |- FCC       | - FCC       | - FCC        |
-|Pual Zhang|Dev  |    -     | -   |在职 |-                 |-    |- FCC        | - FCC       | - FCC        | 
-|tj4n     |Dev   |20 USD/时 | F5   |在职 |月激励            |36个月|45,714 FCC  |45,714 FCC    | - FCC        | 
-|jack.io  |Dev   |20 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC        |
-|Rao      |Dev   |20 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC        |
+|Kang     |Dev   |25 USD/时 | F6   |在职 |无激励            |-    |- FCC        | - FCC       | - FCC        |
+|Pual Zhang|Dev  |15 USD/时 | -    |在职 |有激励            |-    |- FCC        | - FCC       | - FCC        | 
+|tj4n     |Dev   |20 USD/时 | F5   |在职 |有激励            |36个月|45,714 FCC   |45,714 FCC   | - FCC        | 
+|jack.io  |Dev   |20 USD/时 | J5   |在职 |无激励            |-    |- FCC        | - FCC        | - FCC        |
+|Rao      |Dev   |20 USD/时 | J5   |在职 |无激励            |-    |- FCC        | - FCC        | - FCC        |
 |UN       |Dev   |15 USD/时 | J4   |在职 |月激励            |36个月|- FCC        | - FCC        |-  FCC         |
 
 -------------------------
