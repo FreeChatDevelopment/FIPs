@@ -2,12 +2,18 @@
 fip: 1
 标题: FIP 目的和指南
 描述: 社区的治理机制和运行方式指南，包括社区开发团队的指南和执行机制。
-状态: 草案
+状态: 生效
 类型: 机制
 作者: Jack long（jacklong@freechat.world）
 创建时间: 2022-10-22
 修改时间: 2022-10-23
 ---
+
+[中文版](#1)
+
+[English](#2)
+
+<h2 id="1">中文版</h2>
 
 ## Freechat Github Fips: 
 
@@ -16,7 +22,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x12e6f4caa70509bfe82254f6b805d39b9aff92135ab68ea2ea7cddacde0e6e3f|待定|
+  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x12e6f4caa70509bfe82254f6b805d39b9aff92135ab68ea2ea7cddacde0e6e3f|通过|
 
 # FIP 目的和指南
 
@@ -149,3 +155,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
+
+-------------------------
+
+<h3 id="2">English</h3>

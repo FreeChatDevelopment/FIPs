@@ -2,7 +2,7 @@
 fip: 11
 标题: FreechatDAO社区介绍及治理
 描述: FreechatDAO社区介绍和治理的相关指南
-状态: 草案
+状态: 生效
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-22
@@ -16,7 +16,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x9709618ddcf127f52a7b45643d016efa89c0e5afacea564a0a22b8937eb57939|待定|
+  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x9709618ddcf127f52a7b45643d016efa89c0e5afacea564a0a22b8937eb57939|通过|
 
 # FreechatDAO社区介绍及治理
 

@@ -9,6 +9,12 @@ fip: 17
 修改时间: 2022-10-25
 ---
 
+[中文版](#1)
+
+[English](#2)
+
+<h2 id="1">中文版</h2>
+
 ## Freechat Github Fips: 
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-17.md
@@ -17,3 +23,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-17.md
   |:-:|:-:|:-:|
   |YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
+
+-------------------------
+
+<h3 id="2">English</h3>

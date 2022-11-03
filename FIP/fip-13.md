@@ -6,7 +6,7 @@ fip: 13
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-23
-修改时间: 2022-10-30
+修改时间: 2022-11-03
 ---
 
 ## Freechat Github Fips: 
@@ -96,28 +96,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
    - **岗位薪酬等级**：
 
-     | 职级 | 薪酬 |
-     | :-: |:-:|
-     | F1  |8    USD/时|
-     | F2  |10   USD/时|
-     | F3  |12   USD/时|
-     | F4  |15   USD/时|
-     | F5  |20   USD/时|
-     | F6  |25   USD/时|
-     | F7  |30   USD/时|
-     | F8  |35   USD/时|
-     | F9  |50   USD/时|
-     | F10 |60   USD/时|
-     | F11 |70   USD/时|
-     | F12 |80   USD/时|
-     | F13 |100  USD/时|
-     | F14 |150  USD/时|
-     | F15 |200  USD/时|
-     | F16 |300  USD/时|
-     | F17 |500  USD/时|
-     | F18 |社区决定|
-     | F19 |社区决定|
-     | F20 |社区决定|
+     执行[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
      以上职级为对应的薪酬标准。F14-F20职级进行特殊评定，由社区决定。
 
@@ -203,15 +182,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
   
       4个优秀以上由社区进行奖励，奖励如下。
 
-      | 职级 | 奖励 |
-      | :-: |:-:|
-      |F14  |20,000 USD|   
-      |F15  |30,000 USD|
-      |F16  |50,000 USD|
-      |F17  |100,000 USD|
-      |F18  |200,000 USD|
-      |F19  |300,000 USD|
-      |F20  |500,000 USD|
+      执行[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
      #### 退任标准
      
@@ -249,17 +220,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
  - **岗位薪酬等级**：
 
-   | 职级 | 时薪 |
-   | :-: |:-:|
-   | J1  |5 USD/时|
-   | J2  |8 USD/时|
-   | J3  |11 USD/时|
-   | J4  |15 USD/时|
-   | J5  |20 USD/时|
-   | J6  |25 USD/时|
-   | J7  |30 USD/时|
-   | J8  |40 USD/时|
-   | J9  |50 USD/时|
+   执行[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
     ### 岗位评定参数
 
