@@ -62,7 +62,9 @@ FreeChatDevelopment开发团队的激励数量如下所示：
    评定周期：36个月
 
 - **特别说明**：
-  开发团队所持有的代币目前有锁仓限制。解除限制后，根据实际工作的时长进行发放。
+  开发团队所持有的代币目前有锁仓限制。解除限制后，根据实际工作的时长进行发放和名单发放。
+  
+  名单依据[FIP-16提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
 
 ## 全职工作
 
