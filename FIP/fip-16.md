@@ -43,7 +43,11 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-08|00N        |Dev   |15 USD/时 | F4  |在职 |有激励             |36个月|34,285 FCC   |34,285 FCC   | - FCC       |  
 |2022-10|Kang       |Dev   |20 USD/时 | F5  |在职 |无激励             |-    |- FCC        | - FCC       | - FCC       |
 |2022-08|tj4n       |Dev   |20 USD/时 | F5  |在职 |有激励             |36个月|45,714 FCC   |45,714 FCC   | - FCC       | 
-|2022-10|jack.io    |Dev   |20 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
+|2022-10|DK         |Dev   |15 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
+|2022-10|Jessica Rao|Dev   |15 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
+|2022-10|Joy        |Dev   |20 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
+|2022-10|Paul       |Dev   |15 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
+|2022-10|Jojo       |Dev   |20 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
 
 -------------------------
 
