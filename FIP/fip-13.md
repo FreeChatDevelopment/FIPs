@@ -9,6 +9,12 @@ fip: 13
 修改时间: 2022-11-03
 ---
 
+[中文版](#1)
+
+[English](#2)
+
+<h2 id="1">中文版</h2>
+
 ## Freechat Github Fips: 
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
@@ -51,7 +57,9 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 - **锁仓限制**：2025-08-22 解除限制
 - **代币激励规则**：
 
-   评定规则：入职时确认是否需要激励，后续不再进行更改。
+   评定规则：入职时确认是否需要激励，每36个月重新评定一次。评定依据3年内的12次季度工作评估。
+
+   评定周期：36个月
 
 - **特别说明**：
   开发团队所持有的代币目前有锁仓限制。解除限制后，根据实际工作的时长进行发放。
@@ -324,3 +332,7 @@ FreechatDAO社区开发团队欢迎任何人及组织加入，如有兴趣可向
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
+
+-------------------------
+
+<h3 id="2">English</h3>
