@@ -302,11 +302,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
    每次会议会占用大量的时间，无法进行量化计算。
    因此，每月对所有社区开发人员作为会议时间的补偿。补偿费用将包含至薪资中。
 
-   补偿标准：100 USD/月
-
-   计算公式：月薪+会议补偿=实际薪资
-
-   会议规定：社区开发团队每周进行1次会议，每月4次会议。
+   执行依据：[FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
      
 ## FreechatDAO职级评估委员会
 负责社区开发人员职级评估、面试等工作。
