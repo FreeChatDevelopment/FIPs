@@ -9,6 +9,12 @@ fip: 12
 修改时间: 2022-10-28
 ---
 
+[中文版](#1)
+
+[English](#2)
+
+<h2 id="1">中文版</h2>
+
 ## Freechat Github Fips: 
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md
@@ -114,3 +120,7 @@ FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/b
 
 ## 版权放弃声明
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
+
+-------------------------
+
+<h3 id="2">English</h3>
