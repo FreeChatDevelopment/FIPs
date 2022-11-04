@@ -6,14 +6,14 @@ fip: 13
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-23
-修改时间: 2022-11-03
+修改时间: 2022-11-04
 ---
 
 [中文版](#1)
 
 [English](#2)
 
-### 中文版
+<h2 id="1">中文版</h2>
 
 ### Freechat Github Fips:
 
