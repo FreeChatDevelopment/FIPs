@@ -99,23 +99,20 @@ FreechatDAO和Freechat的历史背景和由来，投资历史。
      - FreechatDAO社区联合创始人及天使投资人，负责社区投资、融资等工作。
 
    - **Mia**
-     - FreechatDAO社区联合创始人，社区发言人，媒体负责人。
+     - FreechatDAO社区联合创始人，美国工作和生活8年，社区发言人，媒体负责人。
 
    - **00L**
-     - FreechatDAO社区开发工程师，负责社区产品研发工作。
+     - FreechatDAO社区设计师，负责社区产品设计工作，与Jack Long共同工作5年。
 
    - **00N**
-     - FreechatDAO社区UI设计师，负责社区设计工作。
+     - FreechatDAO社区开工程师，负责社区研发工作，与Jack Long共同工作2年。
 
    - **00W**
-     - FreechatDAO社区UI设计师，负责社区设计工作。
+     - FreechatDAO社区UI设计师，负责社区产品设计工作，与Jack Long共同工作4年。
 
    - **Tj4n**
-     - FreechatDAO社区研发工程师，负责社区产品研发工作。
+     - FreechatDAO社区研发工程师，负责社区产品研发工作。前Vivo工程师。
 
-   - **Tj4n**
-     - FreechatDAO社区研发工程师，负责社区产品研发工作。
-  
 ## 社区融资负责人
 
 Jack Long（jacklong@freechat.world）
