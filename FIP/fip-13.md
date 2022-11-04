@@ -5,17 +5,15 @@ fip: 13
 状态: 草案
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
-创建时间: 2022-10-23T00:00:00.000Z
-修改时间: 2022-11-03T00:00:00.000Z
+创建时间: 2022-10-23
+修改时间: 2022-11-03
 ---
 
-# fip-13
+[中文版](#1)
 
-[中文版](fip-13.md#1)
+[English](#2)
 
-[English](fip-13.md#2)
-
-### 中文版 <a href="#1" id="1"></a>
+### 中文版
 
 ### Freechat Github Fips:
 
@@ -65,7 +63,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
     评定周期：36个月
 *   **特别说明**： 开发团队所持有的代币目前有锁仓限制。解除限制后，根据实际工作的时长进行发放和名单发放。
 
-    名单依据[FIP-16提案](fip-13.md)
+    名单依据[FIP-16提案]((https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md))
 
 ### 全职工作
 
@@ -102,7 +100,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
     *   **岗位薪酬等级**：
 
-        执行[FIP-12提案](fip-12.md)
+        执行[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
         以上职级为对应的薪酬标准。F14-F20职级进行特殊评定，由社区决定。
 
@@ -191,7 +189,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
         4个优秀以上由社区进行奖励，奖励如下。
 
-        执行[FIP-12提案](fip-12.md)
+        执行[FIP-12提案]((https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md))
 
         **退任标准**
 
@@ -204,7 +202,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
     社区将根据运营情况，调整每个职级时薪薪酬，并进行社区提案，提案通过后将调整每个职位薪酬。
 
-    社区岗位薪酬限制提案: [FIP-12](fip-12.md)
+    社区岗位薪酬限制提案: [FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 ### 兼职工作
 
@@ -225,7 +223,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
     发放薪酬货币为USDT。
 *   **岗位薪酬等级**：
 
-    执行[FIP-12提案](fip-12.md)
+    执行[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
     #### 岗位评定参数
 
@@ -293,13 +291,13 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
     社区将根据运营情况，调整每个职级时薪薪酬，并进行社区提案，提案通过后将调整每个职位薪酬。
 
-    社区岗位薪酬限制提案: [FIP-12](fip-12.md)
+    社区岗位薪酬限制提案: [FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 ### 会议时间及会议补偿
 
 每次会议会占用大量的时间，无法进行量化计算。 因此，每月对所有社区开发人员作为会议时间的补偿。补偿费用将包含至薪资中。
 
-执行依据：[FIP-12](fip-12.md)
+执行依据：[FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 ### FreechatDAO职级评估委员会
 
@@ -317,7 +315,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
 FreeChatDevelopment开发团队名单及薪酬如下公示：
 
-FreeChatDevelopment Team: [FIP-16](fip-16.md)
+FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
 
 （社区成员名单会随时进行进行变动，请注意。）
 
@@ -331,6 +329,6 @@ FreechatDAO社区开发团队欢迎任何人及组织加入，如有兴趣可向
 
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
 
-***
+-------------------------
 
-#### English <a href="#2" id="2"></a>
+<h3 id="2">English</h3>
