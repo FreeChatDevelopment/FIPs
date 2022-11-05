@@ -176,9 +176,9 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 
 
-  | 提案时间 | 链接 | 结果 |
+  |Proposal Time|Links|Results|
   |:-:|:-:|:-:|
-  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x12e6f4caa70509bfe82254f6b805d39b9aff92135ab68ea2ea7cddacde0e6e3f|通过|
+  |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x12e6f4caa70509bfe82254f6b805d39b9aff92135ab68ea2ea7cddacde0e6e3f|Approved|
 
 # Purpose and Guidelines of FIP
 
@@ -210,95 +210,94 @@ There are three types of FIP
      (For example, 51, 5001, 50001, 500001, etc)
 
    - **Function FIP related definitions:**
-     -  **Idea Draft**：任何创意草案都应先进行讨论，草案状态可以进行随意更改。讨论链接：[ “创意草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E5%88%9B%E6%84%8F%E8%8D%89%E6%A1%88)，并将创意形成可实施的文档，如产品原型、开发文档等，并通过社区提案进行文档投票并通过，该提案转变为实施文档。
+     -  **Idea Draft**：Any idea draft should be discussed first, and the status of the draft can be changed at will. The idea draft will be discussed in the Discussion link: ["Idea draft"](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E5%88%9B%E6%84%8F%E8%8D%89%E6%A1%88)，and the idea draft will be formed into an implementable document, such as a product prototype, development document, etc., if the idea draft is approved through community voting, it will be formed into an implementation document.
      -  **Implementation Document**：After the idea draft is approved through the community proposal voting, it will be organized into an implementable FIP document, and the community development team will conduct the technical implementation.
      -  **Living**：After the technical implementation is completed, the corresponding FIP status changes to Living.
      -  **Withdrawn**：The community decides to withdraw the proposed FIP, the community development team will remove the FIP function, and the status changes to withdrawn.
 
-- **机制 FIP**
+- **Mechanism FIP**
   
-  描述围绕Freechat和FreechatDAO社区的流程或提议对流程（或流程中的事件、商业模式、治理方案）进行更改。适用于Freechat和FreechatDAO社区应用以外的领域。他们可能会提出一个实施方案，但不会针对Freechat和FreechatDAO社区的代码库；它们通常需要社区共识；任何机制 FIP 也被视为商业决策 FIP和社区治理 FIP。
+  A Mechanism describes the process or proposed changes to the process (or events, business model, and governance scheme in the process) surrounding Freechat and FreechatDAO community. Mechanism FIP applies to areas other than Freechat and FreechatDAO community itself. They may propose an implementation, but not to Freechat and FreechatDAO’s codebase; they often require community consensus; any mechanism FIP is also considered a business decision FIP and a community governance FIP.
   
-  - **机制FIP编号定义**
+  - **Mechanism FIP Numbering Definition**
   
-     为方便区分每个FIP的类型，FIP编号作以下定义：
+     For the convenience of distinguishing the type of each FIP, the FIP number is defined as follows:
   
-     机制性FIP头部数字：1
+     Mechanism FIP header: 1
   
-     （例如1、12、103、1004、10005、100006等）
+     (for example, 1,12,103,1004,10005,100006 etc.)
 
-  - **机制 FIP**的相关释义：
-    -  **机制草案**：任何机制草案都应先进行讨论，草案状态可以进行随意更改。讨论链接：[ “机制草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E6%9C%BA%E5%88%B6%E8%8D%89%E6%A1%88)，机制草案通过社区提案决策后，将整理为可实施的机制FIP文档，社区开发团队将进行技术实现或者社区执行。并转变为生效状态。
-    -  **生效**：经过社区提案决策并通过的机制FIP为生效状态。
-    -  **无效**：经过社区提案决策并通过的需要废弃的机制FIP为无效状态。
+  - **Mechanism FIP Related Definition:**
+    -  **Mechanism draft**：Any mechanism draft should be discussed first, and the draft status can be changed at will. The mechanism draft will be discussed in the Discussion link: ["Mechanism draft"](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E6%9C%BA%E5%88%B6%E8%8D%89%E6%A1%88), if it gets approved, it will be turned into an implementable mechanism FIP document, and the community development team will conduct technical implementation or community implementation. The status will change to valid.
+    -  **Valid**：Community-approved mechanism FIP is valid.
+    -  **Invalid**：Mechanism FIT needs to be removed is invalid.
   
-  - **信息 FIP**的相关释义：
-    - **信息 FIP**描述Freechat设计问题和向FreechatDAO社区提供一般指南或信息，但不提出新功能。信息 FIP 不一定代表FreechatDAO社区的共识或建议，因此用户和实施者可以自由地忽略信息 FIP 或听从他们的建议。
+  - **Information FIP Related Definition:**
+    - **Information FIP** describes Freechat design issues and provides general guidelines or information to the FreechatDAO community but does not propose new features. Information FIP does not necessarily represent the consensus or recommendations, so users and implementers are free to ignore the information FIP or follow its advice.
     
-    - **信息FIP编号定义**
+    - **Information FIP Numbering Definition**
   
-       为方便区分每个FIP的类型，FIP编号作以下定义：
+       For the convenience of distinguishing the type of each FIP, the FIP number is defined as follows:
   
-       信息性FIP头部数字：9
+       Information FIP header: 9
   
-       （例如9、92、903、9004、90005、900006等）
+       (for example, 9, 92,903,9004,90005,900006 etc.)
 
-## FIP 状态
-- **FIP**状态分为以下类型：
-  -  **功能FIP**状态分为：
-草案、实施、上线、下线
-  -  **机制FIP**状态分为：
-草案、生效、无效
-  -  **信息FIP**状态分为：
-无状态
+## FIP Status
+- **FIP**statuses are divided into the following types:
+  -  **Function FIP** statuses are divided into:
+     Draft, Implementation, Living, Withdrawn
+  -  **Mechanism FIP** statuses are divided into:
+     Draft, Valid, Invalid
+  -  **Information FIP** statuses are divided into:
+     statelessness
 
-## FIP 流程图
-FIP 执行的流程图
+## FIP flow chart
+FIP Execution Flow Chart
 
 ![FIP Status Diagram](./../assets/fip-1/1666553432767.jpg)
 
-## 成功的FIP应包含什么？
-每个FIP应该包含以下内容：
+## What belongs in a successful FIP?
+Each FIP should contain the following parts:
 
-#### 前言
-包含FIP编号、标题、描述、状态、类型、作者、链接、创建时间、修改时间元素。
-  -  时间格式为：（YYYY-MM-DD）
-  -  作者格式为： 呢称（Email）
+#### Header Preamble
+Contains FIP number, Title, Description, Status, Type, Author, link, Created time, and Modified time.
+  -  The time format is: （YYYY-MM-DD）
+  -  The author format is: username (Email)
 
-#### 动机或者想法、创意等描述
-动机、想法、创意、社区治理对于想要创新 Freechat和FreechatDAO社区 至关重要。它应该清楚地解释为什么现方式不足以解决用户需求的问题。
-#### 实施细节（如产品原型、开发文档等）
-实施细节通过描述设计的原理并形成可阅读的产品原型、开发文档等，方便社区用户阅读和理解，并快速推荐该草案进行社区提案，并形成实施文档快速的进行开发和执行。
-#### 版权放弃声明
-版权放弃 - FIP采用以太坊的许可协议进行声明，所有 FIP 必须在公共领域放弃版权，必须链接到许可文件并使用以下措辞：
+#### Description of motivation or ideas etc.
+Motivation, idea, creativity, and community governance are critical to innovate Freechat and the FreechatDAO community protocol. It should clearly explain why the current protocol specification is inadequate to address user needs
+#### Implementation details (e.g., product prototypes, development documentation, etc.)
+Implementation details describe the rationale for the design and form readable product prototypes, development documents, etc. for easy reading and understanding by the community users. The creator makes community proposals and forms implementation documents for rapid development and execution.
+#### Copyright Waiver
+Copyright waiver - The FIP uses Ethereum's license agreement to make the declaration. All FIPs must be in the public domain. The copyright waiver Must link to the license file and use the following wording:
 #### Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
 
-## FIP的文件格式
-每个FIP文件格式必须为Markdown文件，方便进行阅读和使用。
-可使用模版进行快速编辑：
-#### 模版：[fip-template](https://github.com/FreeChatDevelopment/FIPs/blob/main/fip-template.md)
+## FIP File Format
+Each FIP file must be in a Markdown format. There is a template to follow:
+#### Template：[fip-template](https://github.com/FreeChatDevelopment/FIPs/blob/main/fip-template.md)
 
-## 提交社区提案格式
+## Format of submitting community proposals
 
-社区治理链接：[FeechatDAO](https://snapshot.org/#/freechatdao.eth)
+Community Governance Link：[FeechatDAO](https://snapshot.org/#/freechatdao.eth)
 
-为统一方便社区提案的阅读和内容，向社区进行提案时应遵从以下格式：
+In order to unify and facilitate the reading and content of community proposals, the following formats should be followed when making proposals to the community:
 
 ---
 
-fip: FIP的编号（根据FIP编号规则定义）
+fip: FIP number (according to FIP number rules)
 
-标题: FIP的标题
+Title: FIP Title
 
-描述: FIP的简短描述
+Description: a short description of FIP
 
-类型: FIP的类型（功能、机制、信息）
+Type: type of FIP (function, mechanism, information)
 
-作者: 编辑和创建FIP的作者
+Author: FIP creators and editors
 
-创建时间: YYYY-MM-DD
+Created time: YYYY-MM-DD
 
-修改时间: YYYY-MM-DD
+Modified time: YYYY-MM-DD
 
 ---
 
@@ -306,9 +305,9 @@ fip: FIP的编号（根据FIP编号规则定义）
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 
-释义：该选项链接至Github对应的FIP。示例如：FIP-1对应的Github地址。
+Comments: This option links to the corresponding FIP in Github. e.g., FIP-1 corresponds to the Github address.
 
-提案内容：复制FIP的内容。如包含图片，请将提案内的图片修改为对应的FIP图片地址。
+Proposal content: Copy the contents of the FIP. If it contains images, please change the images in the proposal to the corresponding FIP images address
 
-## 版权放弃声明
+## Copyright Waiver
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
