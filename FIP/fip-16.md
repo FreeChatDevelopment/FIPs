@@ -48,6 +48,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-10|Joy        |Dev   |20 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
 |2022-10|Paul       |Dev   |15 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
 |2022-10|Jojo       |Dev   |20 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
+|2022-10|UN         |Dev   |15 USD/时 | J5  |在职 |无激励             |-    |- FCC        | - FCC        | - FCC      |
 
 -------------------------
 

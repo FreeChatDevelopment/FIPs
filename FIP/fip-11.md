@@ -4,7 +4,7 @@ fip: 11
 描述: FreechatDAO社区介绍和治理的相关指南
 状态: 生效
 类型: 机制
-作者: Jack long （jacklong@freechat.world）
+作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-22
 修改时间: 2022-10-23
 ---

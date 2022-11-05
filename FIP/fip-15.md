@@ -4,7 +4,7 @@ fip: 15
 描述: 向潜在的投资机构及投资人进行社区募资
 状态: 草案
 类型: 机制
-作者: Jack long （jacklong@freechat.world）
+作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-24
 修改时间: 2022-10-28
 ---

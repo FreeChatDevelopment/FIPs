@@ -4,7 +4,7 @@ fip: 14
 描述: 为持有Freechat Coin（FCC）的用户提供市场激励奖励。
 状态: 草案
 类型: 机制
-作者: Jack long （jacklong@freechat.world）
+作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-23
 修改时间: 2022-11-04
 ---

@@ -4,7 +4,7 @@ fip: 1
 描述: 社区的治理机制和运行方式指南，包括社区开发团队的指南和执行机制。
 状态: 生效
 类型: 机制
-作者: Jack long（jacklong@freechat.world）
+作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-22
 修改时间: 2022-10-23
 ---

@@ -4,7 +4,7 @@ fip: 13
 描述: 用于对社区团队的工作和薪酬制度的规范，激励。
 状态: 草案
 类型: 机制
-作者: Jack long （jacklong@freechat.world）
+作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-23
 修改时间: 2022-11-05
 ---
