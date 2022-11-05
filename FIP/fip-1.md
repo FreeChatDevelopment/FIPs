@@ -19,7 +19,6 @@ fip: 1
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
 
-
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
   |2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x12e6f4caa70509bfe82254f6b805d39b9aff92135ab68ea2ea7cddacde0e6e3f|通过|
