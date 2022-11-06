@@ -1,6 +1,6 @@
 # FreechatDAO和Freechat改进提案（FIP）
 
-在发起拉取请求之前，请阅读[FIP-1](fip-1/fip-1.md)流程文档。想法应该首先在[ “创意草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E5%88%9B%E6%84%8F%E8%8D%89%E6%A1%88)或[ “机制草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E6%9C%BA%E5%88%B6%E8%8D%89%E6%A1%88)上彻底讨论。
+在发起拉取请求之前，请阅读[FIP-1](./FIP/fip-1.md)流程文档。想法应该首先在[ “创意草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E5%88%9B%E6%84%8F%E8%8D%89%E6%A1%88)或[ “机制草案”讨论](https://github.com/FreeChatDevelopment/FIPs/discussions/categories/%E6%9C%BA%E5%88%B6%E8%8D%89%E6%A1%88)上彻底讨论。
 
 该存储库跟踪对FreechatDAO和Freechat的持续改进。
 
