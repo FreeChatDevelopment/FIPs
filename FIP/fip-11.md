@@ -9,9 +9,9 @@ fip: 11
 修改时间: 2022-10-23
 ---
 
-[中文版](#1)
+### [中文版](#1)
 
-[English](#2)
+### [English](#2)
 
 <h2 id="1">中文版</h2>
 
@@ -210,26 +210,6 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 -------------------------
 
 <h3 id="2">English</h3>
-
----
-fip: 11
-
-标题: FreechatDAO社区介绍及治理
-
-描述: FreechatDAO社区介绍和治理的相关指南
-
-状态: 生效
-
-类型: 机制
-
-作者: Jack long （jacklong@freechat.world），Mia
-
-创建时间: 2022-10-22
-
-修改时间: 2022-10-23
-
----
-
 
 ## Freechat Github Fips: 
 

@@ -159,17 +159,6 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 
 <h3 id="2">English</h3>
 
----
-- fip: 1
-- Title: Purpose and Guidelines of FIP
-- Description: Guidelines for community governance mechanism and operation, including guidelines and implementation mechanisms for community development teams.
-- Status：Valid
-- Type: Mechanism
-- Author: Jack long（jacklong@freechat.world），Mia
-- Created time: 2022-10-22
-- Modified time: 2022-10-23
----
-
 ## Freechat Github Fips: 
 
 https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-1.md
