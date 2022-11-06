@@ -355,6 +355,7 @@ The formula for calculating income distribution：
 #### Dividend time, Dividend Rule, Staking Method, and Income Calculation and Distribution：
 
 Decision-making Method: Community Proposal Voting
+
 Comments: The community proposal determines Freechat's income dividend time, dividend rules, and staking method, calculates the dividend rights and interests of each FCC, and distribution.
 #### Repurchase Amount：
 
@@ -364,10 +365,12 @@ Comments: The community proposal determines the amount of Freechat Coin to be re
 #### Repurchase Price：
 
 Decision-making Method: Community Proposal Voting
+
 Comments: The community proposal determines the price at which the FreechatDAO community buys back Freechat Coin
 #### Token Burn：
 
 Decision-making Method: Community Proposal Voting
+
 Comments: The community proposal determines the price and amount of Freechat Coin be repurchased by the FreechatDAO community and burned.
 
 #### Community Income Distribution Ratio：
