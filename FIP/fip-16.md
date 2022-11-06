@@ -33,7 +33,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 
 代币激励按月进行发放。创始团队激励池由创始团队持有的代币池进行发放。
 
-* **激励发放**：入职时确定数量
+* **激励发放**：入职时确定数量，由创始团队激励池进行发放。
 
 创始团队的激励数量如下所示：
 
@@ -44,7 +44,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 * **锁仓限制**：2025-08-22 解除限制
 * **代币激励规则**：
 
-    评定规则：创始团队内部确认是否要发放激励，工作质量由[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定.
+    评定规则：由工作质量决定，评估标准由[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定.
 
     评定周期：36个月
 
@@ -52,7 +52,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 
 *   **特别说明**： 创始团队所持有的代币目前有锁仓限制。解除限制后，根据实际工作的时长进行发放和名单发放。
 
-    特别条款：每个评定周期，F14职级以下工作不满18个月，代币激励作废。F14职级以上工作不满36个月，代币激励作废。
+    特别条款：每个评定周期，F14职级以上工作不满36个月，代币激励作废。
 
 ## 提案周期
 每季度评审后，进行社区提案更新一次。
@@ -80,7 +80,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 
 ## 社区团队激励与薪酬公示
 
-代币激励按月进行发放。社区团队激励池由社区代币池进行发放。
+社区团队激励池由社区激励池进行发放。
 
 * **社区激励池**：由[FIP-18提案]决定
 
