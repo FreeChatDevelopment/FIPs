@@ -142,6 +142,46 @@ Freechat的所有收入会锚定FCC作为权益代表价值。持有FCC的用户
 
 释义：社区提案决定FreechatDAO社区获得Freechat收入的比例。
 
+## Freechat Coin代币持仓分布、条款和介绍
+FreechatDAO社区
+- **持有FCC数量**：295,000,000  
+- **占比总量比例**：29.5%
+- **地址**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+- **锁仓限制**：无
+- **释义**：社区所持有的代币用于社区治理和Freechat运营，发放社区开发团队薪酬。
+- **限制条款**：社区使用FCC代币必须由社区提案决定。社区代表多重签名限制。
+
+FreechatDAO开发团队（FreeChatDevelopment）
+- **持有FCC数量**：200,000,000  
+- **占比总量比例**：20%
+- **地址**：[0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
+- **释义**：用于奖励社区开发团队的开发贡献。
+- **锁仓限制**：2025-08-22解除限制
+- **限制条款**：锁仓期间不能进行操作及抛售。
+
+投资人
+- **持有FCC数量**：300,000,000  
+- **占比总量比例**：30%
+- **地址**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
+- **释义**：FreechatDAO及Freechat的种子轮、天使轮投资人所持有代币。
+- **锁仓限制**：2025-08-22解除限制
+- **限制条款**：锁仓期间不能进行操作及抛售。
+
+市场流通
+- **持有FCC数量**：200,000,000  
+- **占比总量比例**：20%
+- **FCC流动性提供地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
+- **流动性池地址（USDT-FCC）**：[0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+- **流动性池地址（ETH-FCC）**：[0xf9c97668f97160b18c87a40ea26c0c87e9becc8d](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
+- **释义**：DEX市场进行流通的代币
+- **限制条款**：社区代表多重签名限制。
+
+顾问
+- **持有FCC数量**：5,000,000  
+- **占比总量比例**：0.5%
+- **地址（社区持有）**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+- **释义**：用于帮助FreechatDAO和Freechat发展的贡献的奖励
+- **限制条款**：社区提案公示及使用。
 ## 相关资料
 
 社区治理：
