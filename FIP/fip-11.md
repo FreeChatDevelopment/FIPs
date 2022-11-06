@@ -280,7 +280,7 @@ Freechat Coins are circulated and traded through DEX markets such as Uniswap and
 [1inch](https://app.1inch.io/)
 
 ## Freechat Coin Token holding Distribution, Terms, and Introduction
-FreechatDAO Community
+### FreechatDAO Community
 - **FCC held by the community**：295,000,000 
 - **Percentage of total**：29.5%
 - **Address**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
@@ -295,7 +295,7 @@ FreechatDAO Development Team（FreeChatDevelopment）
 - **Lockup Time**：Until 2025-08-22
 - **Restrictions**：Restrictions: No operation nor selling allowed during lockup.
 
-Investors
+### Investors
 - **FCC held by investors**：300,000,000 
 - **Percentage of total**：30%
 - **Address**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
@@ -313,7 +313,7 @@ Investors
 - **Comments**：These tokens are circulating in the DEX market.
 - **Restrictions**：Requires multiple signatures from community representatives.
 
-Consultants
+### Consultants
 - **FCC held by consultants**：5,000,000 
 - **Percentage of total**：0.5%
 - **Address (Held by community):**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
