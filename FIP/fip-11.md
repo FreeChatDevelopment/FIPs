@@ -210,3 +210,190 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 -------------------------
 
 <h3 id="2">English</h3>
+
+---
+fip: 11
+
+标题: FreechatDAO社区介绍及治理
+
+描述: FreechatDAO社区介绍和治理的相关指南
+
+状态: 生效
+
+类型: 机制
+
+作者: Jack long （jacklong@freechat.world），Mia
+
+创建时间: 2022-10-22
+
+修改时间: 2022-10-23
+
+---
+
+
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-11.md
+
+| Proposal Time | Link | Result |
+|:-:|:-:|:-:|
+|2022-10-23|https://snapshot.org/#/freechatdao.eth/proposal/0x9709618ddcf127f52a7b45643d016efa89c0e5afacea564a0a22b8937eb57939|Approved|
+
+# FreechatDAO Community Introduction and Governance
+
+## Preface
+FreechatDAO is a decentralized development organization and operation organization, or FDao for short, made up of developers and users from all over the world. Anyone and any organization can participate in community governance.
+FreechatDAO believes in freedom. In the FreechatDAO community, freedom, human rights, and privacy are inviolable basic user rights, and everyone is guaranteed freedom of speech, privacy security, and free from any form of interference and censorship.
+## Vision
+To become a decentralized, open, transparent, secure, free, and autonomous social network and community
+## Community Governance
+The community conducts decentralized governance through Snapshot. Here is the link
+https://snapshot.org/#/freechatdao.eth
+
+## Community Product
+### Freechat
+Freechat is a secure, private and free social application based on Web3.0 and blockchain technology. Use end-to-end encrypted communication to ensure privacy and freedom of communication. Also,  the technical features of FreeChat ensure that its use would not be subject to certain network restrictions.
+Freechat has many innovations based on social applications, such as NFT-based avatars; blockchain-based friends rating system, decentralized incentive advertising, SNS, payment, e-commerce, games, and Defi, etc.
+Freechat is developed and operated by the FreechatDAO community
+## Freechat Coin Token
+Freechat is developed and operated by the FreechatDAO community
+- **Token Name**：Freechat Coin
+- **Symbol**：FCC
+- **Total Supply**：1,000,000,000
+- **Decimals**：18
+- **Rights and Interets**：Community Governance, Application and Consumption within Freechat, Rights Representation, Income Confirmation, Voting Rights, Community Proposal, etc。
+- **Contract Address**：
+[0x171b1daefac13a0a3524fcb6beddc7b31e58e079](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079)
+
+## Freechat Coin Issuing and Circulating
+Freechat Coins are circulated and traded through DEX markets such as Uniswap and 1inch with the following issue parameters:
+- **Token Name**：Freechat Coin
+- **Symbol**：FCC
+- ** Circulating Supply (including community and consultants’ holding)**：500,000,000
+- **Initial Offering Price**：1 FCC = 0.07 USDT
+- **DEX**：
+
+[Freechat](https://freechat.world) 
+
+[Uniswap](https://app.uniswap.org/#/swap) 
+
+[1inch](https://app.1inch.io/)
+
+## Freechat Coin Token holding Distribution, Terms, and Introduction
+FreechatDAO Community
+- ** FCC held by the community **：295,000,000 
+- ** Percentage of total **：29.5%
+- **Address**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+- **Lockup Time**：None
+- **Comments**：The tokens held by the community are used for community governance, Freechat operations, and community development team salaries
+- **Restrictions**：The use of community FCC tokens must be decided by community proposal and multiple signatures from community representatives are required.
+FreechatDAO Development Team（FreeChatDevelopment）
+- ** FCC held by the team **：200,000,000 
+- ** Percentage of total **：20%
+- **Address**：[0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
+- **Comments**：FCC will be used to reward the community development team for their contributions.
+- **Lockup Time**：Until 2025-08-22
+- **Restrictions**：Restrictions: No operation nor selling allowed during lockup.
+
+Investors
+- ** FCC held by investors **：300,000,000 
+- ** Percentage of total **：30%
+- **Address**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
+- **Comments**：Those FCC are held by FreechatDAO and Freechat’s seed and angel round investors 
+- **Lockup Time**：Until 2025-08-22
+- **Restrictions**：No operation nor selling allowed during lockup.
+Market Circulating Supply
+- ** FCC held by market **：200,000,000 
+- ** Percentage of total **：20%
+- **FCC Liquidity Provider Address **：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
+- ** Liquidity Pool Address（USDT-FCC）**：[0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+- ** Liquidity Pool Address（ETH-FCC）**：[0xf9c97668f97160b18c87a40ea26c0c87e9becc8d](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
+- **Comments**：These tokens are circulating in the DEX market.
+- **Restrictions**：Requires multiple signatures from community representatives.
+
+Consultants
+- ** FCC held by consultants **：5,000,000 
+- ** Percentage of total **：0.5%
+- ** Address (Held by community): **：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+- **Comments**：To reward contributions that help FreechatDAO and Freechat’s development.
+- **Restrictions**：The community needs to make proposals of the use.
+
+## Community Governance
+The FreechatDAO community is governed by a decentralized community through Snapshot. Any user holding Freechat Coin can decide the development direction and specific implementation of the community through proposals and voting. All users of the community should respect the proposals and cast their precious votes, and community members should implement all adopted proposals unconditionally. This is vital to the development and future of the community.
+The FreechatDAO community uses Freechat Coin for governance, and the specific rights and interests are represented as follows:
+- **Proposal Right**：
+Hold at least 10,000FCC to make a proposal
+- **Voting Right**：
+1 FCC = 1 vote
+
+- ** Proposal Preparation Time **：
+48 hours (voting is available 48 hours after the proposal is initiated)
+- ** Proposal Voting Time **：
+120 hours (120 hours to vote on proposals)
+- ** Proposal Effective Quantity **：
+500,000,001 votes
+
+- **Proposal Type**：
+Any topic can be proposed, and the proposal will be voted and announced, including Freechat's income distribution, equity distribution, product function change and development, Freechat charging function, new product development, community budget, community audit, fund allocation, FIP, etc.
+## Repurchase, Burn, Staking, Income Distribution
+Freechat Coin is a token based on the application value of Freechat and FreechatDAO, so all income is transparently governed and distributed through smart contracts.
+The basic circulation system of Freechat is based on USDT, and all payments and income are cleared by USDT.
+All of Freechat's income will be anchored to FCC as rights and interests value. Users who hold FCC can obtain the income generated by Freechat by staking FCC.
+Formula Variables：
+- **Total Revenue=X**
+- ** Community governance and operating costs=Y**
+- **Net Income=Z**
+- ** Amount of FCC staked=G**
+- ** Net income per FCC=F**
+
+The formula for calculating income distribution：
+- **X-Y=Z**
+- **Z/G=F**
+
+#### Dividend time, Dividend Rule, Staking Method, and Income Calculation and Distribution：
+
+Decision-making Method: Community Proposal Voting
+Comments: The community proposal determines Freechat's income dividend time, dividend rules, and staking method, calculates the dividend rights and interests of each FCC, and distribution.
+#### Repurchase Amount：
+
+Decision-making Method: Community Proposal Voting
+
+Comments: The community proposal determines the amount of Freechat Coin to be repurchased by the FreechatDAO community
+#### Repurchase Price：
+
+Decision-making Method: Community Proposal Voting
+Comments: The community proposal determines the price at which the FreechatDAO community buys back Freechat Coin
+#### Token Burn：
+
+Decision-making Method: Community Proposal Voting
+Comments: The community proposal determines the price and amount of Freechat Coin be repurchased by the FreechatDAO community and burned.
+
+#### Community Income Distribution Ratio：
+
+Decision-making Method: Community Proposal Voting
+Comments: The community proposal determines the distribution ratio of the FreechatDAO community's income.
+## Related Information
+
+Community Governance：
+https://snapshot.org/#/freechatdao.eth
+
+Community Agreement Terms：
+https://docs.freechat.world
+
+Project Open Rource Repository：
+https://github.com/FreeChatDevelopment
+
+Token Economics and White Paper：
+https://docs.freechat.world/fdao-she-qu
+
+FreechatDAO Community：
+https://twitter.com/freechat_app
+
+Freechat Coin Liquidity Pool and Trading Pairs：
+
+[USDT-FCC](https://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+
+[ETH-FCC](https://info.uniswap.org/#/pools/0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
+
+## Copyright Waiver
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
