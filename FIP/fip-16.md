@@ -82,7 +82,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 
 社区团队激励池由社区激励池进行发放。
 
-* **社区激励池**：由[FIP-18提案]决定
+* **社区激励池**：由[FIP-18提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定
 
 * **激励发放**：入职时确定数量
 
