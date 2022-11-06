@@ -269,7 +269,7 @@ Freechat is developed and operated by the FreechatDAO community
 Freechat Coins are circulated and traded through DEX markets such as Uniswap and 1inch with the following issue parameters:
 - **Token Name**：Freechat Coin
 - **Symbol**：FCC
-- ** Circulating Supply (including community and consultants’ holding)**：500,000,000
+- **Circulating Supply (including community and consultants’ holding)**：500,000,000
 - **Initial Offering Price**：1 FCC = 0.07 USDT
 - **DEX**：
 
@@ -281,40 +281,42 @@ Freechat Coins are circulated and traded through DEX markets such as Uniswap and
 
 ## Freechat Coin Token holding Distribution, Terms, and Introduction
 FreechatDAO Community
-- ** FCC held by the community **：295,000,000 
-- ** Percentage of total **：29.5%
+- **FCC held by the community**：295,000,000 
+- **Percentage of total**：29.5%
 - **Address**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **Lockup Time**：None
 - **Comments**：The tokens held by the community are used for community governance, Freechat operations, and community development team salaries
 - **Restrictions**：The use of community FCC tokens must be decided by community proposal and multiple signatures from community representatives are required.
 FreechatDAO Development Team（FreeChatDevelopment）
-- ** FCC held by the team **：200,000,000 
-- ** Percentage of total **：20%
+- **FCC held by the team**：200,000,000 
+- **Percentage of total**：20%
 - **Address**：[0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
 - **Comments**：FCC will be used to reward the community development team for their contributions.
 - **Lockup Time**：Until 2025-08-22
 - **Restrictions**：Restrictions: No operation nor selling allowed during lockup.
 
 Investors
-- ** FCC held by investors **：300,000,000 
-- ** Percentage of total **：30%
+- **FCC held by investors**：300,000,000 
+- **Percentage of total**：30%
 - **Address**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
 - **Comments**：Those FCC are held by FreechatDAO and Freechat’s seed and angel round investors 
 - **Lockup Time**：Until 2025-08-22
 - **Restrictions**：No operation nor selling allowed during lockup.
-Market Circulating Supply
-- ** FCC held by market **：200,000,000 
-- ** Percentage of total **：20%
-- **FCC Liquidity Provider Address **：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
-- ** Liquidity Pool Address（USDT-FCC）**：[0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
-- ** Liquidity Pool Address（ETH-FCC）**：[0xf9c97668f97160b18c87a40ea26c0c87e9becc8d](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
+
+### Market Circulating Supply
+
+- **FCC held by market**：200,000,000 
+- **Percentage of total**：20%
+- **FCC Liquidity Provider Address**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
+- **Liquidity Pool Address（USDT-FCC）**：[0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+- **Liquidity Pool Address（ETH-FCC）**：[0xf9c97668f97160b18c87a40ea26c0c87e9becc8d](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
 - **Comments**：These tokens are circulating in the DEX market.
 - **Restrictions**：Requires multiple signatures from community representatives.
 
 Consultants
-- ** FCC held by consultants **：5,000,000 
-- ** Percentage of total **：0.5%
-- ** Address (Held by community): **：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+- **FCC held by consultants**：5,000,000 
+- **Percentage of total**：0.5%
+- **Address (Held by community):**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **Comments**：To reward contributions that help FreechatDAO and Freechat’s development.
 - **Restrictions**：The community needs to make proposals of the use.
 
@@ -326,11 +328,11 @@ Hold at least 10,000FCC to make a proposal
 - **Voting Right**：
 1 FCC = 1 vote
 
-- ** Proposal Preparation Time **：
+- **Proposal Preparation Time**：
 48 hours (voting is available 48 hours after the proposal is initiated)
-- ** Proposal Voting Time **：
+- **Proposal Voting Time**：
 120 hours (120 hours to vote on proposals)
-- ** Proposal Effective Quantity **：
+- **Proposal Effective Quantity**：
 500,000,001 votes
 
 - **Proposal Type**：
@@ -341,10 +343,10 @@ The basic circulation system of Freechat is based on USDT, and all payments and 
 All of Freechat's income will be anchored to FCC as rights and interests value. Users who hold FCC can obtain the income generated by Freechat by staking FCC.
 Formula Variables：
 - **Total Revenue=X**
-- ** Community governance and operating costs=Y**
+- **Community governance and operating costs=Y**
 - **Net Income=Z**
-- ** Amount of FCC staked=G**
-- ** Net income per FCC=F**
+- **Amount of FCC staked=G**
+- **Net income per FCC=F**
 
 The formula for calculating income distribution：
 - **X-Y=Z**
