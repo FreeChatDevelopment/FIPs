@@ -55,7 +55,38 @@ Freechat Coin用于Freechat和FreechatDAO社区治理和一系列的权益代表
 - **权益代表**：社区治理、Freechat内的应用及消费、权益代表、收益确权、投票权、社区提案等。
 - **合约地址**：
 [0x171b1daefac13a0a3524fcb6beddc7b31e58e079](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079)
-- **开源代码**：
+- **开源代码**：https://github.com/FreeChatDevelopment
+
+## FreechatDAO社区创始团队
+- **Jack Long**
+    - FreechatDAO社区创始人，负责社区治理、发展及产品等工作，连续创业者，近10年创业经验，曾是中国西部地区最大的比特币矿工。主导研发多款产品，产品营收超上亿元人民币。
+  
+- **Danny Guo**
+    - FreechatDAO社区联合创始人，负责社区治理、社区产品研发工作，曾任职Tencent，负责IM，Game等产品的技术研发工作。
+   
+- **Neilson Lee**
+    - FreechatDAO社区联合创始人及天使投资人，负责社区投资、融资等工作。
+
+- **Mia**
+    - FreechatDAO社区联合创始人，美国工作和生活8年，社区发言人，媒体负责人。
+
+- **00L**
+    - FreechatDAO社区设计师，负责社区产品设计工作，与Jack Long共同工作5年。
+
+- **00N**
+    - FreechatDAO社区开工程师，负责社区研发工作，与Jack Long共同工作2年。
+
+- **00W**
+    - FreechatDAO社区UI设计师，负责社区产品设计工作，与Jack Long共同工作4年。
+
+- **Tj4n**
+    - FreechatDAO社区研发工程师，负责社区产品研发工作。前Vivo工程师。
+
+- **更多**
+    - FreechatDAO社区开发者还有来自Huobi、Binance、Tencent、Baidu、Google等优秀工程师组成。
+
+## Freechat业务线
+Freechat业务由社交、电子商务、NFT、增值业务（会员、功能会员）、广告、内容、支付、Defi、游戏等，随着时间推移，可能由更多的业务组成，形成一个基于社交的超级生态。
 
 ## Freechat Coin的经济模型
 
@@ -110,3 +141,20 @@ Freechat的所有收入会锚定FCC作为权益代表价值。持有FCC的用户
 决策方式：社区提案决定
 
 释义：社区提案决定FreechatDAO社区获得Freechat收入的比例。
+
+## 相关资料
+
+社区治理：
+https://snapshot.org/#/freechatdao.eth
+
+社区协议条款：
+https://docs.freechat.world
+
+项目开源仓库：
+https://github.com/FreeChatDevelopment
+
+代币经济学与白皮书：
+https://docs.freechat.world/jian-ti-zhong-wen/freechatdao/bai-pi-shu
+
+FreechatDAO社群：
+https://twitter.com/freechat_app
