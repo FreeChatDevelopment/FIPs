@@ -48,6 +48,7 @@ Freechat终端覆盖包括：IOS、Android、Mac、Windows等系统和设备覆�
 
 Freechat Coin用于Freechat和FreechatDAO社区治理和一系列的权益代表，目的是通过去中心化的方式，建立一系列去中心化的应用。让用户可以掌握自己的隐私和数据，包含一系列应用的治理权，收益权、所有权、消费权等。随着用户和代币持有者增长，逐渐完成去中心化治理的实现。
 
+![FreechatCoin](./../assets/fip-9/FreechatCoin.png)
 - **代币名称**：Freechat Coin
 - **代币简称**：FCC
 - **发行数量**：1,000,000,000
