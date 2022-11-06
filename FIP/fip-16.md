@@ -29,6 +29,9 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 ## 目的
 公示社区开发人员薪酬，防止社区资金滥用，便于监督。
 
+## 提案周期
+每季度评审后，进行社区提案更新一次。
+
 依据：[FIP-12提案](https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d)
 [FIP-13提案](https://snapshot.org/#/freechatdao.eth/proposal/0x56a07c7f382b5a66aecc1ebaf2ebad39e493760402357f5071bb1ebb2949d71d)
 
