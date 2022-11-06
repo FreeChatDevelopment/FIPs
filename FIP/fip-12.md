@@ -2,7 +2,7 @@
 fip: 12
 标题: 确定FreechatDAO社区开发团队薪酬、激励及职级限制。
 描述: 确定FreechatDAO社区开发团队薪酬、激励和职级限制，防止滥用社区资金。
-状态: 草案
+状态: 生效
 类型: 机制
 作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-22

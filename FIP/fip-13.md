@@ -21,7 +21,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 
 |    提案时间    |                                                         链接                                                     |  结果 |
 | :--------: | :----------------------------------------------------------------------------------------------------------------: | :-: |
-| 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 |  待定 |
+| 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 | 未通过 |
 | —————————— | —————————————————————— |  待定 |
 
 ## FreechatDAO开发团队工作制度及薪酬体系制度
@@ -288,7 +288,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
     每月发薪日达不到最低活跃度50%要求，按实际活跃度计算薪酬。
 
-    计算公式：月薪酬\*月均实际活跃度=实际发放薪酬
+    计算公式：月薪酬*月均实际活跃度=实际发放薪酬
 
     **评定流程**
 
