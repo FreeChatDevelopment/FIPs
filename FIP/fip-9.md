@@ -66,8 +66,9 @@ Freechat的基本流通体系是以稳定币作为基础锚定，所有付费及
 Freechat的所有收入会锚定FCC作为权益代表价值。持有FCC的用户可通过质押FCC来获得Freechat产生的收益。
 
 图例：
+![sl](./../assets/fip-9/5487.png)
 
-
+通过以上图例就可以得出，Freechat收入越多，相应的Freechat Coin价值越高。
 
 公式代表：
 - **收入=X**

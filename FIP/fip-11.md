@@ -193,7 +193,7 @@ https://docs.freechat.world
 https://github.com/FreeChatDevelopment
 
 代币经济学与白皮书：
-https://docs.freechat.world/fdao-she-qu
+https://docs.freechat.world/jian-ti-zhong-wen/freechatdao/bai-pi-shu
 
 FreechatDAO社群：
 https://twitter.com/freechat_app
@@ -374,7 +374,7 @@ Project Open Rource Repository：
 https://github.com/FreeChatDevelopment
 
 Token Economics and White Paper：
-https://docs.freechat.world/fdao-she-qu
+https://docs.freechat.world/english/freechatdao/bai-pi-shu
 
 FreechatDAO Community：
 https://twitter.com/freechat_app
