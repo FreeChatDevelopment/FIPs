@@ -44,7 +44,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 * **锁仓限制**：2025-08-22 解除限制
 * **代币激励规则**：
 
-    评定规则：由工作质量决定，评估标准由[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定.
+    评定规则：评估标准由[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定.
 
     评定周期：36个月
 
@@ -55,7 +55,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
     特别条款：每个评定周期，F14职级以上工作不满36个月，代币激励作废。
 
 ## 提案周期
-每季度评审后，进行社区提案更新一次。
+每季度评审后，社区提案进行更新。
 
 依据：[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
 [FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
