@@ -68,7 +68,7 @@ FreeChatDevelopment开发团队的激励数量如下所示：
 
     特别条款：F14职级以下工作不满18个月，代币激励作废。F14职级以上工作不满36个月，代币激励作废。
 
-    名单依据[FIP-16提案]((https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md))
+    名单依据[FIP-16提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
 
 ### 全职工作
 
