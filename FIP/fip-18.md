@@ -8,3 +8,18 @@ fip: 19
 创建时间: 2022-11-06
 修改时间: 2022-11-06
 ---
+
+[中文版](#1)
+
+[English](#2)
+
+<h2 id="1">中文版</h2>
+
+## Freechat Github Fips: 
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-18.md
+
+
+  | 提案时间 | 链接 | 结果 |
+  |:-:|:-:|:-:|
+  | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
