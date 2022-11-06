@@ -66,17 +66,17 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-08|Jack Long  |CEO   |    -    | F20  |在职 |100,000,000 FCC  |36个月 |2,777,778 FCC|2,777,778 FCC|2,777,778 FCC|
 |2022-08|Danny Guo  |CTO   |    -    | F20  |在职 |50,000,000 FCC   |36个月 |1,388,889 FCC|1,388,889 FCC|1,388,889 FCC|
 |2022-08|Mia        |发言人 |    -    | F20  |在职 |20,000,000 FCC   |36个月 |555,555 FCC  |555,555 FCC  |555,555 FCC  |
-|2022-08|00W        |UI    |15 USD/时 | F4  |在职 |4,000,000         |36个月|111,111 FCC   |111,111 FCC  |111,111 FCC  |
-|2022-08|00L        |UI    |15 USD/时 | F4  |在职 |5,000,000         |36个月|138,888 FCC   |138,888 FCC  |138,888 FCC  | 
-|2022-08|00N        |Dev   |15 USD/时 | F4  |在职 |3,000,000         |36个月|83,333 FCC    |83,333 FCC   |83,333 FCC   |  
-|2022-10|Kang       |Dev   |20 USD/时 | F5  |在职 |1,000,000         |36个月|- FCC        | - FCC        |27,777 FCC   |
-|2022-08|tj4n       |Dev   |20 USD/时 | F5  |在职 |2,000,000         |36个月|55,555 FCC   |55,555 FCC    |55,555 FCC   | 
-|2022-10|DK         |Dev   |15 USD/时 | J5  |在职 |-                 |-    |- FCC        | - FCC        | - FCC       |
-|2022-10|Jessica Rao|Dev   |15 USD/时 | J5  |在职 |-                 |-    |- FCC        | - FCC        | - FCC       |
-|2022-10|Joy        |Dev   |20 USD/时 | J5  |在职 |-                 |-    |- FCC        | - FCC        | - FCC       |
-|2022-10|Paul       |Dev   |15 USD/时 | J5  |在职 |-                 |-    |- FCC        | - FCC        | - FCC       |
-|2022-10|Jojo       |Dev   |20 USD/时 | J5  |在职 |1,000,000         |36个月|- FCC        | - FCC        |27,777 FCC   |
-|2022-10|UN         |Dev   |15 USD/时 | J5  |在职 |-                 |-    |- FCC        | - FCC        | - FCC       |
+|2022-08|00W        |UI    |15 USD/时 | F14  |在职 |4,000,000 FCC    |36个月|111,111 FCC   |111,111 FCC  |111,111 FCC  |
+|2022-08|00L        |UI    |15 USD/时 | F14  |在职 |5,000,000 FCC    |36个月|138,888 FCC   |138,888 FCC  |138,888 FCC  | 
+|2022-08|00N        |Dev   |15 USD/时 | F14  |在职 |3,000,000 FCC    |36个月|83,333 FCC    |83,333 FCC   |83,333 FCC   |  
+|2022-10|Kang       |Dev   |20 USD/时 | F14  |在职 |1,000,000 FCC    |36个月|- FCC        | - FCC        |27,777 FCC   |
+|2022-08|tj4n       |Dev   |20 USD/时 | F14  |在职 |2,000,000 FCC    |36个月|55,555 FCC   |55,555 FCC    |55,555 FCC   | 
+|2022-10|DK         |Dev   |15 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC       |
+|2022-10|Jessica Rao|Dev   |15 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC       |
+|2022-10|Joy        |Dev   |20 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC       |
+|2022-10|Paul       |Dev   |15 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC       |
+|2022-10|Jojo       |Dev   |20 USD/时 | F14  |在职 |1,000,000 FCC    |36个月|- FCC        | - FCC        |27,777 FCC   |
+|2022-10|UN         |Dev   |15 USD/时 | J5   |在职 |-                |-    |- FCC        | - FCC        | - FCC       |
 
 ## 社区团队激励与薪酬公示
 
