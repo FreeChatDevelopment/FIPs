@@ -56,7 +56,7 @@ FreechatDAO是基于WEB3.0分布式工作组织，员工分布于各个国家，
 
     发放周期：每36个月发放一次
 
-    特别条款：创始团队激励工作不满36个月，全部代币激励作废。
+    特别条款：每个评定周期，F14职级（包含F14职级以上）创始团队激励工作不满36个月，全部代币激励作废。
 
     名单依据[FIP-16提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
 
