@@ -29,11 +29,12 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 ## 目的
 公示创始团队、社区团队薪酬与激励，防止社区资金滥用，便于监督。
 
+## 提案更新周期
+每季度评审后，进行更新及确认。
+
 ## 创始团队激励与薪酬公示
 
-代币激励按月进行发放。创始团队激励池由创始团队持有的代币池进行发放。
-
-* **激励发放**：入职时确定数量，由创始团队激励池进行发放。
+* **激励发放**：入职时确定数量，代币激励每三年发放一次。创始团队激励由创始团队持有的代币池进行发放。
 
 创始团队的激励数量如下所示：
 
@@ -42,23 +43,10 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 * **激励数量**：200,000,000
 * **持有地址**：[0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
 * **锁仓限制**：2025-08-22 解除限制
-* **代币激励规则**：
+* **代币激励规则**：依据[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
 
-    评定规则：评估标准由[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定.
-
-    评定周期：36个月
-
-    发放周期：锁仓三年一次性发放
-
-*   **特别说明**： 创始团队所持有的代币目前有锁仓限制。解除限制后，根据实际工作的时长进行发放和名单发放。
-
-    特别条款：每个评定周期，F14职级（含F14职级）以上工作不满36个月，代币激励作废。
-
-## 提案周期
-每季度评审后，社区提案进行更新。
-
-依据：[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
-[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
+* **岗位薪酬和职级薪酬福利确认**
+依据[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 ## 创始团队名单及薪酬、激励信息
 |入职日期  |   呢称   | 岗位 |   薪酬   | 职级 |在职状态|   代币激励数量  |发放周期|2022-08代币激励|2022-09代币激励|2022-10代币激励 |
@@ -80,32 +68,19 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 
 ## 社区团队激励与薪酬公示
 
-社区团队激励池由社区激励池进行发放。
+* **激励发放**：入职时确定数量，代币激励月发放一次。社区团队激励由社区代币池进行发放。
 
-* **社区激励池**：由[FIP-18提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定
-
-* **激励发放**：入职时确定数量
-
-社区团队的激励规则如下所示：
+社区激励的激励数量如下所示：
 
 * **代币名称**：Freechat Coin
 * **代币简称**：FCC
-* **锁仓限制**：不受限制
-* **代币激励规则**：
+* **激励数量**：200,000,000
+* **持有地址**：\
+* **锁仓限制**：无限制
+* **代币激励规则**：依据[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
 
-    评定规则：由[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)决定.
-
-    评定周期：36个月
-
-    发放周期：每月发放一次
-
-    特别条款：每个评定周期，工作不满12个月，代币激励作废。
-
-## 提案周期
-每季度评审后，进行社区提案更新一次。
-
-依据：[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
-[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
+* **岗位薪酬和职级薪酬福利确认**
+依据[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 ## 社区团队名单及薪酬、激励信息
 |入职日期  |   呢称   | 岗位 |   薪酬   | 职级 |在职状态|   代币激励数量  |发放周期|2022-08代币激励|2022-09代币激励|2022-10代币激励 |
