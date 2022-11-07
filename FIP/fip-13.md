@@ -58,7 +58,7 @@ FreechatDAO是基于WEB3.0分布式工作组织，员工分布于各个国家，
 
     特别条款：每个评定周期，F14职级（包含F14职级以上）创始团队激励工作不满36个月，全部代币激励作废。
 
-    名单依据[FIP-16提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
+    创始团队激励对象：达标评定标准的创始团队人员，职级对应奖励数量及名单依据[FIP-16提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
 
 *   **社区团队激励规则**：
 
@@ -68,9 +68,9 @@ FreechatDAO是基于WEB3.0分布式工作组织，员工分布于各个国家，
 
     发放周期：每12个月发放一次
 
-    特别条款：每个评定周期，F14职级（不包含F14职级）以下工作不满12个月，未发放代币激励作废。
+    特别条款：每个评定周期，F14职级（不包含F14职级）以下工作不满12个月，全部代币激励作废。
 
-    名单依据[FIP-16提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
+    社区激励对象：达标评定标准的所有团队成员，职级对应激励数量及名单依据[FIP-16提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
 
 ### 全职工作
 
