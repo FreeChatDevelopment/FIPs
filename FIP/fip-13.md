@@ -397,7 +397,7 @@ Distribution Cycle: Once every 12 months
 
 Special Term: In each evaluation cycle, if employees below the F14 level (excluding the F14 level) have worked for less than 12 months, all token incentives will be void.
 
-Community Incentive Beneficiaries: all community team members (excluding the founding team) who meet the evaluation Standards, the number of incentives and the list is based on[FIP-16 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
+Community Incentive Beneficiaries: all community team members (excluding the founding team) who meet the evaluation Standards, the number of incentives and the list is based on [FIP-16 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
 
 ### Full-time job
 
@@ -510,8 +510,6 @@ Calculation formula: monthly salary * monthly average actual activity = actual s
 * **Assessment process**
 ![FIP](../assets/fip-13/1666553390786.jpg)
 
-
-
 **F14-F20 Evaluation Form Template**
 | Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluator |
 | :--: | :-------: | :-------: | :-------: |
@@ -532,7 +530,7 @@ Every year
 
 More than 4 excellent will be rewarded by the community, and the rewards are as follows
 
-Implement [FIP-12Proposal]((https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md))
+Implement [FIP-12 Proposal]((https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md))
 
 **Resignation Criteria**
 
@@ -566,7 +564,7 @@ The payment currency is USDT
 
 * **Job Salary Level**：
 
-Implement [FIP-12Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
+Implement [FIP-12 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 #### Job Evaluation Parameters
 
