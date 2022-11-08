@@ -375,7 +375,7 @@ Regardless of the part-time or full-time job, all employees have a one-month tri
 
 Token incentives are divided into founding team incentives and community team incentives. The community team includes all community members except the founding team.
 
-*   **Founding Team Incentive Rules**：
+* **Founding Team Incentive Rules**：
 
 Evaluation Rules: The founding team incentives are confirmed to be issued upon entry, and re-evaluated every 36 months. The evaluation is based on 12 quarterly work evaluations within 3 years, and the evaluation of the founding team is based on the evaluation standards of F14 (including F14 level) and above.
 
@@ -387,7 +387,7 @@ Special Term: In each evaluation cycle, if the founding team members of the F14 
 
 Founding Team Incentive Beneficiaries: Founding team members who meet the evaluation standards, Number of rewards and list is based on[FIP-16 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
 
-*   **Community Team Incentive Rules**：
+* **Community Team Incentive Rules**：
 
 Evaluation Rules: The Community team incentives are confirmed to be issued upon entry and re-evaluated every 36 months. The evaluation is based on 12 quarterly work evaluations within 3 years, and the evaluation of the community team is based on the evaluation standards of F14( not including F14 level) and below.
 
@@ -478,8 +478,8 @@ The above levels are the corresponding salary standard. F14-F20 levels are subje
 **Assessment Method**
 
 **Self-assessment**: Self-assessment.
-* **Assessment by Associated Peer**: Invite 3 peers who are associated with their work for assessment.
-* **Assessment by the leader**: The leader evaluates the employee.
+**Assessment by Associated Peer**: Invite 3 peers who are associated with their work for assessment.
+**Assessment by the leader**: The leader evaluates the employee.
 
 **F1-F13 Evaluation Time**
 
@@ -600,9 +600,9 @@ Implement [FIP-12Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main
 
 **Self-assessment**: Self-assessment.
 
-* **Assessment by Associated Peer**: Invite 3 peers who are associated with their work for assessment.
+**Assessment by Associated Peer**: Invite 3 peers who are associated with their work for assessment.
 
-* **Assessment by the leader**: The leader evaluates the employee.
+**Assessment by the leader**: The leader evaluates the employee.
 
 **J1-J9Evaluation Time**：Quarterly
 
