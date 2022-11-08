@@ -199,3 +199,7 @@ https://docs.freechat.world/jian-ti-zhong-wen/freechatdao/bai-pi-shu
 
 FreechatDAO社群：
 https://twitter.com/freechat_app
+
+-------------------------
+
+<h3 id="2">English</h3>
