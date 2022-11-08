@@ -341,3 +341,322 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 -------------------------
 
 <h3 id="2">English</h3>
+
+### Freechat Github Fips:
+
+https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
+
+| Proposal Time | Link | Result |
+| :--------: | :----------------------------------------------------------------------------------------------------------------: | :-: |
+| 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 | 未通过 |
+| —————————— | —————————————————————— | Pending |
+
+## FreechatDAO Development Team Work System and Compensation System
+
+### Introduction
+
+FreechatDAO is a WEB 3.0-based distributed work organization with employees located in various countries. This proposal was developed to optimize the personnel and management system, compensation system, and incentive system for management and operation. FreechatDAO uses Hubstaff software for payroll statistics and attendance statistics and pays according to working hours, hourly wages, token incentives, etc.
+
+### Job Category
+
+There are two types of community jobs: full-time jobs and part-time jobs.
+
+The two job categories correspond to different salaries and benefits.
+
+### Work System and Attendance
+
+Working methods are remote online work.
+
+### Probation
+
+Regardless of the part-time or full-time job, all employees have a one-month trial period, and no token incentives will be issued during this period.
+
+### Token Incentives
+
+Token incentives are divided into founding team incentives and community team incentives. The community team includes all community members except the founding team.
+
+*   **Founding Team Incentive Rules**：
+
+Evaluation Rules: The founding team incentives are confirmed to be issued upon entry, and re-evaluated every 36 months. The evaluation is based on 12 quarterly work evaluations within 3 years, and the evaluation of the founding team is based on the evaluation standards of F14 (including F14 level) and above.
+
+Evaluation Cycle: Re-evaluate the number of incentives every 36 months
+
+Distribution Cycle: Once every 36 months
+
+Special Term: In each evaluation cycle, if the founding team members of the F14 level (including the F14 level and above) have worked for less than 36 months, all token incentives will be void.
+
+Founding Team Incentive Beneficiaries: Founding team members who meet the evaluation standards, Number of rewards and list is based on[FIP-16 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
+
+*   **Community Team Incentive Rules**：
+
+Evaluation Rules: The Community team incentives are confirmed to be issued upon entry and re-evaluated every 36 months. The evaluation is based on 12 quarterly work evaluations within 3 years, and the evaluation of the community team is based on the evaluation standards of F14( not including F14 level) and below.
+
+Evaluation Cycle: Re-evaluate the number of incentives every 36 months
+
+Distribution Cycle: Once every 12 months
+
+Special Term: In each evaluation cycle, if employees below the F14 level (excluding the F14 level) have worked for less than 12 months, all token incentives will be void.
+
+Community Incentive Beneficiaries: all community team members (excluding the founding team) who meet the evaluation Standards, the number of incentives and the list is based on[FIP-16 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
+### full-time job
+
+* **Working Hours**：
+
+Suggested working time slots, or you can arrange your own reasonable time.
+
+Morning Shift: 9:00 am-12:00 pm; 1:00 pm-6:00 pm
+
+Middle Shift: 10:00 am-12:00 pm; 1:00 pm-7:00 pm
+
+Night Shift: 1:00 pm-6:00 pm; 7:00 pm-10:00 pm
+
+* **Weekday**：
+
+Monday, Tuesday, Wednesday, Thursday, Friday
+
+* **Weekend:**：
+
+Saturday, Sunday, National holidays
+
+* **Compensation System**：
+
+Hourly wage system
+
+* **Payroll Time**：2nd of every month
+
+* **Attendance Management System:**：
+
+Working hours and attendance are calculated using Hubstaff software.
+
+Working hours: 40 hours per week, 160 hours per month
+Activity requirements: The average monthly activity is not less than 50%.
+
+#### Full-time payroll method
+
+The payment currency is USDT
+
+* **Job Salary Level:**：
+
+Implement[FIP-12 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
+
+The above levels are the corresponding salary standard. F14-F20 levels are subject to special assessments, determined by the community.
+
+#### Job Evaluation Parameters
+
+* **Evaluation Format**：Unqualified, Qualified, Excellent
+* **F1-F13 Evaluation Time**：Every Quarter
+* **F14-F20 Evaluation Time**：Every Year
+
+**Evaluation Form Template (F1-F13)：**
+
+| Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluation Criteria |
+| :----------------: | :-------------------: | :-------: | :--------------------------------------: |
+| Employee| Nickname | Fill in the employee's nickname | - |
+| Progress Completion (Self-Assessment) | Number of Extensions | Unqualified, Qualified, Excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Code, Design, Data Quality (Self-Assessment) | Annotations, Specification, Logic, Design, Prototype, Data Completion Quality | Unqualified, Qualified, Excellent | Unannotated, disorganized code, cluttered logic, poor design quality, poor prototype quality, incomplete data goals, etc. are unqualified |
+| Response time (self-assessment) | On-the-job and communication response time | Unqualified, qualified, excellent | Response and support within 24 hours from receipt of notification. |
+| Associated Peer Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | - |
+| Associated Peer 1 | Nickname | Fill in the nickname of the associated peer | - |
+| Progress completion (assessed by associated peer) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Response Time (assessed by associated peer) | On-the-job and communication response time | Unqualified, Qualified, Excellent | Response and support within 24 hours from receipt of notification. |
+| Associated Peer 2 | Nickname | Fill in the nickname of the associated peer | - |
+| Progress completion (assessed by associated peer) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Response Time (assessed by associated peer) | On-the-job and communication response time | Unqualified, Qualified, Excellent | Response and support within 24 hours from receipt of notification. |
+| Associated Peer 3 | Nickname | Fill in the nickname of the associated peer | - |
+| Progress completion (assessed by associated peer) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Response Time (assessed by associated peer) | On-the-job and communication response time | Unqualified, Qualified, Excellent | Response and support within 24 hours from receipt of notification. |
+| Leader Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | - |
+| Hubstaff Activity Rate (Assessed by the leader) | Quarterly average activity rate and working hours of Hubstaff | Unqualified, qualified, excellent | Less than 50% is unqualified, more than 50% is qualified, and more than 65% is excellent |
+| Hubstaff Working Hours (Assessed by the leader) | Hubstaff Quarterly Working Hours | Unqualified, Qualified, Excellent | Less than 400 hours are unqualified, more than 400 hours are qualified, and more than 480 hours are excellent. |
+| Progress completion (Assessed by the leader) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Code, Design, Data Target Quality (Assessed by the leader) | Annotations, Specification, Logic, Design, Prototype, Data Completion Quality | Unqualified, Qualified, Excellent | Unannotated, disorganized code, cluttered logic, poor design quality, poor prototype quality, incomplete data goals, etc. are unqualified |
+| Response time (Assessed by the leader) | On-the-job and communication response time | Unqualified, qualified, excellent | Response and support within 24 hours from receipt of notification. |
+| Work attitude (Assessed by the leader) | Comprehensive judgment on work attitude, professional ethics, etc. | Unqualified, qualified, excellent | Assess work attitude, due diligence, professional ethics, etc.|
+
+**Assessment Method**
+
+**Self-assessment**: Self-assessment.
+* **Assessment by Associated Peer**: Invite 3 peers who are associated with their work for assessment.
+* **Assessment by the leader**: The leader evaluates the employee.
+
+**F1-F13 Evaluation Time**
+Every quarter
+
+**Promotion Criteria**
+
+3 qualified, and 12 excellent, will be promoted to the next level.
+
+**Relegation Criteria**
+
+7 qualified, 8 excellent, will remain normal relegation.
+
+**Downgrade Criteria**
+
+8 unqualified, will be downgraded. 10 unqualified, will be dissuaded.
+
+**Daily Penalty Mechanism**
+
+If the minimum activity rate requirement of 50% is not met on the monthly payday, the salary will be calculated according to the actual activity rate.
+
+Calculation formula: monthly salary * monthly average actual activity = actual salary paid
+
+* **Assessment process**
+![FIP](../assets/fip-13/1666553390786.jpg)
+
+
+
+**F14-F20 Evaluation Form Template**
+| Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluation Criteria |
+| :--: | :-------: | :-------: | :-------: |
+| Employee | Nickname | Fill in the employee's nickname | |
+| Management work | Community development and other management work | Unqualified, qualified, excellent | assessed by project team members |
+| Community Governance | Community Governance Work | Unqualified, Qualified, Excellent | Community Proposal Decision |
+| Community Development | Completion of Community Development Goals | Unqualified, Qualified, Excellent | Community Proposal Decision |
+| Goal Commitment | Whether the Commitment Goal Is Achieved | Unqualified, Qualified, Excellent | Community Proposal Decision |
+| Response time | On-the-job and communication response time | Unqualified, qualified, excellent | assessed by project team members |
+
+**F14-F20 Assessment Time**
+
+every year
+
+**Succession Criteria and Rewards**
+
+3 or more qualified succession criteria
+
+More than 4 excellent will be rewarded by the community, and the rewards are as follows
+
+Implement [FIP-12Proposal]((https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md))
+
+**Resignation Criteria**
+
+The evaluation process will be conducted every year, 3 unqualified will be resigned, and the community proposal will vote to decide the successor and transfer the relevant account authority.
+
+* **Assessment Process**
+
+![FIP](../assets/fip-13/1666881614117.jpg)
+
+The community will adjust the hourly salary of each level according to the operation situation. First make community proposals, after the proposal is passed, the salary of each position will be adjusted.
+
+Community Compensation Proposal: [FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
+
+### Part-time Job
+
+Hourly wage system
+
+* **Payroll Time**：2nd of each month
+
+* **Attendance Management System:**：
+
+Working hours and attendance are calculated using Hubstaff software.
+
+Working hours: not less than 20 hours per week, can work at any time, not limited by holidays.
+
+Activity requirements: The average monthly activity is not less than 50%.
+
+#### Part-time payroll Method
+
+The payment currency is USDT
+
+* **Job Salary Level**：
+
+Implement [FIP-12Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
+
+#### Job Evaluation Parameters
+
+* **Evaluation format**: unqualified, qualified, excellent
+  
+* **J1-J9 Evaluation Time**: Quarterly
+
+**Evaluation Form Template(J1-J19)：**
+
+| Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluation Criteria |
+| :----------------: | :-------------------: | :-------: | :--------------------------------------: |
+| Employee| Nickname | Fill in the employee's nickname | - |- |
+| Progress Completion (Self-Assessment) | Number of Extensions | Unqualified, Qualified, Excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Code, Design, Data Quality (Self-Assessment) | Annotations, Specification, Logic, Design, Prototype, Data Completion Quality | Unqualified, Qualified, Excellent | Unannotated, disorganized code, cluttered logic, poor design quality, poor prototype quality, incomplete data goals, etc. are unqualified |
+| Response time (self-assessment) | On-the-job and communication response time | Unqualified, qualified, excellent | Response and support within 24 hours from receipt of notification. |
+| Associated Peer Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | - |
+| Associated Peer 1 | Nickname | Fill in the nickname of the associated peer | - |
+| Progress completion (assessed by associated peer) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Response Time (assessed by associated peer) | On-the-job and communication response time | Unqualified, Qualified, Excellent | Response and support within 24 hours from receipt of notification. |
+| Associated Peer 2 | Nickname | Fill in the nickname of the associated peer | - |
+| Progress completion (assessed by associated peer) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Response Time (assessed by associated peer) | On-the-job and communication response time | Unqualified, Qualified, Excellent | Response and support within 24 hours from receipt of notification. |
+| Associated Peer 3 | Nickname | Fill in the nickname of the associated peer | - |
+| Progress completion (assessed by associated peer) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Response Time (assessed by associated peer) | On-the-job and communication response time | Unqualified, Qualified, Excellent | Response and support within 24 hours from receipt of notification. |
+| Leader Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | - |
+| Hubstaff Activity Rate (Assessed by the leader) | Quarterly average activity rate and working hours of Hubstaff | Unqualified, qualified, excellent | Less than 50% is unqualified, more than 50% is qualified, and more than 65% is excellent |
+| Hubstaff Working Hours (Assessed by the leader) | Hubstaff Quarterly Working Hours | Unqualified, Qualified, Excellent | Less than 200 hours are unqualified, more than 200 hours are qualified, and more than 240 hours are excellent. |
+| Progress completion (Assessed by the leader) | Number of extensions | Unqualified, qualified, excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
+| Code, Design, Data Target Quality (Assessed by the leader) | Annotations, Specification, Logic, Design, Prototype, Data Completion Quality | Unqualified, Qualified, Excellent | Unannotated, disorganized code, cluttered logic, poor design quality, poor prototype quality, incomplete data goals, etc. are unqualified |
+| Response time (Assessed by the leader) | On-the-job and communication response time | Unqualified, qualified, excellent | Response and support within 24 hours from receipt of notification. |
+| Work attitude (Assessed by the leader) | Comprehensive judgment on work attitude, professional ethics, etc. | Unqualified, qualified, excellent | Assess work attitude, due diligence, professional ethics, etc.|
+
+#### Assessment Method
+
+**Self-assessment**: Self-assessment.
+
+* **Assessment by Associated Peer**: Invite 3 peers who are associated with their work for assessment.
+
+* **Assessment by the leader**: The leader evaluates the employee.
+
+**J1-J9Evaluation Time**：Quarterly
+
+**Promotion Criteria**
+
+3 qualified, and 12 excellent, will be promoted to the next level.
+
+**Relegation Criteria**
+
+7 qualified, 8 excellent, will remain normal relegation.
+
+**Downgrade Criteria**
+
+8 unqualified, will be downgraded. 10 unqualified, will be dissuaded.
+
+**Daily Penalty Mechanism**
+
+If the minimum activity rate requirement of 50% is not met on the monthly payday, the salary will be calculated according to the actual activity rate.
+
+Calculation formula: monthly salary * monthly average actual activity = actual salary paid
+
+**Assessment Process**
+
+![FIP](../assets/fip-13/1666553390786.jpg)
+
+**Notice**
+The community will adjust the hourly salary of each level according to the operation situation. First make community proposals, after the proposal is passed, the salary of each position will be adjusted.
+Community Compensation Limit Proposal: [FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
+
+### Meeting time compensation
+
+Each meeting takes up a lot of time and cannot be quantified. Therefore, all community developers are compensated monthly for meeting time. Compensation will be included in the salary.
+
+Conduct based on：[FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
+
+### FreechatDAO Job Level Evaluation Committee
+
+Responsible for community developer job level evaluations, interviews, etc.
+
+| Nickname | Responsible Content |
+| :-------: | :--: |
+| Jack Long | Job Level Evaluation |
+| Danny Guo | Job Level Evaluation |
+| Mia | Job Level Evaluation |
+| Lily | Job Level Evaluation |
+| Kang | Job Level Evaluation |
+
+### Founding Team, Community Development Team Members, Compensation, Incentive List
+
+FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md)
+(Please note that the list of community members is subject to change at any time.)
+
+### Join Us
+The FreechatDAO community development team welcomes any person and organization to join. If you are interested, please send your resume to the following email address:
+
+Email：talent@freechat.world
+
+### Copyright Waiver 
+
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
