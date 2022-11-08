@@ -398,7 +398,8 @@ Distribution Cycle: Once every 12 months
 Special Term: In each evaluation cycle, if employees below the F14 level (excluding the F14 level) have worked for less than 12 months, all token incentives will be void.
 
 Community Incentive Beneficiaries: all community team members (excluding the founding team) who meet the evaluation Standards, the number of incentives and the list is based on[FIP-16 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md).
-### full-time job
+
+### Full-time job
 
 * **Working Hours**：
 
