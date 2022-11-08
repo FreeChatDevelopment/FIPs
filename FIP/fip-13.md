@@ -348,7 +348,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 
 | Proposal Time | Link | Result |
 | :--------: | :----------------------------------------------------------------------------------------------------------------: | :-: |
-| 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 | 未通过 |
+| 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 | Against |
 | —————————— | —————————————————————— | Pending |
 
 ## FreechatDAO Development Team Work System and Compensation System
