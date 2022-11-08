@@ -6,7 +6,7 @@ fip: 13
 类型: 机制
 作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-23
-修改时间: 2022-11-06
+修改时间: 2022-11-08
 ---
 
 [中文版](#1)
@@ -349,7 +349,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 | Proposal Time | Link | Result |
 | :--------: | :----------------------------------------------------------------------------------------------------------------: | :-: |
 | 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 | Against |
-| —————————— | —————————————————————— | Pending |
+| 2022-11-08 | https://snapshot.org/#/freechatdao.eth/proposal/0xb902bee73bb4e4d84826fee7e048571cd1665493a9fe70be6a89f5b1f1f880d3| Pending |
 
 ## FreechatDAO Development Team Work System and Compensation System
 
