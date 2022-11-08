@@ -425,11 +425,12 @@ Hourly wage system
 
 * **Payroll Time**：2nd of every month
 
-* **Attendance Management System:**：
+* **Attendance Management System:**
 
 Working hours and attendance are calculated using Hubstaff software.
 
 Working hours: 40 hours per week, 160 hours per month
+
 Activity requirements: The average monthly activity is not less than 50%.
 
 #### Full-time payroll method
