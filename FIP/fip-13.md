@@ -446,7 +446,9 @@ The above levels are the corresponding salary standard. F14-F20 levels are subje
 #### Job Evaluation Parameters
 
 * **Evaluation Format**：Unqualified, Qualified, Excellent
+  
 * **F1-F13 Evaluation Time**：Every Quarter
+  
 * **F14-F20 Evaluation Time**：Every Year
 
 **Evaluation Form Template (F1-F13)：**
@@ -478,7 +480,9 @@ The above levels are the corresponding salary standard. F14-F20 levels are subje
 **Assessment Method**
 
 **Self-assessment**: Self-assessment.
+
 **Assessment by Associated Peer**: Invite 3 peers who are associated with their work for assessment.
+
 **Assessment by the leader**: The leader evaluates the employee.
 
 **F1-F13 Evaluation Time**
@@ -570,7 +574,7 @@ Implement [FIP-12Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main
   
 * **J1-J9 Evaluation Time**: Quarterly
 
-**Evaluation Form Template(J1-J19)：**
+**Evaluation Form Template(J1-J9)：**
 
 | Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluation Criteria |
 | :----------------: | :-------------------: | :-------: | :--------------------------------------: |
@@ -657,6 +661,7 @@ FreeChatDevelopment Team: [FIP-16](https://github.com/FreeChatDevelopment/FIPs/b
 (Please note that the list of community members is subject to change at any time.)
 
 ### Join Us
+
 The FreechatDAO community development team welcomes any person and organization to join. If you are interested, please send your resume to the following email address:
 
 Email：talent@freechat.world
