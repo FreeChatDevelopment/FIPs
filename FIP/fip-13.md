@@ -530,7 +530,7 @@ Every year
 
 More than 4 excellent will be rewarded by the community, and the rewards are as follows
 
-Implement [FIP-12 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md))
+Implement [FIP-12 Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 **Resignation Criteria**
 
