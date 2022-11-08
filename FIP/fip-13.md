@@ -22,7 +22,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 |    提案时间    |                                                         链接                                                     |  结果 |
 | :--------: | :----------------------------------------------------------------------------------------------------------------: | :-: |
 | 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 | 未通过 |
-| —————————— | —————————————————————— |  待定 |
+| 2022-11-08 | https://snapshot.org/#/freechatdao.eth/proposal/0xb902bee73bb4e4d84826fee7e048571cd1665493a9fe70be6a89f5b1f1f880d3|  待定 |
 
 ## FreechatDAO开发团队工作制度及薪酬体系制度
 
