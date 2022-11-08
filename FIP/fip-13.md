@@ -509,7 +509,7 @@ Calculation formula: monthly salary * monthly average actual activity = actual s
 
 
 **F14-F20 Evaluation Form Template**
-| Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluation Criteria |
+| Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluator |
 | :--: | :-------: | :-------: | :-------: |
 | Employee | Nickname | Fill in the employee's nickname | |
 | Management work | Community development and other management work | Unqualified, qualified, excellent | assessed by project team members |
@@ -574,7 +574,7 @@ Implement [FIP-12Proposal](https://github.com/FreeChatDevelopment/FIPs/blob/main
 
 | Evaluation Options | Evaluation Parameters | Fill in the Parameter Format | Evaluation Criteria |
 | :----------------: | :-------------------: | :-------: | :--------------------------------------: |
-| Employee| Nickname | Fill in the employee's nickname | - |- |
+| Employee| Nickname | Fill in the employee's nickname | - | - |
 | Progress Completion (Self-Assessment) | Number of Extensions | Unqualified, Qualified, Excellent | Within 2 extensions are excellent, within 6 are qualified, and more than 6 are unqualified |
 | Code, Design, Data Quality (Self-Assessment) | Annotations, Specification, Logic, Design, Prototype, Data Completion Quality | Unqualified, Qualified, Excellent | Unannotated, disorganized code, cluttered logic, poor design quality, poor prototype quality, incomplete data goals, etc. are unqualified |
 | Response time (self-assessment) | On-the-job and communication response time | Unqualified, qualified, excellent | Response and support within 24 hours from receipt of notification. |
