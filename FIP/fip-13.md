@@ -482,6 +482,7 @@ The above levels are the corresponding salary standard. F14-F20 levels are subje
 * **Assessment by the leader**: The leader evaluates the employee.
 
 **F1-F13 Evaluation Time**
+
 Every quarter
 
 **Promotion Criteria**
@@ -519,7 +520,7 @@ Calculation formula: monthly salary * monthly average actual activity = actual s
 
 **F14-F20 Assessment Time**
 
-every year
+Every year
 
 **Succession Criteria and Rewards**
 
@@ -628,6 +629,7 @@ Calculation formula: monthly salary * monthly average actual activity = actual s
 ![FIP](../assets/fip-13/1666553390786.jpg)
 
 **Notice**
+
 The community will adjust the hourly salary of each level according to the operation situation. First make community proposals, after the proposal is passed, the salary of each position will be adjusted.
 Community Compensation Limit Proposal: [FIP-12](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
