@@ -86,7 +86,7 @@ FreechatDAO和Freechat的历史背景和由来，投资历史。
 
   [1inch](https://app.1inch.io/)
 
-## FreechatDAO社区团队
+## FreechatDAO核心团队
 
    - **Jack Long**
    
@@ -100,18 +100,6 @@ FreechatDAO和Freechat的历史背景和由来，投资历史。
 
    - **Mia**
      - FreechatDAO社区联合创始人，美国工作和生活8年，社区发言人，媒体负责人。
-
-   - **00L**
-     - FreechatDAO社区设计师，负责社区产品设计工作，与Jack Long共同工作5年。
-
-   - **00N**
-     - FreechatDAO社区开工程师，负责社区研发工作，与Jack Long共同工作2年。
-
-   - **00W**
-     - FreechatDAO社区UI设计师，负责社区产品设计工作，与Jack Long共同工作4年。
-
-   - **Tj4n**
-     - FreechatDAO社区研发工程师，负责社区产品研发工作。前Vivo工程师。
 
 ## 社区融资负责人
 
@@ -143,6 +131,8 @@ https://twitter.com/freechat_app
 Freechat Coin流动池与交易对：
 
 [USDT-FCC](https://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
+
+[USDC-FCC](https://info.uniswap.org/#/pools/0x06c3c090b9a3ec53872e8e4af93b77d66b00297b)
 
 [ETH-FCC](https://info.uniswap.org/#/pools/0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
 

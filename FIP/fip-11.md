@@ -202,6 +202,8 @@ Freechat Coin流动池与交易对：
 
 [USDT-FCC](https://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
 
+[USDC-FCC](https://info.uniswap.org/#/pools/0x06c3c090b9a3ec53872e8e4af93b77d66b00297b)
+
 [ETH-FCC](https://info.uniswap.org/#/pools/0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
 
 ## 版权放弃声明
@@ -384,6 +386,8 @@ Freechat Coin Liquidity Pool and Trading Pairs：
 [USDT-FCC](https://info.uniswap.org/#/pools/0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
 
 [ETH-FCC](https://info.uniswap.org/#/pools/0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
+
+[USDC-FCC](https://info.uniswap.org/#/pools/0x06c3c090b9a3ec53872e8e4af93b77d66b00297b)
 
 ## Copyright Waiver
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
