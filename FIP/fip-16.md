@@ -63,7 +63,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-10-15|Jessica Rao|Dev   |15 USD/时| J4   |在职 |-                |-    |
 |2022-09-30|Joy        |Dev   |20 USD/时| J5   |在职 |-                |-    |
 |2022-10-15|Paul       |Dev   |15 USD/时| J4   |在职 |-                |-    |
-|2022-10-27|Jojo       |Dev   |20 USD/时| F14  |在职 |1,000,000 FCC    |2025-10   |
+|2022-10-27|Jojo       |Dev   |20 USD/时| F14  |在职 |1,000,000 FCC    |2025-10-27|
 |2022-10-15|UN         |Dev   |15 USD/时| J4   |在职 |-                |-    |
 
 ## 社区团队激励与薪酬公示
@@ -74,7 +74,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 
 * **代币名称**：Freechat Coin
 * **代币简称**：FCC
-* **激励数量**：200,000,000
+* **激励数量**：15,000,000
 * **持有地址**：/
 * **锁仓限制**：无限制
 * **代币激励规则**：依据[FIP-13提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md)
