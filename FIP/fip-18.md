@@ -53,4 +53,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-18.md
 
 Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
 
+-------------------------
+
+<h3 id="2">English</h3>
 
