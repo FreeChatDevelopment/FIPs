@@ -6,7 +6,7 @@ fip: 12
 类型: 机制
 作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-22
-修改时间: 2022-10-28
+修改时间: 2022-11-14
 ---
 
 [中文版](#1)
@@ -91,14 +91,25 @@ FreeChatDevelopment是Freechat和FreechatDAO开发组织，简称FDev，由全�
     |  J8 | 40 USD/时 |
     |  J9 | 50 USD/时 |
 
-### 代币激励总量
+## 代币激励总量
 
-FreeChatDevelopment开发团队的激励数量如下所示：
+### 创始团队激励代币池
+
+FreeChatDevelopment创始团队的激励数量如下所示：
 
 * **代币名称**：Freechat Coin
 * **代币简称**：FCC
 * **激励数量**：200,000,000
 * **持有地址**：[0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
+
+### 社区团队激励代币池
+
+FreeChatDevelopment社区团队的激励数量如下所示：
+
+* **代币名称**：Freechat Coin
+* **代币简称**：FCC
+* **激励数量**：15,000,000
+* **持有地址**：[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae)
 
 ### F14-F20职级奖励
 
