@@ -37,7 +37,7 @@ Freechat所有收入归属于社区，社区通过此提案及智能合约进行
   
   作用：用于社区发放薪酬、治理成本、运营成本的使用。
 
-  地址：
+  地址：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 
 * **质押分红池分配比例及作用** 
   
@@ -45,7 +45,7 @@ Freechat所有收入归属于社区，社区通过此提案及智能合约进行
 
   作用：向质押Freechat Coin（FCC）用户发放分红。
 
-  地址：
+  地址：[0x075c805af6d3721b36ee8325aa4d49904a35866b](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x075c805af6d3721b36ee8325aa4d49904a35866b)
 
 * **社区金库储备分配比例及作用** 
   
@@ -53,7 +53,7 @@ Freechat所有收入归属于社区，社区通过此提案及智能合约进行
 
   作用：社区资金储备，用于各种意外事件的处理。
 
-  地址：
+  地址：[0x3aC073d7fB2d422873D4286F62e1e0ddb69bd778](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x3aC073d7fB2d422873D4286F62e1e0ddb69bd778)
   
 
 ## 版权放弃声明
