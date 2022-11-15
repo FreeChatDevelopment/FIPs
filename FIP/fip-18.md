@@ -35,8 +35,6 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-18.md
 
 合约地址：[0x171b1daefac13a0a3524fcb6beddc7b31e58e079](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079)
 
-激励数量：15,000,000 FCC
-
 ## 社区拨付代币池信息
 
 拨付代币池地址：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
