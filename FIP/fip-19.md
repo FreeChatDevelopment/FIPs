@@ -6,7 +6,7 @@ fip: 19
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-11-14
-修改时间: 2022-11-14
+修改时间: 2022-11-16
 ---
 
 [中文版](#1)
@@ -25,7 +25,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
   | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
 ## 目的
-限制社区部分权限，禁止采用Freechat Coin（FCC）进行抵押、借贷、抽调流动性等权限。
+限制社区部分权限，禁止采用Freechat Coin（FCC）进行抵押、借贷、提取流动性等权限。
 
 ## 限制权限明细
 * **对外借贷** 
@@ -34,9 +34,9 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
 
   目的：防止因其他币种的不确定风险，造成对Freechat Coin（FCC）的价值及声誉损害，保护FreechatDAO社区成员和投资者。
 
-* **抽调流动性** 
+* **提取流动性** 
   
-  社区无论发生任何情况禁止抽调任何流动性池的交易对，包含未来新增加交易对。
+  社区无论发生任何情况禁止提取任何流动性池的交易对，包含未来新增加交易对。
 
   目的：防止因Freechat Coin（FCC）失去流动性，造成不可预计的后果。确保FreechatDAO社区成员和投资者的资产安全。
 

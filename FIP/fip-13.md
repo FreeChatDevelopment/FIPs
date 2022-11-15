@@ -2,7 +2,7 @@
 fip: 13
 标题: FreechatDAO社区的工作制度和薪酬指南
 描述: 用于对社区团队的工作和薪酬制度的规范，激励。
-状态: 草案
+状态: 生效
 类型: 机制
 作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-23
@@ -22,7 +22,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-13.md
 |    提案时间    |                                                         链接                                                     |  结果 |
 | :--------: | :----------------------------------------------------------------------------------------------------------------: | :-: |
 | 2022-10-30 | https://snapshot.org/#/freechatdao.eth/proposal/0x5dc3fb0e38bd1ef97c2124c3dc1c61dff8e382d177475456dc7dee794c6af560 | 未通过 |
-| 2022-11-09 | https://snapshot.org/#/freechatdao.eth/proposal/0x0cea31632120863d1c224fe2576f932b52ded41cabb64e980017d75893d1171d |  待定 |
+| 2022-11-09 | https://snapshot.org/#/freechatdao.eth/proposal/0x0cea31632120863d1c224fe2576f932b52ded41cabb64e980017d75893d1171d |  通过 |
 
 ## FreechatDAO开发团队工作制度及薪酬体系制度
 
