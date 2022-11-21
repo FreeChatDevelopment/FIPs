@@ -78,7 +78,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 依据[FIP-12提案](https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-12.md)
 
 ## 社区团队名单及薪酬、激励信息
-|入职日期  |    呢称     | 岗位 |   薪酬   | 职级 |在职状态|   代币激励数量  |2023-12|2024-12|2025-12|
+|入职日期  |    呢称     | 岗位 |   薪酬   | 职级 |在职状态|   代币激励数量  |第一次发放|第二次发放|第三次发放|
 |:-------:|:----------:|:----:|:-------:|:---:|:-----:|:-------------:|:-----:|:-----:|:-----:|
 |2022-08-22|Jack Long  |CEO   |    -    | F20  |在职   |-              |-      |-      |-      |
 |2022-08-22|Danny Guo  |CTO   |    -    | F20  |在职   |-              |-      |-      |-      |
@@ -96,7 +96,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-11-28|jinmy      |Dev   |8  USD/时| J5   |在职   |-              |-      |-      |-      |
 |2022-11-28|shadow     |Dev   |20 USD/时| J5   |在职   |-              |-      |-      |-      |
 |2022-11-28|Devin      |Dev   |15 USD/时| J4   |在职   |-              |-      |-      |-      |
-|2022-11-28|Jojo       |Dev   |20 USD/时| J5   |在职   |-              |-      |-      |-      |
+|2022-10-27|Jojo       |Dev   |20 USD/时| J5   |在职   |-              |-      |-      |-      |
 
 ------------------------
 
