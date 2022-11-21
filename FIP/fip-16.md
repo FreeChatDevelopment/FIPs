@@ -91,7 +91,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-08-22|00W        |UI    |15 USD/时| F4   |在职   |-              |-      |-      |-      |
 |2022-08-22|00L        |UI    |15 USD/时| F4   |在职   |-              |-      |-      |-      |
 |2022-08-22|00N        |Dev   |15 USD/时| F4   |在职   |-              |-      |-      |-      |
-|2022-10-15|Kang       |Dev   |20 USD/时| F5   |在职   |-              |-      |-      |-      |
+|2022-10-15|Kang       |Dev   |15 USD/时| F4   |在职   |-              |-      |-      |-      |
 |2022-08-22|tj4n       |Dev   |20 USD/时| F5   |在职   |-              |-      |-      |-      |
 |2022-11-28|jinmy      |Dev   |8  USD/时| J5   |在职   |-              |-      |-      |-      |
 |2022-11-28|shadow     |Dev   |20 USD/时| J5   |在职   |-              |-      |-      |-      |
