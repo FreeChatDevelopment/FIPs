@@ -45,23 +45,6 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
   社区无论发生任何情况禁止使用Freechat Coin（FCC）进行对外抵押。
 
   目的：防止恶意机构对社区造成不可预计的后果。
-
-## 储备金公示
-
-FreechatDAO通过建立公开透明的储备金公示系统，方便用于社区进行储备金公示及监督。
-
-* **公示网址** 
-
-  聚合展示链接：https://freechat.world/Reservepublicity
-
-  公示信息：社区金库池
-
-  公示信息：社区流动池
-
-  公示信息：社区运营池
-
-  公示信息：社区收益分配池
-  
   
 
 ## 版权放弃声明
