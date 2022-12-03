@@ -100,7 +100,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-11-19|TT         |PM    |在职   |300,000        |-            |-            |-             |
 |2022-11-23|Choki      |Ambassador|在职|150,000 FCC    |2023-11-23 50,000 FCC|2024-11-23 50,000 FCC |2025-11-23 50,000 FCC|
 |2022-12-01|toby       |dev   |在职   |300,000        |-            |-            |-             |
-|2022-12-01|August     |dev   |在职   |300,000        |-            |-            |-             |
+|2022-12-03|August     |dev   |在职   |300,000        |-            |-            |-             |
 ------------------------
 
 <h3 id="2">English</h3>
