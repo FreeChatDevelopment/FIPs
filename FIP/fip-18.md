@@ -4,7 +4,7 @@ fip: 18
 描述: 确定社区激励池的预算用于激励社区开发人员
 状态: 草案
 类型: 机制
-作者: Jack long （jacklong@freechat.world）
+作者: Jack long （jacklong@freechat.world）,Mia
 创建时间: 2022-11-06
 修改时间: 2022-11-14
 ---
