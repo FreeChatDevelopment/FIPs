@@ -24,7 +24,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
   |:-:|:-:|:-:|
   | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
-## 目的
+## 介绍
 限制社区部分权限，禁止采用Freechat Coin（FCC）进行抵押、借贷、提取流动性等权限，并进行社区储备金公示。
 
 ## 限制权限明细
@@ -47,8 +47,10 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
   目的：防止恶意机构对社区造成不可预计的后果。
 
 ## 社区储备金公示
-
   
+  社区将通过Freechat网站进行社区储备金公示。
+
+  网站：https://freechat.world
 
 ## 版权放弃声明
 
@@ -58,3 +60,34 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 
 <h3 id="2">English</h3>
 
+# Introduction
+Restrict some permissions of the community, prohibit the adoption of Freechat Coins (FCC) for pledging, borrowing, withdrawing liquidity and other permissions, and publicize community reserves.
+
+## Restricted Permission Details
+* **External Lending** 
+  
+  Community use of Freechat Coin (FCC) for external collateral lending is prohibited. Collateral lending in all coins is included.
+
+  Purpose: To prevent the risk of uncertainty in other coins from damaging the value and reputation of Freechat Coin (FCC) and to protect FreechatDAO community members and investors.
+
+* **Extraction of liquidity** 
+  
+  The community is prohibited from withdrawing any currency pairs from the liquidity pool, including new pairs added in the future, regardless of what happens.
+
+  Purpose: To prevent unpredictable consequences due to the loss of liquidity of Freechat Coin (FCC). To ensure the safety of assets of FreechatDAO community members and investors.
+
+* **External Mortgage** 
+  
+  No matter what happens, the community is prohibited from using Freechat Coins (FCC) for external collateral.
+
+  Purpose: To prevent malicious organizations from causing unpredictable consequences to the community.
+
+## Community Reserve's public statement
+  
+  The community will advertise the community reserve through the Freechat website.
+
+  Website：https://freechat.world
+
+## Copyright Waiver
+
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
