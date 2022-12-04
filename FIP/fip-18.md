@@ -55,3 +55,30 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 
 <h3 id="2">English</h3>
 
+## Introduction
+确定社区开发团队的激励代币池数量，公平透明的为每一位社区开发成员进行激励。
+
+## Incentive Category
+
+Token：Freechat Coin
+
+Abbreviations：FCC
+
+Contract Address：[0x171b1daefac13a0a3524fcb6beddc7b31e58e079](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079)
+
+## Community Issued Token Pool Information
+
+Assign token pool address：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+
+Number of grants：15,000,000 FCC
+
+## Community Incentive Token Pool Information
+
+Token Pool Address：[0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x53f634e055f80EcEa8d3a89e32320AfecF8ce8Ae)
+
+Number of Holdings：15,000,000 FCC
+
+## Copyright Waiver
+
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
+
