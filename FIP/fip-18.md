@@ -56,7 +56,7 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 <h3 id="2">English</h3>
 
 ## Introduction
-确定社区开发团队的激励代币池数量，公平透明的为每一位社区开发成员进行激励。
+Determine the number of incentive token pools for the community development team and incentivize each community development member in a fair and transparent manner.
 
 ## Incentive Category
 
