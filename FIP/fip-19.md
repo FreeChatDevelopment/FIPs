@@ -1,10 +1,10 @@
 ---
 fip: 19
-标题: 限制FreechatDAO社区权限的提案
+标题: 限制FreechatDAO社区权限和社区储备金公示提案
 描述: 限制FreechatDAO社区权限，明确社区禁止的行为。
 状态: 草案
 类型: 机制
-作者: Jack long （jacklong@freechat.world）
+作者: Jack long （jacklong@freechat.world）,Mia
 创建时间: 2022-11-14
 修改时间: 2022-11-16
 ---
@@ -25,7 +25,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
   | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
 ## 目的
-限制社区部分权限，禁止采用Freechat Coin（FCC）进行抵押、借贷、提取流动性等权限。
+限制社区部分权限，禁止采用Freechat Coin（FCC）进行抵押、借贷、提取流动性等权限，并进行社区储备金公示。
 
 ## 限制权限明细
 * **对外借贷** 
@@ -45,6 +45,9 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
   社区无论发生任何情况禁止使用Freechat Coin（FCC）进行对外抵押。
 
   目的：防止恶意机构对社区造成不可预计的后果。
+
+## 社区储备金公示
+
   
 
 ## 版权放弃声明

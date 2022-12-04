@@ -23,7 +23,6 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-17.md
   |:-:|:-:|:-:|
   |YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
 
-
 ## 介绍
 2023年度的社区预算公示，用于社区的运营及Freechat产品运营。
 
@@ -51,3 +50,27 @@ Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/b
 -------------------------
 
 <h3 id="2">English</h3>
+
+## Introduction
+The FY 2023 community budget is for community operations and Freechat product operations.
+
+## Community Budget
+Monetary Unit：USD
+|Projects             |Monthly Budget|Annual Budget | 
+|:-------------------:|:-------------:|:------------:|
+|Salary               |100,000   |1,200,000|
+|Cloud Services       |30,000    |360,000 |
+|Marketing            |50,000    |600,000 |
+|Administrative costs |3,000     |36,000  |
+|Total cost           |180,300   |2,196,000|
+
+## Other budget tables
+Monetary Unit：USD
+|Project                 |Annual Budget | 
+|:----------------------:|:---------:|
+|Audit Fees              |50,000    |
+|Artistic creation fee   |210,000   |
+|Total cost              |260,000   |
+
+## Copyright Waiver
+Copyright and related rights waived via [CC0](https://github.com/ethereum/EIPs/blob/master/LICENSE.md)
