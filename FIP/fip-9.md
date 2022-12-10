@@ -171,6 +171,7 @@ FreechatDAO开发团队（FreeChatDevelopment）
 - **地址（社区持有）**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **释义**：用于帮助FreechatDAO和Freechat发展的贡献的奖励
 - **限制条款**：社区提案公示及使用。
+  
 ## 相关资料
 
 社区治理：
