@@ -6,7 +6,7 @@ fip: 19
 类型: 机制
 作者: Jack long （jacklong@freechat.world）,Mia
 创建时间: 2022-11-14
-修改时间: 2022-11-16
+修改时间: 2022-12-12
 ---
 
 [中文版](#1)
@@ -22,7 +22,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-19.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
+  |2022-12-07|[https://snapshot.org/#/freechatdao.eth/proposal/0x5b9902233c28dc4f6544fdc5b92cf98d0eb3bd2d19882eee11fb115efebe1730](https://snapshot.org/#/freechatdao.eth/proposal/0x5b9902233c28dc4f6544fdc5b92cf98d0eb3bd2d19882eee11fb115efebe1730)|通过|
 
 ## 介绍
 限制社区部分权限，禁止采用Freechat Coin（FCC）进行抵押、借贷、提取流动性等权限，并进行社区储备金公示。

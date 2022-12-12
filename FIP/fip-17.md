@@ -2,11 +2,11 @@
 fip: 17
 标题: 2023年度社区预算和用途
 描述: 2023年预算公示和用途公示
-状态: 草案
+状态: 生效
 类型: 机制
 作者: Jack long （jacklong@freechat.world）
 创建时间: 2022-10-25
-修改时间: 2022-12-04
+修改时间: 2022-12-12
 ---
 
 [中文版](#1)
@@ -21,7 +21,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-17.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  |YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
+  |2022-12-07|[https://snapshot.org/#/freechatdao.eth/proposal/0x772f8a5090dd5d4706fac989683f810607b188b3d3cdab755da471f76f50f9e0](https://snapshot.org/#/freechatdao.eth/proposal/0x772f8a5090dd5d4706fac989683f810607b188b3d3cdab755da471f76f50f9e0)|通过|
 
 ## 介绍
 2023年度的社区预算公示，用于社区的运营及Freechat产品运营。

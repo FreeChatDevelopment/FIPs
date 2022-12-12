@@ -6,7 +6,7 @@ fip: 18
 类型: 机制
 作者: Jack long （jacklong@freechat.world）,Mia
 创建时间: 2022-11-06
-修改时间: 2022-11-14
+修改时间: 2022-12-12
 ---
 
 [中文版](#1)
@@ -22,7 +22,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-18.md
 
   | 提案时间 | 链接 | 结果 |
   |:-:|:-:|:-:|
-  | YYYY-MM-DD |FreechatDAO社区对应的提案链接|待定|
+  |2022-12-07|[https://snapshot.org/#/freechatdao.eth/proposal/0x488fe98c9b24c631510595218dccb56854862dd984f8cb5d30bba67d50cefc52](https://snapshot.org/#/freechatdao.eth/proposal/0x488fe98c9b24c631510595218dccb56854862dd984f8cb5d30bba67d50cefc52)|通过|
 
 ## 目的
 确定社区开发团队的激励代币池数量，公平透明的为每一位社区开发成员进行激励。
