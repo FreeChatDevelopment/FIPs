@@ -72,7 +72,7 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-14.md
 
 ## 质押收益领取方式
 
-   质押收益在质押到期后，一次性领取。
+   质押收益在质押到期后，一次性领取所有收益。
 
  - **可交易市场**：
 
