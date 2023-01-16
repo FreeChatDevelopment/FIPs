@@ -2,7 +2,7 @@
 fip: 19
 标题: 关于限制FreechatDAO社区权力和社区储备的透明治理，以保护投资者和社区安全.
 描述: 限制FreechatDAO社区权限，明确社区禁止的行为。
-状态: 草案
+状态: 生效
 类型: 机制
 作者: Jack long （jacklong@freechat.world）,Mia
 创建时间: 2022-11-14
