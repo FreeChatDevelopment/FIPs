@@ -6,7 +6,7 @@ fip: 11
 类型: 机制
 作者: Jack long （jacklong@freechat.world），Mia
 创建时间: 2022-10-22
-修改时间: 2022-10-23
+修改时间: 2023-03-05
 ---
 
 [中文版](#1)
@@ -56,18 +56,11 @@ Freechat由FreechatDAO社区开发和运营。
 [0x171b1daefac13a0a3524fcb6beddc7b31e58e079](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079)
 
 ## Freechat Coin代币发行与流通
-Freechat Coin通过Uniswap、1inch等DEX市场进行流通交易，发行参数如下：
+Freechat Coin发行参数如下：
 - **代币名称**：Freechat Coin
 - **代币简称**：FCC
 - **市场流通数量（含社区、顾问持有数量）**：500,000,000
 - **初始流通定价**：1 FCC = 0.07 USDT
-- **可交易市场**：
-
-  [Freechat](https://freechat.world) 
-
-  [Uniswap](https://app.uniswap.org/#/swap) 
-
-  [1inch](https://app.1inch.io/)
 
 ## Freechat Coin代币持仓分布、条款和介绍
 FreechatDAO社区
@@ -83,16 +76,17 @@ FreechatDAO开发团队（FreeChatDevelopment）
 - **占比总量比例**：20%
 - **地址**：[0xffea96598a93a8523dbcf318fdef78f3d93892f0](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xffea96598a93a8523dbcf318fdef78f3d93892f0)
 - **释义**：用于奖励社区开发团队的开发贡献。
-- **锁仓限制**：2025-08-22解除限制
-- **限制条款**：锁仓期间不能进行操作及抛售。
+- **锁仓限制**：里程碑式解锁
+- **解锁信息**：
+  
 
 投资人
 - **持有FCC数量**：300,000,000  
 - **占比总量比例**：30%
 - **地址**：[0x2d8935fe725d4111d32e7f487978e3bdbf939d0a](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x2d8935fe725d4111d32e7f487978e3bdbf939d0a)
 - **释义**：FreechatDAO及Freechat的种子轮、天使轮投资人所持有代币。
-- **锁仓限制**：2025-08-22解除限制
-- **限制条款**：锁仓期间不能进行操作及抛售。
+- **锁仓限制**：线性释放
+- **解锁信息**：
 
 市场流通
 - **持有FCC数量**：200,000,000  
@@ -100,14 +94,21 @@ FreechatDAO开发团队（FreeChatDevelopment）
 - **FCC流动性提供地址**：[0xce340ed98522bbfc131ea0d2d29d2e2604992cce](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xce340ed98522bbfc131ea0d2d29d2e2604992cce)
 - **流动性池地址（USDT-FCC）**：[0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x03de8b89caa2bbe8bf09979d370aaf08a35cbfa1)
 - **流动性池地址（ETH-FCC）**：[0xf9c97668f97160b18c87a40ea26c0c87e9becc8d](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
+- **流动性池地址（USDC-FCC）**：[0xf9c97668f97160b18c87a40ea26c0c87e9becc8d](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0xf9c97668f97160b18c87a40ea26c0c87e9becc8d)
 - **释义**：DEX市场进行流通的代币
-- **限制条款**：社区代表多重签名限制。
 
 顾问
 - **持有FCC数量**：5,000,000  
 - **占比总量比例**：0.5%
 - **地址（社区持有）**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **释义**：用于帮助FreechatDAO和Freechat发展的贡献的奖励
+- **限制条款**：社区提案公示及使用。
+  
+社区团队激励
+- **持有FCC数量**：15,000,000  
+- **占比总量比例**：1.5%
+- **地址**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
+- **释义**：用于激励社区开发团队。
 - **限制条款**：社区提案公示及使用。
 
 ## 社区治理
