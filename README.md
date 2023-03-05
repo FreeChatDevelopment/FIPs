@@ -1,4 +1,5 @@
-#此存储库已废弃，所有提案将采用Gitbook进行公示。
+# 此存储库已废弃，所有提案将采用Gitbook进行公示。
+
 Fips提案库：https://fips.freechat.world/
 
 # FreechatDAO和Freechat改进提案（FIP）
