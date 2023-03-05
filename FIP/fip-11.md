@@ -64,8 +64,8 @@ Freechat Coin发行参数如下：
 
 ## Freechat Coin代币持仓分布、条款和介绍
 FreechatDAO社区
-- **持有FCC数量**：295,000,000  
-- **占比总量比例**：29.5%
+- **持有FCC数量**：284,998,000  
+- **占比总量比例**：28.4998%
 - **地址**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
 - **锁仓限制**：无
 - **释义**：社区所持有的代币用于社区治理和Freechat运营，发放社区开发团队薪酬。
@@ -78,7 +78,6 @@ FreechatDAO开发团队（FreeChatDevelopment）
 - **释义**：用于奖励社区开发团队的开发贡献。
 - **锁仓限制**：里程碑式解锁
 - **解锁信息**：
-  
 
 投资人
 - **持有FCC数量**：300,000,000  
@@ -108,7 +107,7 @@ FreechatDAO开发团队（FreeChatDevelopment）
 - **持有FCC数量**：15,000,000  
 - **占比总量比例**：1.5%
 - **地址**：[0x9e9839dffe5c779e232be11874f80ce3fb5a28f8](https://etherscan.io/token/0x171b1daefac13a0a3524fcb6beddc7b31e58e079?a=0x9e9839dffe5c779e232be11874f80ce3fb5a28f8)
-- **释义**：用于激励社区开发团队。
+- **释义**：用于帮助FreechatDAO和Freechat发展的贡献的奖励
 - **限制条款**：社区提案公示及使用。
 
 ## 社区治理
