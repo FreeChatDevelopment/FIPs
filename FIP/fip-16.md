@@ -98,7 +98,6 @@ https://github.com/FreeChatDevelopment/FIPs/blob/main/FIP/fip-16.md
 |2022-11-19|Devin      |Dev   |在职   |
 |2022-10-27|Jojo       |Dev   |在职   |
 |2022-11-19|TT         |PM    |在职   |
-|2022-11-23|Choki      |Ambassador|在职|
 |2022-12-01|toby       |dev   |在职   |
 |2022-12-03|August     |dev   |在职   |
 
